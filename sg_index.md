@@ -1,0 +1,32 @@
+---
+
+
+
+copyright:
+  years: 2017
+lastupdated: "2017-08-08"
+
+
+---
+
+{:shortdesc: .shortdesc}
+{:new_window: target="_blank"}
+
+# Getting started with security groups (Beta)
+
+You can use security groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
+{:shortdesc}
+
+If your account does not already have access to the security groups beta, you can request access by sending an email to [sgbeta@us.ibm.com](mailto:sgbeta@us.ibm.com).
+
+**Note:** The security groups beta is a preview of an unreleased service. It is not supported for production use. When the beta period ends, your security groups and all resources associated with it might need to be removed. Please contact your sales representative with questions or feedback.
+
+Complete the following tasks to get started and learn more about security groups.
+
+| Get Started       |
+|:------------------|
+| __ 1. Learn about the [security groups](sg_overview.html) feature. |
+| __ 2. Review the [guidelines](sg_guidelines.html), [network](sg_network_config.html), and [performance](sg_perf_limits.html) considerations.|
+| __ 3. [Provision](sg_provisioning.html) virtual server instances with security groups. You can also [add security groups](sg_creating.html) to existing virtual server instances if they are in an appropriate data center.  |
+{: caption="Table 1. Getting started with security groups" caption-side="top"} 
+
