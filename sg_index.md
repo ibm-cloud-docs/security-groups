@@ -30,3 +30,5 @@ Complete the following tasks to get started and learn more about security groups
 | __ 3. [Provision](sg_provisioning.html) virtual server instances with security groups. You can also [add security groups](sg_creating.html) to existing virtual server instances if they are in an appropriate data center.  |
 {: caption="Table 1. Getting started with security groups" caption-side="top"} 
 
+
+
