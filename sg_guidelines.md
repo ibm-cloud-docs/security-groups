@@ -25,7 +25,7 @@ Consider the following guidelines when you work with security groups:
 * Changes to security group rules are automatically applied and can be modified at any time.
 * The order of rules within a security group does not matter. The priority always falls to the least restrictive rule.
 * Security groups do not override operating system firewalls on the virtual server. If a more restrictive firewall exists on the operating system than what's applied by security groups, the operating system rules are still enforced.
-* If your virtual server needs access to internal services, such as an update server, network attached storage(NAS), or advanced monitoring, ensure that the security group rules accommodate traffic for those internal services. For more information, see [What IP ranges do I allow through the firewall?](https://knowledgelayer.softlayer.com/faqs/6#154) and [Accessing Block Storage on Linux](https://knowledgelayer.softlayer.com/procedure/block-storage-linux).
+* If your virtual server needs access to internal services, such as an update server, network attached storage(NAS), or advanced monitoring, ensure that the security group rules accommodate traffic for those internal services. For more information, see [What IP ranges do I allow through the firewall? ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://knowledgelayer.softlayer.com/faqs/6#154) and [Accessing Block Storage on Linux ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://knowledgelayer.softlayer.com/procedure/block-storage-linux).
 
 ## Interfaces
 
