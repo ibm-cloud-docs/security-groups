@@ -16,10 +16,10 @@ lastupdated: "2017-08-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Security Group API reference (Beta)
+# Security Group API reference
 {: #api-reference} 
 
-The SoftLayer® Application Programming Interface (API) is the development interface that gives developers and system administrators direct 
+The SoftLayer&reg; Application Programming Interface (API) is the development interface that gives developers and system administrators direct 
 interaction with SoftLayer's backend system. 
 {:shortdesc}
 

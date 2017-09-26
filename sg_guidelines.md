@@ -12,7 +12,7 @@ lastupdated: "2017-08-08"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Security groups guidelines (Beta)
+# Security groups guidelines
 Consider the following guidelines when you work with security groups:
 
 ## Rules
@@ -24,7 +24,7 @@ Consider the following guidelines when you work with security groups:
 * Users with the Manage Security Groups privilege can add, edit, or delete rules in a security group. 
 * Changes to security group rules are automatically applied and can be modified at any time.
 * The order of rules within a security group does not matter. The priority always falls to the least restrictive rule.
-* Security groups do not override operating system firewalls on the virtual server. If a more restrictive firewall exists on the operating system than what's applied by security groups, the operating system rules are still enforced.
+* Security groups do not override operating system firewalls on the virtual server. If a more restrictive firewall exists on the operating system than what is applied by security groups, the operating system rules are still enforced.
 * If your virtual server needs access to internal services, such as an update server, network attached storage(NAS), or advanced monitoring, ensure that the security group rules accommodate traffic for those internal services. For more information, see [What IP ranges do I allow through the firewall? ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://knowledgelayer.softlayer.com/faqs/6#154) and [Accessing Block Storage on Linux ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://knowledgelayer.softlayer.com/procedure/block-storage-linux).
 
 ## Interfaces
@@ -34,9 +34,8 @@ Consider the following guidelines when you work with security groups:
 * The first time that you assign an existing security group to a network interface (public or private), a restart is required for each interface.  However, if the public and private interfaces were assigned to the security group at the same time, then only one restart is required.  After a restart, changes are automatically applied.
 
 ## Access
-
-* During the beta period for security groups, only accounts that are participating in the beta can view and work with security groups. 
-* All users within an account that has security groups enabled can read, attach, and detach security groups on the virtual server instances to which they have access. Only users with the Manage Security Groups privilege in Network Permissions can create, update, and delete security groups.
+ 
+* All users within an account can read, attach and detach security groups on the virtual server instances to which they have access. Only users with the Manage Security Groups privilege in Network Permissions can create, update and delete security groups.
 * You cannot assign security groups to bare metal servers.
 
 ## Deletion

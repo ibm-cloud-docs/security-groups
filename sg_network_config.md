@@ -12,7 +12,7 @@ lastupdated: "2017-08-10"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Existing network configurations and security groups (Beta)
+# Existing network configurations and security groups
 
 A security group augments any existing network configuration. Therefore, a security group cannot span across networks that cannot communicate 
 with one another. 
@@ -25,8 +25,21 @@ If your account is enabled for custom private addressing (CPA) as well as securi
 
 Security groups are currently available in the following data centers:
 
-| Data Centers      |
+| Data Centers      | 
 |:------------------|
+| CHE01             |
+| DAL12             |
 | DAL13             |
+| HKG02             |
 | LON04             |
+| MEL01             |
+| MIL01             |
+| OSL01             |
+| SAO01             |
+| SJC04             |
+| SYD01             |
+| SYD04             |
+| TOR01             |
+| WDC06             |
+| WDC07             |
 {: caption="Table 2. Data centers that support security groups" caption-side="top"} 

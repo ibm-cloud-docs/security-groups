@@ -13,7 +13,7 @@ lastupdated: "2017-04-27"
 {:new_window: target="_blank"}
 
 
-# Creating security groups and rules (Beta)
+# Creating security groups and rules
 {: #creating-security-groups}
 
 You can create a security group and its associated rules and then assign it to the interfaces of one or more virtual server instances to enable a virtual firewall.
