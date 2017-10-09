@@ -1,0 +1,16 @@
+---
+
+
+
+copyright:
+  years: 2017
+lastupdated: "2017-08-08"
+
+
+---
+
+{:shortdesc: .shortdesc}
+{:new_window: target="_blank"}
+
+# Fazer upload de um arquivo de imagem
+Esta pasta contém imagens para a subcoleção de grupos de segurança{:shortdesc}
