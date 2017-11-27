@@ -27,38 +27,23 @@ Security groups are currently available in the following data centers:
 
 | Data Centers      | 
 |:------------------|
-| AMS03             |
 | CHE01             |
-| DAL05             |
-| DAL06             |
 | DAL12             |
 | DAL13             |
-| FRA02             |
 | HKG02             |
 | HOU02             |
-<<<<<<< Updated upstream
-| LON02             |
-=======
-<<<<<<< HEAD
-=======
-| LON02             |
->>>>>>> origin/master
->>>>>>> Stashed changes
 | LON04             |
 | MEL01             |
 | MEX01             |
 | MIL01             |
 | MON01             |
 | OSL01             |
-| PAR01             |
 | SAO01             |
 | SJC04             |
-| SNG01             |
 | SYD01             |
 | SYD04             |
 | TOK02             |
 | TOR01             |
-| WDC01             |
 | WDC06             |
 | WDC07             |
 {: caption="Table 2. Data centers that support security groups" caption-side="top"} 
