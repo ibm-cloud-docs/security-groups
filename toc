@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="security-groups" audience="security" href="/docs/infrastructure/security-groups/sg_index.html"}
+{: .toc subcollection="security-groups" audience="network" href="/docs/infrastructure/security-groups/sg_index.html"}
 Security Groups
   
     {: .navgroup id="learn"}
