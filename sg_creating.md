@@ -36,10 +36,10 @@ To create a security group rule, complete the following steps:
 {:shortdesc}
 
 1. In the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/) navigation, select **Security -> Network Security -> Security Groups**.
-2. On the Security Groups page, click a security group name to open the Details page.
-3. On the Security Group details page, enter all appropriate actions (such as direction, IP type, protocol, and source/destination information). When finished, click **Create Rule**.
+2. On the Security Groups page, click a security group name to open the Details page and select **Create Rule**.
+3. On the Create Rule page, enter all appropriate attributes (such as direction, IP type, protocol, and source/destination information). When finished, click **Ok**.
 
-**Note**: For the source and destination fields, you can specify either Classless Inter-Domain Routing (CIDR) block or security group. 
+**Note**: Selecting the optional source or destination fields will restrict the new rule so it only applies to traffic to/from the specified source/destination.  Source and destination fields can specify either a Classless Inter-Domain Routing (CIDR) block or a security group. 
 
 A CIDR block facilitates routing of a block of IP addresses.  If you select CIDR as the type, then you must specify an IP address range. 
 
