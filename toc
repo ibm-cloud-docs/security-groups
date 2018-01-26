@@ -11,6 +11,7 @@ Security Groups
     sg_network_config.md
     sg_perf_limits.md
     naas-overview.md
+    [Explore Firewalls](https://console.bluemix.net/docs/infrastructure/fortigate-10g/explore-firewalls.html#explore-firewalls)
     {: .navgroup-end}
     
     {: .navgroup id="howto"}
