@@ -30,6 +30,7 @@ Security groups are currently available in the following data centers:
 | AMS01             |
 | AMS03             |
 | CHE01             |
+| DAL01             |
 | DAL05             |
 | DAL06             |
 | DAL12             |
@@ -39,6 +40,7 @@ Security groups are currently available in the following data centers:
 | HOU02             |
 | LON02             |
 | LON04             |
+| LON06             |
 | MEL01             |
 | MEX01             |
 | MIL01             |
@@ -46,6 +48,7 @@ Security groups are currently available in the following data centers:
 | OSL01             |
 | PAR01             |
 | SAO01             |
+| SEA01             |
 | SEO01             |
 | SJC01             |
 | SJC03             |
