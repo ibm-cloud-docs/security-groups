@@ -18,7 +18,7 @@ You can use Security Groups to enact a set of IP filter rules that define how to
 {:shortdesc}
 
 ## Pain Points and Solutions
-There are a few difficult network security scenarios you might encounter that can be alleviated by using Seurity Groups.
+There are a few difficult network security scenarios you might encounter that can be alleviated by using Security Groups.
 
 ### Security from the start
 **Pain point:** Customers want to secure their virtual server as soon as it is provisioned. They want complete control over the traffic passing through the server from the point when it was provisioned.
