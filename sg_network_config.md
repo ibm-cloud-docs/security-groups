@@ -33,6 +33,7 @@ Security groups are currently available in the following data centers:
 | DAL01             |
 | DAL05             |
 | DAL06             |
+| DAL10             |
 | DAL12             |
 | DAL13             |
 | FRA02             |
