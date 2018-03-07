@@ -3,8 +3,8 @@
 
 
 copyright:
-  years: 2017
-lastupdated: "2017-08-11"
+  years: 2017,2018
+lastupdated: "2018-02-28"
 
 
 ---
@@ -28,7 +28,7 @@ lastupdated: "2017-08-11"
 <!-- The short description section should include the service long name and "Bluemix" for search optimization. Example short description: -->
 
 <!-- Add a heading and content for how to get help and support. Use this template for beta and GA services:  -->
-# Getting help and support 
+# Getting Help and Support 
 {: #gettinghelp}
 
 Last updated: 16 August 2017
@@ -39,9 +39,9 @@ If you have problems or questions when using security groups for {{site.data.key
 
 When using the forums to ask a question, tag your question so that it is seen by the {{site.data.keyword.Bluemix_notm}} development teams.
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
-* If you have technical questions about security groups for virtual servers, post your question on [Stack Overflow ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://stackoverflow.com/search?q=network-security-groups+ibm-bluemix){:new_window} and tag your question with "ibm-bluemix" and "network-security-groups".
+* If you have technical questions about security groups for virtual servers, post your question on [Stack Overflow ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window} and tag your question with "ibm-cloud" and "network-security-groups".
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* For questions about the service and getting started instructions, use the [IBM developerWorks dW Answers ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=bluemix){:new_window} forum. Include the  "security groups" and "bluemix" tags.
+* For questions about the service and getting started instructions, use the [IBM developerWorks dW Answers ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window} forum. Include the  "security groups" and "ibm-cloud" tags.
 
 See [Getting help](https://console.bluemix.net/docs/support/index.html#getting-help) for more details about using the forums.
 
