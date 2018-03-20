@@ -33,6 +33,7 @@ Security groups are currently available in the following data centers:
 | DAL01             |
 | DAL05             |
 | DAL06             |
+| DAL09             |
 | DAL10             |
 | DAL12             |
 | DAL13             |
@@ -60,6 +61,7 @@ Security groups are currently available in the following data centers:
 | TOK02             |
 | TOR01             |
 | WDC01             |
+| WDC04             |
 | WDC06             |
 | WDC07             |
 {: caption="Table 2. Data centers that support security groups" caption-side="top"} 
