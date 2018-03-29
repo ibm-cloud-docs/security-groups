@@ -11,14 +11,23 @@ Security Groups
     sg_network_config.md
     sg_perf_limits.md
     naas-overview.md
-    [Explore Firewalls](https://console.bluemix.net/docs/infrastructure/fortigate-10g/explore-firewalls.html#explore-firewalls)
+    [Explore Firewalls](../fortigate-10g/explore-firewalls.html)
     {: .navgroup-end}
     
     {: .navgroup id="howto"}
-    sg_provisioning.md
     sg_creating.md 	
     sg_managing.md
+    
+    {: .topicgroup}
+	Creating and Managing a Custom Security Group
+		custom-security-group.md
+		csg_create.md
+		csg_rule.md
+		csg_assign_instances.md
+		csg_edit.md
     {: .navgroup-end}
+
+    add-existing-sg.md
     
     {: .navgroup id="reference"}
     sg_api.md
