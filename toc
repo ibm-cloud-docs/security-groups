@@ -18,6 +18,8 @@ Security Groups
     sg_creating.md 	
     sg_managing.md
     
+    add-existing-sg.md
+    
     {: .topicgroup}
 	Creating and Managing a Custom Security Group
 		custom-security-group.md
@@ -27,7 +29,7 @@ Security Groups
 		csg_edit.md
     {: .navgroup-end}
 
-    add-existing-sg.md
+
     
     {: .navgroup id="reference"}
     sg_api.md
