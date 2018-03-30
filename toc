@@ -28,8 +28,6 @@ Security Groups
 		csg_assign_instances.md
 		csg_edit.md
     {: .navgroup-end}
-
-
     
     {: .navgroup id="reference"}
     sg_api.md
