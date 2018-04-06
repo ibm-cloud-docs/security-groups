@@ -17,17 +17,18 @@ Security Groups
     {: .navgroup id="howto"}
     sg_creating.md 	
     sg_managing.md
-    
-    {: .topicgroup}
-	Creating and Managing a Custom Security Group
-		custom-security-group.md
-		csg_create.md
-		csg_rule.md
-		csg_assign_instances.md
-		csg_edit.md
-    {: .navgroup-end}
-
+    sg_steps.md
     add-existing-sg.md
+		
+    {: .topicgroup}
+    Step-by-step: Creating and Managing a Custom Security Group
+        custom-security-group.md
+        csg_create.md
+        csg_rule.md
+        csg_assign_instances.md
+        csg_edit.md
+    
+    {: .navgroup-end}
     
     {: .navgroup id="reference"}
     sg_api.md

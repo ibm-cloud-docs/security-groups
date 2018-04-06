@@ -26,7 +26,7 @@ Once you've created your Security Group object, you can modify its parameters an
 2. Click the ![More icon](./images/more_icon.jpg) icon of the Security Group object you wish to assign instances to, then select **Edit Details**.
 3.	Modify the name or description as required, then click **Edit Group** to apply the changes.
 
-## Editing SG rules
+## Editing Security Group rules
 
 1. From the **Security** tab on the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window}, under **Network Security** select **Security Groups**.
 2.	Select the Security Group object you want to modify.
