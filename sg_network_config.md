@@ -38,6 +38,7 @@ Security groups are currently available in the following data centers:
 | DAL12             |
 | DAL13             |
 | FRA02             |
+| FRA04             |
 | HKG02             |
 | HOU02             |
 | LON02             |
