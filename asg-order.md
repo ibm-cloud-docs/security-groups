@@ -31,7 +31,7 @@ To order a virtual server instance and assign a security group, perform the foll
 	* Specs
 	* Network port options. 
 
-7. From **Configure Security Groups**, select the desired Security Group to be applied. The associated rules with each Securtiy Group can be displayed by clicking the **View Rules** link. 
+7. From **Configure Security Groups**, select the desired Security Group to be applied. The associated rules with each Security Group can be displayed by clicking the **View Rules** link. 
 
 	![Custom Security Group](./images/sgs.jpg)
 
