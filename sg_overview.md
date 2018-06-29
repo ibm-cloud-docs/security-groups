@@ -29,7 +29,7 @@ rules that you add to a security group are known as *security group rules*.
 Security groups are implemented on the hypervisor hosting the virtual server.
 
 ## Security groups provided by IBM
-You can assign any of the following security groups that are provided by IBM® to the network 
+You can assign any of the following security groups that are provided by IBM to the network 
 interfaces of your virtual server instances:
 
 * *allow_ssh*: This security group defines the IP rules that allow ingress TCP traffic on the SSH port only (22/TCP).
@@ -39,7 +39,7 @@ interfaces of your virtual server instances:
 * *allow_all*: This security group defines the IP rules that allow all ingress traffic on all ports.
 
 ## Security Groups and Audit Logs
-All security group interactions are logged to an account's [audit log]("https://console.bluemix.net/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog"). Audit log entries track specific security group changes and which user requested the change. Logs are written for the following interactions:
+All security group interactions are logged to an account's  [audit log](https://console.bluemix.net/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog). Audit log entries track specific security group changes and which user requested the change. Logs are written for the following interactions:
 * A security group is added to or removed from a virtual server's network interface
 * A security group's rules are changed by add rule, edit rule or remove rule
 
