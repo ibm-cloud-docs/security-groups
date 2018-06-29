@@ -17,6 +17,7 @@ lastupdated: "2017-08-10"
 {:table: .aria-labeledby="caption"}
 
 # Ordering a Security Group
+
 To order a virtual server instance and assign a security group, perform the following procedure:
 
 1. From your browser, open [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/) and log in to your account.
