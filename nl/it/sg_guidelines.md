@@ -12,7 +12,7 @@ lastupdated: "2017-08-08"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Linee guida per i gruppi di sicurezza 
+# Linee guida per i gruppi di sicurezza
 Quando lavori con i gruppi di sicurezza, considera le seguenti linee guida:
 
 ## Regole
@@ -24,7 +24,8 @@ Quando lavori con i gruppi di sicurezza, considera le seguenti linee guida:
 * Gli utenti con il privilegio Gestisci gruppi di sicurezza possono aggiungere, modificare o eliminare le regole in un gruppo di sicurezza. 
 * Le modifiche alle regole del gruppo di sicurezza vengono applicate automaticamente e possono essere effettuate in qualsiasi momento.
 * L'ordine delle regole all'interno di un gruppo di sicurezza non ha rilevanza. La priorità spetta sempre alla regola meno restrittiva.
-* I gruppi di sicurezza non sovrascrivono i firewall del sistema operativo sul server virtuale. Se nel sistema operativo esiste un firewall più restrittivo rispetto a quanto applicato dai gruppi di sicurezza, vengono ancora applicate le regole del sistema operativo. 
+* Le regole sono con stato. Le connessioni stabilite prima di una modifica al gruppo di sicurezza non saranno modificate. Le nuove connessioni si atterranno alle regole esistenti al momento in cui viene stabilita la connettività.
+* I gruppi di sicurezza non sovrascrivono i firewall del sistema operativo sul server virtuale. Se nel sistema operativo esiste un firewall più restrittivo rispetto a quanto applicato dai gruppi di sicurezza, vengono ancora applicate le regole del sistema operativo.
 * Se il tuo server virtuale deve accedere a servizi interni, come un server di aggiornamento, un NAS (Network Attached Storage) o un monitoraggio avanzato, assicurati che le regole del gruppo di sicurezza soddisfino il traffico per i servizi interni. Per ulteriori informazioni, vedi [What IP ranges do I allow through the firewall? ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://knowledgelayer.softlayer.com/faqs/6#154) e [Accessing Block Storage on Linux ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://knowledgelayer.softlayer.com/procedure/block-storage-linux).
 
 ## Interfacce
@@ -35,7 +36,7 @@ Quando lavori con i gruppi di sicurezza, considera le seguenti linee guida:
 
 ## Accesso
  
-* Tutti gli utenti di un account possono leggere, collegare e scollegare i gruppi di sicurezza nelle istanze del server virtuale a cui hanno accesso. Solo gli utenti che dispongono del privilegio Gestisci gruppi di sicurezza in Autorizzazioni di rete possono creare, aggiornare ed eliminare i gruppi di sicurezza. 
+* Tutti gli utenti di un account possono leggere, collegare e scollegare i gruppi di sicurezza nelle istanze del server virtuale a cui hanno accesso. Solo gli utenti che dispongono del privilegio Gestisci gruppi di sicurezza in Autorizzazioni di rete possono creare, aggiornare ed eliminare i gruppi di sicurezza.
 * Non puoi assegnare gruppi di sicurezza a server bare metal.
 
 ## Eliminazione

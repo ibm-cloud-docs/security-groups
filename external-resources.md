@@ -30,3 +30,11 @@ These resources are created by IBM and some of our partners and customers.
 * [**Blog Post: Take control of your cloud network with security groups**](https://www.ibm.com/blogs/bluemix/2017/11/security-groups/)
 
     *"In a cloud environment, you must consider 'who talks to whom.' One way to regulate this conversation is through security groups."*
+    
+* [**Blog Post: Keep your cloud safe with IBM network security services**](https://www.ibm.com/blogs/bluemix/2017/09/keep-cloud-safe-ibm-network-security-services/)
+
+    *"When it comes to securing your network, there’s no such thing as a one-size-fits-all approach. As organizations increasingly leverage critical data and applications in the cloud, you might stop and wonder which security option best suits your needs of your network."*
+    
+* [**White Paper: Securing Your Cloud Environment with Firewalls**](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=KUS12407USEN&)
+
+	*"Firewalls are essential to protecting your cloud infrastructure from external threats and supporting your compliance requirements. Security is a shared responsibility between IBM and our customers. It is critical to ensure that you have the right firewall in place to secure your workload in the cloud."*

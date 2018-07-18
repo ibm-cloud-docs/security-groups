@@ -10,16 +10,29 @@
     sg_guidelines.md
     sg_network_config.md
     sg_perf_limits.md
+    naas-overview.md
+    [ファイアウォールの探索](../fortigate-10g/explore-firewalls.html)
     {: .navgroup-end}
     
     {: .navgroup id="howto"}
-    sg_provisioning.md
     sg_creating.md 	
     sg_managing.md
+    sg_steps.md
+    add-existing-sg.md
+		
+    {: .topicgroup}
+    ステップバイステップ: カスタム・セキュリティー・グループの作成と管理
+        custom-security-group.md
+        csg_create.md
+        csg_rule.md
+        csg_assign_instances.md
+        csg_edit.md
+    
     {: .navgroup-end}
     
     {: .navgroup id="reference"}
     sg_api.md
+    external-resources.md
     {: .navgroup-end}
 
     {: .navgroup id="help"}

@@ -15,7 +15,7 @@ lastupdated: "2017-08-10"
 # Gestión de grupos de seguridad
 {: #managing-sg}
 
-Puede gestionar grupos de seguridad utilizando la página Grupos de seguridad o la página Detalles del dispositivo en el Portal de cliente.
+Puede gestionar grupos de seguridad utilizando la página Grupos de seguridad o la página Detalles del dispositivo en el Portal de clientes.
 {:shortdesc}
 
 ## Gestión de grupos de seguridad desde la página Grupos de seguridad
@@ -23,7 +23,7 @@ Puede gestionar grupos de seguridad utilizando la página Grupos de seguridad o 
 Para gestionar grupos de seguridad desde la página Grupos de seguridad, siga estos pasos:
 {:shortdesc}
 
-1. Desde la navegación [Portal de cliente ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
+1. Desde la navegación del [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
 2. En la sección Grupo de seguridad, puede llevar a cabo varias tareas de gestión.
      * Visualice una lista de grupos de seguridad.
      * Cree un grupo.
@@ -36,7 +36,7 @@ Para gestionar grupos de seguridad desde la página Grupos de seguridad, siga es
 Para gestionar reglas de grupos de seguridad desde la página Grupos de seguridad, siga estos pasos:
 {:shortdesc}
 
-1. Desde la navegación [Portal de cliente ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
+1. Desde la navegación del [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
 2. Pulse un nombre de grupo de seguridad para abrir la página Detalles.
 3. En la sección Detalles del grupo de seguridad, puede llevar a cabo varias tareas de gestión.
      * Visualice una lista de reglas definidas para el grupo de seguridad.
@@ -52,7 +52,7 @@ Para gestionar reglas de grupos de seguridad desde la página Grupos de segurida
 Para gestionar grupos de seguridad desde la página Detalles del dispositivo, siga estos pasos:
 {:shortdesc}
 
-1. Desde [Portal de cliente ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Dispositivos -> Lista de dispositivos**.
+1. Desde el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Dispositivos -> Lista de dispositivos**.
 2. Seleccione el nombre del dispositivo del servidor virtual solicitado. Se abrirá la página Detalles del dispositivo.
 3. En la página Detalles del dispositivo, asegúrese de estar en el separador **Configuración**.
 4. En la sección Grupo de seguridad, puede llevar a cabo varias tareas de gestión.

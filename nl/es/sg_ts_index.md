@@ -3,8 +3,8 @@
 
 
 copyright:
-  years: 2017
-lastupdated: "2017-08-11"
+  years: 2017,2018
+lastupdated: "2018-02-28"
 
 
 ---
@@ -39,9 +39,9 @@ Si tiene problemas o dudas al utilizar los grupos de seguridad para {{site.data.
 
 Al utilizar los foros para formular una pregunta, añada una etiqueta para que la vean los equipos de desarrollo de {{site.data.keyword.Bluemix_notm}}.
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
-* Si tiene preguntas técnicas sobre grupos de seguridad para servidores virtuales, publique la pregunta en [Stack Overflow ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://stackoverflow.com/search?q=network-security-groups+ibm-bluemix){:new_window} y añada las etiquetas "ibm-bluemix" y "network-security-groups".
+* Si tiene preguntas técnicas sobre grupos de seguridad para servidores virtuales, publique la pregunta en [Stack Overflow ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window} y añada las etiquetas "ibm-cloud" y "network-security-groups".
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* Para preguntas sobre el servicio y para obtener instrucciones de iniciación, utilice el foro [IBM developerWorks dW Answers ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=bluemix){:new_window}. Incluya las etiquetas  "security groups" y "bluemix".
+* Para formular preguntas sobre el servicio y obtener instrucciones de iniciación, utilice el foro [IBM developerWorks dW Answers ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window}. Incluya las etiquetas "security groups" e "ibm-cloud".
 
 Consulte [Obtención de ayuda](https://console.bluemix.net/docs/support/index.html#getting-help) para obtener más detalles sobre el uso de los foros.
 

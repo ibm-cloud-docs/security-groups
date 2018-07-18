@@ -24,7 +24,7 @@ Puede crear un grupo de seguridad y las reglas asociadas correspondientes y, a c
 Para crear un grupo de seguridad, siga estos pasos:
 {:shortdesc}
  
-1. En la navegación [Portal de cliente ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
+1. En la navegación del [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
 2. En la página Grupos de seguridad, pulse **Crear grupo**.
 3. Introduzca un nombre y una descripción para el grupo de seguridad y vuelva a pulsar **Crear grupo**.
 
@@ -35,11 +35,11 @@ Para crear un grupo de seguridad, siga estos pasos:
 Para crear una regla de grupo de seguridad, siga estos pasos:
 {:shortdesc}
 
-1. En la navegación [Portal de cliente ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
-2. En la página Grupos de seguridad, pulse un nombre de grupo de seguridad para abrir la página Detalles.
-3. En la página Detalles del grupo de seguridad, introduzca todas las acciones pertinentes (como dirección, tipo de IP, protocolo e información de origen y destino). Cuando haya terminado, pulse **Crear regla**.
+1. En la navegación del [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
+2. En la página Grupos de seguridad, pulse un nombre de grupo de seguridad para abrir la página Detalles y seleccione **Crear regla**.
+3. En la página Crear regla, introduzca todos los atributos pertinentes (como dirección, tipo de IP, protocolo e información de origen y destino). Cuando haya terminado, pulse **Aceptar**.
 
-**Nota**: para los campos de origen y destino, puede especificar un bloque de direccionamiento entre dominios sin clases (CIDR) o un grupo de seguridad. 
+**Nota**: La selección de los campos de origen o de destino opcionales restringirán la regla nueva de forma que solo se aplique a tráfico a/desde el origen/destino especificado.  Los campos de origen y de destino pueden especificar un bloque de direccionamiento entre dominios sin clases (CIDR) o un grupo de seguridad. 
 
 Un bloque CIDR facilita el direccionamiento de un bloque de direcciones IP.  Si selecciona como tipo el bloque CIDR, debe especificar un intervalo de direcciones IP. 
 

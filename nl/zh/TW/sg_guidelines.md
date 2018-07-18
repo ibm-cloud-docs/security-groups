@@ -24,6 +24,7 @@ lastupdated: "2017-08-08"
 * 具備「管理安全群組」專用權的使用者，可以在安全群組中新增、編輯或刪除規則。 
 * 會自動套用對安全群組規則的變更，並且可以隨時修改。
 * 安全群組中的規則順序不重要。優先順序一律會落在限制最少的規則。
+* 規則是有狀態的。在安全群組變更之前所建立的連線將不會改變。新連線將遵守建立連線時已存在的規則。
 * 安全群組在虛擬伺服器上不會置換作業系統防火牆。如果作業系統上存在的防火牆比安全群組套用內容的限制更多，仍會強制執行作業系統規則。
 * 如果您的虛擬伺服器需要存取內部服務，例如更新伺服器、網路連接儲存體 (NAS) 或進階監視，請確定安全群組規則能配合那些內部服務的資料流量。如需相關資訊，請參閱 [What IP ranges do I allow through the firewall? ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://knowledgelayer.softlayer.com/faqs/6#154) 及 [Accessing Block Storage on Linux ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://knowledgelayer.softlayer.com/procedure/block-storage-linux)。
 

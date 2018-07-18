@@ -12,7 +12,7 @@ lastupdated: "2017-08-10"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Gestione dei gruppi di sicurezza 
+# Gestione dei gruppi di sicurezza
 {: #managing-sg}
 
 Puoi gestire i gruppi di sicurezza utilizzando la pagina Gruppi di sicurezza o la pagina Dettagli del dispositivo nel Portale del cliente.

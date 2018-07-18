@@ -19,7 +19,8 @@ lastupdated: "2017-08-10"
 # Referência de API do Grupo de Segurança
 {: #api-reference} 
 
-A Interface de Programação de Aplicações (API) do SoftLayer&reg; é a interface de desenvolvimento que fornece aos desenvolvedores e administradores do sistema a interação direta com o sistema backend do SoftLayer.{:shortdesc}
+A Interface de Programação de Aplicações (API) do SoftLayer&reg; é a interface de desenvolvimento que fornece aos desenvolvedores e administradores do sistema a interação direta com o sistema backend do SoftLayer. 
+{:shortdesc}
 
 O SoftLayer API (SLAPI) impulsiona muitos dos recursos no Customer Portal, que
 geralmente significa que se uma interação é possível no Customer Portal, ela também pode ser executada na API. Como é possível interagir programaticamente
@@ -37,5 +38,5 @@ SoftLayer Development Network:
 * [API *SoftLayer_Virtual_Guest_Network_Component* ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest_Network_Component){: new_window}
 
 Também é possível usar o SoftLayer API Python Client para interagir com grupos de segurança. Para obter mais informações, consulte os links a seguir:
-* [SoftLayer API Python Client: trabalhando com servidores virtuais ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](http://softlayer-python.readthedocs.io/en/latest/cli/vs.html){: new_window}
+* [SoftLayer API Python Client: trabalhando com Virtual Servers ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](http://softlayer-python.readthedocs.io/en/latest/cli/vs.html){: new_window}
 * [Exemplos do Python para softlayer_network_securitygroup ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://softlayer.github.io/classes/softlayer_network_securitygroup/){: new_window}

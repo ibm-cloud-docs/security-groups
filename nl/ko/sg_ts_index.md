@@ -2,9 +2,9 @@
 
 
 
-저작권:
-  연도: 2017년
-마지막 업데이트 날짜: "2017-08-11"
+copyright:
+  years: 2017,2018
+lastupdated: "2018-02-28"
 
 
 ---
@@ -39,9 +39,9 @@
 
 포럼을 사용하여 질문하는 경우 {{site.data.keyword.Bluemix_notm}} 개발 팀이 볼 수 있도록 질문에 태그를 지정하십시오.
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
-* 가상 서버의 보안 그룹에 대한 기술적인 질문이 있는 경우 [스택 오버플로우 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://stackoverflow.com/search?q=network-security-groups+ibm-bluemix){:new_window}에 질문을 게시하고 해당 질문에 "ibm-bluemix" 및 "network-security-groups" 태그를 지정하십시오.
+* Virtual Server의 보안 그룹에 대한 기술적인 질문이 있는 경우 [스택 오버플로우 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window}에 질문을 게시하고 해당 질문에 "ibm-cloud" 및 "network-security-groups" 태그를 지정하십시오.
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* 서비스 및 시작하기 지시사항에 대한 질문이 있는 경우 [IBM developerWorks dW Answers ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=bluemix){:new_window} 포럼을 사용하십시오. "security groups" 및 "bluemix" 태그를 포함시키십시오.
+* 서비스 및 시작하기 지시사항에 대한 질문이 있는 경우 [IBM developerWorks dW Answers ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window} 포럼을 사용하십시오. "security groups" 및 "ibm-cloud" 태그를 포함시키십시오.
 
 포럼 사용에 대한 세부사항은 [도움 받기](https://console.bluemix.net/docs/support/index.html#getting-help)를 참조하십시오.
 

@@ -27,19 +27,43 @@ Sicherheitsgruppen stehen zurzeit in den folgenden Rechenzentren zur Verfügung:
 
 | Rechenzentren      | 
 |:------------------|
+| AMS01             |
+| AMS03             |
 | CHE01             |
+| DAL01             |
+| DAL05             |
+| DAL06             |
+| DAL09             |
+| DAL10             |
 | DAL12             |
 | DAL13             |
+| FRA02             |
+| FRA04             |
+| FRA05             |
 | HKG02             |
+| HOU02             |
+| LON02             |
 | LON04             |
+| LON06             |
 | MEL01             |
+| MEX01             |
 | MIL01             |
+| MON01             |
 | OSL01             |
+| PAR01             |
 | SAO01             |
+| SEA01             |
+| SEO01             |
+| SJC01             |
+| SJC03             |
 | SJC04             |
+| SNG01             |
 | SYD01             |
 | SYD04             |
+| TOK02             |
 | TOR01             |
+| WDC01             |
+| WDC04             |
 | WDC06             |
 | WDC07             |
-{: caption="Tabelle 2. Rechenzentren, die Sicherheitsgruppen unterstützen" caption-side="top"} 
+{: caption="Tabelle 2. Rechenzentren, die Sicherheitsgruppen unterstützen " caption-side="top"} 

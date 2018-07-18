@@ -12,7 +12,7 @@ lastupdated: "2017-08-10"
 {:new_window: target="_blank"}
 
 
-# Provisioning di un server virtuale con i gruppi di sicurezza 
+# Provisioning di un server virtuale con i gruppi di sicurezza
 
 Per iniziare, ordina un'istanza del server
 virtuale e assegna un gruppo di sicurezza.

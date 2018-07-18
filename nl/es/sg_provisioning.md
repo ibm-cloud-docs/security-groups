@@ -17,7 +17,7 @@ lastupdated: "2017-08-10"
 Para empezar, solicite una instancia de servidor virtual y asigne un grupo de seguridad.
 {:shortdesc}
  
-1. Desde el navegador, abra [Portal de cliente ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/) e inicie sesión en su cuenta.
+1. En el navegador, abra el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/) e inicie sesión en su cuenta.
 2. Localice la sección **Pedido** y pulse **Dispositivos**.
 3. En la página Dispositivos, pulse **Por hora** o **Mensualmente** para elegir una de las ofertas de servidor virtual.
 4. En la página Configurar pedido de servidor de nube, debe seleccionar un centro de datos que dé soporte a grupos de seguridad.

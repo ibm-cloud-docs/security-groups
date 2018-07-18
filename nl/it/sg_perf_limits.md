@@ -12,7 +12,7 @@ lastupdated: "2017-08-10"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Limitazioni delle prestazioni per i gruppi di sicurezza 
+# Limitazioni delle prestazioni per i gruppi di sicurezza
 
 Esistono alcune limitazioni delle prestazioni per i gruppi di sicurezza e le relative regole associate. 
 {:shortdesc}

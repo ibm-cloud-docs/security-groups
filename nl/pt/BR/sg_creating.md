@@ -36,10 +36,10 @@ Para criar uma regra de grupo de segurança, conclua as etapas a seguir:
 {:shortdesc}
 
 1. Na navegação do [Customer Portal ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/), selecione **Segurança -> Segurança de rede -> Grupos de segurança**.
-2. Na página Grupos de segurança, clique em um nome de grupo de segurança para abrir a página Detalhes.
-3. Na página de detalhes do Grupo de segurança, insira todas as ações apropriadas (como direção, tipo de IP, protocolo e informações de origem/destino). Quando concluído, clique em **Criar regra**.
+2. Na página Grupos de segurança, clique em um nome do grupo de segurança para abrir a página Detalhes e selecione **Criar regra**.
+3. Na página Criar regra, insira todos os atributos apropriados (como direção, tipo de IP, protocolo e informações de origem/destino). Quando concluído, clique em **Ok**.
 
-**Nota**: para os campos de origem e de destino, é possível especificar o bloco Classless Inter-Domain Routing (CIDR) ou grupo de segurança. 
+**Nota**: a seleção dos campos de origem ou de destino opcionais restringirá a nova regra para que ela se aplique apenas ao tráfego para/de a origem/o destino especificado. Os campos de origem e de destino podem especificar um bloco ou um grupo de segurança do Classless Inter-Domain Routing (CIDR). 
 
 Um bloco CIDR facilita o roteamento de um bloco de endereços IP.  Se você seleciona CIDR como o tipo, deve-se especificar um intervalo de endereço IP. 
 

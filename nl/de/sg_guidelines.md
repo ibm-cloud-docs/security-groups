@@ -24,6 +24,7 @@ Beachten Sie beim Arbeiten mit Sicherheitsgruppen die folgenden Richtlinien:
 * Benutzer mit der Berechtigung zum Verwalten von Sicherheitsgruppen können Regeln in einer Sicherheitsgruppe hinzufügen, bearbeiten oder löschen. 
 * Änderungen an Sicherheitsgruppenregeln werden automatisch angewendet und können jederzeit geändert werden.
 * Die Reihenfolge der Regeln in einer Sicherheitsgruppe spielt keine Rolle. Vorrang hat jeweils die am wenigsten einschränkende Regel.
+* Regeln sind statusabhängig. Verbindungen, die vor einer Sicherheitsgruppe eingerichtet wurden, werden nicht geändert. Neue Verbindungen werden die Regeln einhalten, die zu dem Zeitpunkt vorhanden waren, als die Konnektivität eingerichtet wurde. 
 * Sicherheitsgruppen setzen auf dem virtuellen Server keine Firewalls des Betriebssystems außer Kraft. Wenn unter dem Betriebssystem eine Firewall vorhanden ist, die einschränkender ist als die Vorgaben der Sicherheitsgruppen, werden die Betriebssystemregeln dennoch umgesetzt.
 * Wenn Ihr virtueller Server Zugriff auf interne Services wie beispielsweise auf einen Aktualisierungsserver, Network Attached Storage (NAS) oder erweiterte Überwachung benötigt, müssen Sie sicherstellen, dass die Sicherheitsgruppenregeln den für diese internen Services erforderlichen Datenverkehr ermöglichen. Weitere Informationen finden Sie unter [Welche IP-Bereiche darf die Firewall zulassen? ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://knowledgelayer.softlayer.com/faqs/6#154) und [Unter Linux auf Blockspeicher zugreifen ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://knowledgelayer.softlayer.com/procedure/block-storage-linux).
 
@@ -31,14 +32,14 @@ Beachten Sie beim Arbeiten mit Sicherheitsgruppen die folgenden Richtlinien:
 
 * Eine Sicherheitsgruppe kann auf ein privates Netz, ein öffentliches Netz oder auf beide Netzschnittstellentypen angewendet werden.
 * Sie können an die Liste mit Sicherheitsgruppen, die einer Netzschnittstelle zugeordnet sind, mindestens eine Sicherheitsgruppe anhängen. Die Sicherheitsgruppenregeln der einzelnen Sicherheitsgruppen gelten für die zugeordneten virtuellen Serverinstanzen. 
-* Beim erstmaligen Zuordnen einer vorhandenen Sicherheitsgruppe zu einer Netzschnittstelle (öffentlich oder privat) ist für jede der Schnittstellen ein Neustart erforderlich. Wenn die öffentlichen und privaten Schnittstellen der Sicherheitsgruppe jedoch gleichzeitig zugeordnet wurden, ist nur ein einziger Neustart erforderlich. Nach einem Neustart werden Änderungen automatisch angewendet.
+* Beim erstmaligen Zuordnen einer vorhandenen Sicherheitsgruppe zu einer Netzschnittstelle (öffentlich oder privat) ist für jede der Schnittstellen ein Neustart erforderlich.  Wenn die öffentlichen und privaten Schnittstellen der Sicherheitsgruppe jedoch gleichzeitig zugeordnet wurden, ist nur ein einziger Neustart erforderlich.  Nach einem Neustart werden Änderungen automatisch angewendet.
 
 ## Zugriff
  
 * Innerhalb eines Kontos können alle Benutzer auf den virtuellen Serverinstanzen, für die sie Zugriff haben, Sicherheitsgruppen lesen, anhängen und abhängen. Sicherheitsgruppen erstellen, aktualisieren und löschen können nur Benutzer, die in den Netzberechtigungen (Network Permissions) die Berechtigung zum Verwalten von Sicherheitsgruppen haben.
-* Bare-Metal-Servern können Sie keine Sicherheitsgruppen zuordnen.
+* Bare-Metal-Servern können Sie keine Sicherheitsgruppen zuordnen. 
 
 ## Löschvorgänge
 
-* Sie können eine Sicherheitsgruppe, die mindestens einer aktiven virtuellen Serverinstanz zugeordnet ist, nicht löschen.
-* Sie können eine Sicherheitsgruppe, auf die eine andere Sicherheitsgruppe in mindestens einer ihrer Regeln verweist, nicht löschen. 
+* Sie können eine Sicherheitsgruppe, die mindestens einer aktiven virtuellen Serverinstanz zugeordnet ist, nicht löschen. 
+* Sie können eine Sicherheitsgruppe, auf die eine andere Sicherheitsgruppe in mindestens einer ihrer Regeln verweist, nicht löschen.  

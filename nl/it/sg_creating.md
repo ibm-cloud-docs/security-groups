@@ -13,7 +13,7 @@ lastupdated: "2017-04-27"
 {:new_window: target="_blank"}
 
 
-# Creazione di gruppi di sicurezza e regole 
+# Creazione di gruppi di sicurezza e regole
 {: #creating-security-groups}
 
 Puoi creare un gruppo di sicurezza e le sue regole associate e assegnarlo quindi all'interfaccia di una o più istanze del server virtuale per attivare un firewall virtuale.
@@ -36,10 +36,10 @@ Per creare una regola del gruppo di sicurezza, completa la seguente procedura:
 {:shortdesc}
 
 1. Nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/), seleziona **Sicurezza -> Sicurezza di rete -> Gruppi di sicurezza**.
-2. Nella pagina Gruppi di sicurezza, fai clic sul nome di un gruppo di sicurezza per aprire la pagina Dettagli.
-3. Nella pagina dei dettagli del gruppo di sicurezza, immetti tutte le azioni appropriate (come direzione, tipo IP, protocollo e informazioni di origine/destinazione. Al termine, fai clic su **Crea regola**.
+2. Nella pagina Gruppi di sicurezza, fai clic sul nome di un gruppo di sicurezza per aprire la pagina Dettagli e seleziona **Crea regola**.
+3. Nella pagina Crea regola, immetti tutti gli attributi appropriati (come direzione, tipo IP, protocollo e le informazioni di origine/destinazione). Al termine, fai clic su **Ok**.
 
-**Nota**: per i campi di origine e di destinazione, puoi specificare il blocco CIDR (Classless Inter-Domain Routing) o il gruppo di sicurezza. 
+**Nota**: la selezione dei campi di destinazione o di origine, limiterà la nuova regola che viene applicata solo al traffico a/da la destinazione/origine specificata.  I campi di destinazione e di origine possono specificare un CIDR (Classless Inter-Domain Routing) o un gruppo di risorse. 
 
 Un blocco CIDR facilita l'instradamento di un blocco di indirizzi IP.  Se come tipo selezioni CIDR, devi specificare un intervallo di indirizzi IP. 
 

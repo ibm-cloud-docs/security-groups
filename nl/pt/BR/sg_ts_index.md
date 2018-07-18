@@ -3,8 +3,8 @@
 
 
 copyright:
-  years: 2017
-lastupdated: "2017-08-11"
+  years: 2017,2018
+lastupdated: "2018-02-28"
 
 
 ---
@@ -28,7 +28,7 @@ lastupdated: "2017-08-11"
 <!-- The short description section should include the service long name and "Bluemix" for search optimization. Example short description: -->
 
 <!-- Add a heading and content for how to get help and support. Use this template for beta and GA services:  -->
-# Obtendo Ajuda e Suporte 
+# Obtendo ajuda e suporte 
 {: #gettinghelp}
 
 Última atualização: 16 de agosto de 2017
@@ -40,11 +40,10 @@ Se você tiver problemas ou perguntas ao usar grupos de segurança para {{site.d
 Ao usar os fóruns para fazer uma pergunta, marque a sua pergunta
 para que ela possa ser vista pelas equipes de desenvolvimento do {{site.data.keyword.Bluemix_notm}}.
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
-* Se você tiver questões técnicas sobre grupos de segurança para servidores virtuais, poste sua pergunta no [Stack Overflow ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://stackoverflow.com/search?q=network-security-groups+ibm-bluemix){:new_window} e identifique a sua pergunta com "ibm-bluemix" e "-network-security-groups".
+* Se você tiver questões técnicas sobre grupos de segurança para servidores virtuais, poste a sua pergunta no [Stack Overflow![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window} e identifique a sua pergunta com "ibm-cloud" e "grupos de segurança de rede".
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
 * Para perguntas sobre o serviço e instruções de introdução, use o fórum [IBM developerWorks dW Answers
-![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=bluemix){:new_window}. Inclua as tags "security groups" e
-"bluemix".
+![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window}. Inclua as identificações "grupos de segurança" e "ibm-cloud".
 
 Consulte
 [Obtendo

@@ -23,21 +23,45 @@ lastupdated: "2017-08-10"
 
 安全群組目前可用於下列資料中心：
 
-| 資料中心| 
+|資料中心| 
 |:------------------|
-| CHE01             |
-| DAL12             |
-| DAL13             |
-| HKG02             |
-| LON04             |
-| MEL01             |
-| MIL01             |
-| OSL01             |
-| SAO01             |
-| SJC04             |
-| SYD01             |
-| SYD04             |
-| TOR01             |
-| WDC06             |
-| WDC07             |
+| AMS01             |
+| AMS03             |
+|CHE01             |
+| DAL01             |
+| DAL05             |
+| DAL06             |
+| DAL09             |
+| DAL10             |
+|DAL12             |
+|DAL13             |
+| FRA02             |
+| FRA04             |
+| FRA05             |
+|HKG02             |
+| HOU02             |
+| LON02             |
+|LON04             |
+| LON06             |
+|MEL01             |
+| MEX01             |
+|MIL01             |
+| MON01             |
+|OSL01             |
+| PAR01             |
+|SAO01             |
+| SEA01             |
+| SEO01             |
+| SJC01             |
+| SJC03             |
+|SJC04             |
+| SNG01             |
+|SYD01             |
+|SYD04             |
+| TOK02             |
+|TOR01             |
+| WDC01             |
+| WDC04             |
+|WDC06             |
+|WDC07             |
 {: caption="表 2. 支援安全群組的資料中心" caption-side="top"} 

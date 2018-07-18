@@ -60,7 +60,7 @@ Führen Sie folgende Schritte aus, um Sicherheitsgruppen über die Seite für Ge
      * Zuordnen von Sicherheitsgruppen zu einer Netzschnittstelle einer virtuellen Serverinstanz.
      * Entfernen von Sicherheitsgruppen aus der Netzschnittstelle einer virtuellen Serverinstanz.
      
-     **Wichtig**: Beim erstmaligen Zuordnen einer vorhandenen Sicherheitsgruppe zu einer Netzschnittstelle (öffentlich oder privat) ist für jede der Schnittstellen ein Neustart erforderlich.  Wenn die öffentlichen und privaten Schnittstellen der Sicherheitsgruppe jedoch gleichzeitig zugeordnet wurden, ist nur ein einziger Neustart erforderlich. Nach einem Neustart werden Änderungen automatisch angewendet.
+     **Wichtig**: Beim erstmaligen Zuordnen einer vorhandenen Sicherheitsgruppe zu einer Netzschnittstelle (öffentlich oder privat) ist für jede der Schnittstellen ein Neustart erforderlich.  Wenn die öffentlichen und privaten Schnittstellen der Sicherheitsgruppe jedoch gleichzeitig zugeordnet wurden, ist nur ein einziger Neustart erforderlich.  Nach einem Neustart werden Änderungen automatisch angewendet.
      
      Wenn Sie eine neue Sicherheitsgruppe zuordnen, verhindert dies, dass neue Verbindungen gemäß den Definitionen der Sicherheitsgruppenregeln eingerichtet werden. Vorhandene Socketverbindungen werden jedoch nicht beendet.
 
