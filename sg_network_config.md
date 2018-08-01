@@ -23,47 +23,4 @@ behavior. Gateways must allow the traffic that is defined by the selected securi
 
 If your account is enabled for custom private addressing (CPA) as well as security groups, be aware that security groups are scoped to the account level, not the network level. Security groups are defined by IP addresses, not private networks.
 
-Security groups are currently available in the following data centers:
-
-| Data Centers      | 
-|:------------------|
-| AMS01             |
-| AMS03             |
-| CHE01             |
-| DAL01             |
-| DAL05             |
-| DAL06             |
-| DAL09             |
-| DAL10             |
-| DAL12             |
-| DAL13             |
-| FRA02             |
-| FRA04             |
-| FRA05             |
-| HKG02             |
-| HOU02             |
-| LON02             |
-| LON04             |
-| LON06             |
-| MEL01             |
-| MEX01             |
-| MIL01             |
-| MON01             |
-| OSL01             |
-| PAR01             |
-| SAO01             |
-| SEA01             |
-| SEO01             |
-| SJC01             |
-| SJC03             |
-| SJC04             |
-| SNG01             |
-| SYD01             |
-| SYD04             |
-| TOK02             |
-| TOR01             |
-| WDC01             |
-| WDC04             |
-| WDC06             |
-| WDC07             |
-{: caption="Table 2. Data centers that support security groups" caption-side="top"} 
+Security groups are available in all data centers with VSI provisioning.
