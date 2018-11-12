@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-06"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -20,6 +20,12 @@ lastupdated: "2018-04-06"
 {: #tutorials}
 
 Use these comprehensive step-by-step guides to build and customize Security Groups with IBM Cloud to handle incoming and outgoing traffic on your virtual servers. 
+
+### [Adding a pre-defined Security Group during ordering](add-existing-sg.html)
+<img src="images/tutorial-reqs.png" alt="drawing" style="width: 300px;"/>
+
+This guide shows you how to add existing or pre-defined (default) security groups to instances during the ordering process.
+
 
 <style>
     .solutionBox {
