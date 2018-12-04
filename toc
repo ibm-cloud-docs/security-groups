@@ -17,7 +17,6 @@ Security Groups
     {: .navgroup id="howto"}
     sg_creating.md 	
     sg_managing.md
-    sg_steps.md
     add-existing-sg.md
 		
     {: .topicgroup}
