@@ -11,7 +11,7 @@ Security Groups
     sg_network_config.md
     sg_perf_limits.md
     naas-overview.md
-    [Explore Firewalls](../fortigate-10g/explore-firewalls.html)
+    [Explore Firewalls](../docs/infrastructure/fortigate-10g/explore-firewalls.html)
     {: .navgroup-end}
     
     {: .navgroup id="howto"}
