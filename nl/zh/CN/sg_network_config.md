@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2017-08-10"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -21,47 +21,4 @@ lastupdated: "2017-08-10"
 
 如果帐户已启用定制私有寻址 (CPA) 和安全组，那么请注意安全组的作用域是帐户级别，而不是网络级别。安全组是按 IP 地址而不是专用网络定义的。
 
-安全组当前在以下数据中心可用：
-
-|数据中心      | 
-|:------------------|
-| AMS01             |
-| AMS03             |
-|CHE01             |
-| DAL01             |
-| DAL05             |
-| DAL06             |
-| DAL09             |
-| DAL10             |
-|DAL12             |
-|DAL13             |
-| FRA02             |
-| FRA04             |
-| FRA05             |
-|HKG02             |
-| HOU02             |
-| LON02             |
-|LON04             |
-| LON06             |
-|MEL01             |
-| MEX01             |
-|MIL01             |
-| MON01             |
-|OSL01             |
-| PAR01             |
-|SAO01             |
-| SEA01             |
-| SEO01             |
-| SJC01             |
-| SJC03             |
-|SJC04             |
-| SNG01             |
-|SYD01             |
-|SYD04             |
-| TOK02             |
-|TOR01             |
-| WDC01             |
-| WDC04             |
-|WDC06             |
-|WDC07             |
-{: caption="表 2. 支持安全组的数据中心" caption-side="top"} 
+具有 VSI 供应的所有数据中心都提供了安全组。

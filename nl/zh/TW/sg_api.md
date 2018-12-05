@@ -27,7 +27,7 @@ SoftLayer API (SLAPI) 會啟動客戶入口網站中的許多特性，這通常�
 SoftLayer API 是「遠端程序呼叫」系統。每一個呼叫需要向 API 端點傳送資料，並反過來接收結構化資料。透過 SLAPI 傳送及接收資料時使用何種格式，視您選擇哪一個 API 實作而定。 
 
 如需 SoftLayer API、虛擬伺服器及安全群組 API 的相關資訊，請參閱 SoftLayer Development Network 的下列資源：
-* [SoftLayer API Overview ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://sldn.softlayer.com/article/softlayer-api-overview){: new_window} 
+* [SoftLayer API Overview ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://softlayer.github.io/reference/softlayerapi/){: new_window} 
 * [Getting Started with the SoftLayer API ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](http://sldn.softlayer.com/article/getting-started){: new_window}
 * [*SoftLayer_Virtual_Guest/createObject* API ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: new_window}
 * [*SoftLayer_Network_SecurityGroup* API ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: new_window}

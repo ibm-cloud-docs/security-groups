@@ -4,30 +4,17 @@
 
 copyright:
   years: 2017,2018
-lastupdated: "2018-02-28"
+lastupdated: "2018-11-10"
 
 
 ---
 
-<!-- Common attributes used in the template are defined as follows: -->
 {:tsSymptoms: .tsSymptoms} 
 {:tsCauses: .tsCauses} 
 {:tsResolve: .tsResolve} 
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
 
-<!-- # {{site.data.keyword.blockstorageshort}} troubleshooting
-{: #ts} -->
-<!-- Provide an appropriate ID above -->
-
-<!-- IN PROGRESS - AUDIENCE BLUE, STAGING ONLY -->
-
-
-<!-- This is the template for troubleshooting topics.  -->
-
-<!-- The short description section should include the service long name and "Bluemix" for search optimization. Example short description: -->
-
-<!-- Add a heading and content for how to get help and support. Use this template for beta and GA services:  -->
 # Obtendo ajuda e suporte 
 {: #gettinghelp}
 
@@ -47,8 +34,8 @@ para que ela possa ser vista pelas equipes de desenvolvimento do {{site.data.key
 
 Consulte
 [Obtendo
-ajuda](https://console.bluemix.net/docs/support/index.html#getting-help) para mais detalhes sobre como usar os fóruns.
+ajuda](/docs/support/index.html#getting-help) para mais detalhes sobre como usar os fóruns.
 
-Para obter informações sobre a abertura de um chamado de suporte IBM ou sobre níveis de suporte e gravidades de chamados, veja [Entrando em contato com o suporte](https://console.bluemix.net/docs/support/index.html#contacting-support).
+Para obter informações sobre a abertura de um chamado de suporte IBM ou sobre níveis de suporte e gravidades de chamados, veja [Entrando em contato com o suporte](/docs/support/index.html#contacting-support).
 
 

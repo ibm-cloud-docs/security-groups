@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-04"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -26,7 +26,7 @@ Esse procedimento passo a passo mostra como incluir grupos de segurança existen
 ## Do que você precisará
 Para este exemplo, os objetos e itens a seguir serão usados:
 
-| Nome de Recurso  | Sistema Operacional | Tipo | Local/DC    | IP/Sub-rede |
+| Nome de Recurso  | Sistema Operacional | Tipo | Local/DC | IP/Sub-rede |
 |:------------- |:---------------:| -------------:| :---------------:| ---------------:|
 | allow_ssh1 | Não aplicável  | Grupo de Segurança | Não aplicável/Qualquer um | 0.0.0.0/0 |
 |jpmongevsi2.testing.com | Ubuntu 16.04 | Instância de servidor virtual | Dallas 10 Pod 01 | 10.0.0.21 |	

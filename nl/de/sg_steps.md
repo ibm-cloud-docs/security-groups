@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-06"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -19,7 +19,13 @@ lastupdated: "2018-04-06"
 # Sicherheitsgruppen Schritt für Schritt
 {: #tutorials}
 
-Ziehen Sie diese umfassenden schrittweise aufgebauten Anleitungen zu Rate, um Sicherheitsgruppen mit IBM Cloud zu erstellen und anzupassen und den eingehenden und abgehenden Datenverkehr auf Ihren virtuellen Servern zu verarbeiten.  
+Ziehen Sie diese umfassenden schrittweise aufgebauten Anleitungen zu Rate, um Sicherheitsgruppen mit IBM Cloud zu erstellen und anzupassen und den eingehenden und abgehenden Datenverkehr auf Ihren virtuellen Servern zu verarbeiten. 
+
+### [Vordefinierte Sicherheitsgruppe während der Bestellung hinzufügen](add-existing-sg.html)
+<img src="images/tutorial-reqs.png" alt="drawing" style="width: 300px;"/>
+
+Diese Anleitung zeigt Ihnen, wie Sie vorhandene oder vordefinierte (Standard-) Sicherheitsgruppen während des Bestellablaufs zu Instanzen hinzufügen.
+
 
 <style>
     .solutionBox {
@@ -76,7 +82,7 @@ Ziehen Sie diese umfassenden schrittweise aufgebauten Anleitungen zu Rate, um Si
         </h3>
         <div class="solutionBoxDescription">
             <div class="descriptionContainer">
-                <p>Diese Anleitung zeigt Ihnen, wie Sie vorhandene oder vordefinierte (Standard-) Sicherheitsgruppen während des Bestellablaufs zu Instanzen hinzufügen. </p>
+                <p>Diese Anleitung zeigt Ihnen, wie Sie vorhandene oder vordefinierte (Standard-) Sicherheitsgruppen während des Bestellablaufs zu Instanzen hinzufügen.</p>
                     <span class="tag-filter category">Sicherheitsgruppen</span>
                     <span class="tag-filter category">Virtuelle Server</span>
                     <span class="tag-filter category">Privates Teilnetz</span>
@@ -91,7 +97,7 @@ Ziehen Sie diese umfassenden schrittweise aufgebauten Anleitungen zu Rate, um Si
         </h3>
         <div class="solutionBoxDescription">
             <div class="descriptionContainer">
-                <p>Diese Anleitung führt Sie durch das Erstellen einer angepassten Sicherheitsgruppe, das Zuordnen von Instanzen zu der Sicherheitsgruppe und das Bearbeiten der Sicherheitsgruppe. </p>
+                <p>Diese Anleitung führt Sie durch das Erstellen einer angepassten Sicherheitsgruppe, das Zuordnen von Instanzen zu der Sicherheitsgruppe und das Bearbeiten der Sicherheitsgruppe.</p>
                  <span class="tag-filter category">Sicherheitsgruppen</span>
                  <span class="tag-filter category">Privates CPA-Netz</span>
                  <span class="tag-filter category">Virtueller Server</span>

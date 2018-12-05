@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-04"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -12,7 +12,7 @@ lastupdated: "2018-04-04"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Introduzione ai gruppi di sicurezza 
+# Introduzione ai gruppi di sicurezza
 
 Puoi utilizzare i gruppi di sicurezza per applicare una serie di regole di filtro IP che definiscono come gestire il traffico in entrata e in uscita alle interfacce pubbliche e private di un'istanza del server virtuale.
 {:shortdesc}
@@ -28,10 +28,10 @@ Per iniziare, ordina una VSI (Virtual Server Instance) e assegna un gruppo di si
 7. Puoi selezionare qualsiasi gruppo di sicurezza predefinito da applicare alle interfacce private o pubbliche sul server virtuale.
 8. Infine, fai clic su **Inoltra ordine**.
 
-## Soluzioni e casi di utilizzo 
+## Soluzioni e casi di utilizzo
 Le seguenti sezioni descrivono alcuni complessi scenari di sicurezza della rete che potresti incontrare e che possono essere risolti utilizzando i gruppi di sicurezza.
 
-### Sicurezza dall'inizio 
+### Sicurezza dall'inizio
 **Scenario di sicurezza:** i clienti vogliono proteggere il proprio server virtuale come ne viene eseguito il provisioning. Vogliono il controllo completo sul traffico che passa per il server dal momento in cui ne è stato eseguito il provisioning.
 
 **Soluzione:** utilizza i gruppi di sicurezza al momento dell'ordine del server virtuale. In questo modo, il tuo server viene protetto dal momento del suo provisioning.

@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-06"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -20,6 +20,12 @@ lastupdated: "2018-04-06"
 {: #tutorials}
 
 使用這些綜合性的逐步指引來建置及自訂「安全群組」並搭配 IBM Cloud，以處理虛擬伺服器上送入及送出的資料流量。 
+
+### [在訂購期間新增預先定義的「安全群組」](add-existing-sg.html)
+        <img src="images/tutorial-reqs.png" alt="圖片" style="width: 300px;"/>
+
+本指引顯示如何在訂購處理程序期間將現有的或預先定義的（預設）安全群組新增至實例。
+
 
 <style>
     .solutionBox {

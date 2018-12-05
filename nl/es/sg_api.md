@@ -27,7 +27,7 @@ La API de SoftLayer (SLAPI) ofrece muchas de las características del Portal de 
 La API de SoftLayer es un sistema de llamada a procedimiento remoto. Cada llamada implica el envío de datos a un punto final de API y la recepción de datos estructurados. El formato utilizado para enviar y recibir datos con la SLAPI depende de la implementación de la API que se elija. 
 
 Para obtener más información sobre la API SoftLayer, el servidor virtual y las API de los grupos de seguridad, consulte los siguientes recursos en la red de despliegue de SoftLayer:
-* [Visión general de la API de SoftLayer ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://sldn.softlayer.com/article/softlayer-api-overview){: new_window} 
+* [Visión general de la API de SoftLayer ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://softlayer.github.io/reference/softlayerapi/){: new_window} 
 * [Iniciación a la API de SoftLayer ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](http://sldn.softlayer.com/article/getting-started){: new_window}
 * [*SoftLayer_Virtual_Guest/createObject* API ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: new_window}
 * [*SoftLayer_Network_SecurityGroup* API ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: new_window}

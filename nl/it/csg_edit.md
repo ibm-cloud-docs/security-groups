@@ -4,8 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2017-08-10"
-
+lastupdated: "2018-11-10"
 
 ---
 
@@ -16,17 +15,17 @@ lastupdated: "2017-08-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Modifica di un gruppo di sicurezza 
+# Modifica di un gruppo di sicurezza
 
 Dopo aver creato il tuo oggetto del gruppo di sicurezza, puoi modificarne i parametri e le regole.
 
-## Modifica dei dettagli del gruppo di sicurezza 
+## Modifica dei dettagli del gruppo di sicurezza
 
 1. Dalla scheda **Sicurezza** nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/){: new_window}, in **Sicurezza di rete** seleziona **Gruppi di sicurezza**.
 2. Fai clic sull'icona ![Icona Altro](./images/more_icon.jpg) dell'oggetto del gruppo di sicurezza a cui vuoi assegnare le istanze, poi seleziona **Modifica dettagli**.
 3.	Modifica il nome o la descrizione come richiesto, poi fai clic su **Modifica gruppo** per applicare le modifiche.
 
-## Modifica delle regole del gruppo di sicurezza 
+## Modifica delle regole del gruppo di sicurezza
 
 1. Dalla scheda **Sicurezza** nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/){: new_window}, in **Sicurezza di rete** seleziona **Gruppi di sicurezza**.
 2.	Seleziona l'oggetto del gruppo di sicurezza che vuoi modificare.

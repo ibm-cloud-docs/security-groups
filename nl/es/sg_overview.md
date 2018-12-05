@@ -4,8 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2017-08-08"
-
+lastupdated: "2018-11-10"
 
 ---
 
@@ -37,7 +36,7 @@ de las instancias del servidor virtual:
 * *allow_all*: este grupo de seguridad define las reglas IP que permiten todo el tráfico entrante en todos los puertos.
 
 ## Grupos de seguridad y Registros de auditoría
-Todas las interacciones del grupo de seguridad se registran en el [registro de auditoría](https://console.bluemix.net/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog) de una cuenta. Las entradas del registro de auditoría realizan el seguimiento de cambios de grupo de seguridad específicos y qué usuario ha solicitado el cambio. Los registros se escriben para las siguientes interacciones:
+Todas las interacciones del grupo de seguridad se registran en el [registro de auditoría](/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog) de una cuenta. Las entradas del registro de auditoría realizan el seguimiento de cambios de grupo de seguridad específicos y qué usuario ha solicitado el cambio. Los registros se escriben para las siguientes interacciones:
 * Se añade o se elimina un grupo de seguridad de una interfaz de red del servidor virtual
 * Las reglas de un grupo de seguridad se cambian al añadir, editar o eliminar una regla
 

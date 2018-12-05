@@ -3,7 +3,7 @@
 copyright:
   years: 2017, 2018
 
-lastupdated: "2018-05-23"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -15,7 +15,7 @@ lastupdated: "2018-05-23"
 {:tip: .tip}
 {:download: .download}
 
-# 外部資源
+# 其他資源
 
 這些資源是由 IBM 及我們的一些夥伴及客戶所建立。
 
@@ -31,3 +31,7 @@ lastupdated: "2018-05-23"
 * [**部落格文章：使用安全群組控制雲端網路**](https://www.ibm.com/blogs/bluemix/2017/11/security-groups/)
 
     *「在雲端環境中，您必須思考：誰與誰交談。管制此交談的方式之一是透過安全群組。」*
+    
+* [**部落格文章：Keep your cloud safe with IBM network security services**](https://www.ibm.com/blogs/bluemix/2017/09/keep-cloud-safe-ibm-network-security-services/)
+
+    *「在談到保護網路時，沒有一體適用的方法。隨著組織日益倚重利用雲端上的重要資料與應用程式，您可能會停下來思索，哪個安全選項最適合您的網路需要。」*

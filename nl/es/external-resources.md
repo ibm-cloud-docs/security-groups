@@ -3,7 +3,7 @@
 copyright:
   years: 2017, 2018
 
-lastupdated: "2018-05-23"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -15,9 +15,9 @@ lastupdated: "2018-05-23"
 {:tip: .tip}
 {:download: .download}
 
-# Recursos externos
+# Otros recursos
 
-Estos recursos están creados por IBM y algunos de nuestros socios y clientes.
+Estos recursos han sido creados por IBM y por algunos de nuestros socios y clientes.
 
 * [**Publicación de blog: Ilustración de los usos de Grupos de seguridad de IBM Cloud**](https://admin.blogs.prd.ibm.event.ibm.com/blogs/bluemix/2018/05/illustrating-uses-ibm-cloud-security-groups/)
 
@@ -30,3 +30,7 @@ Estos recursos están creados por IBM y algunos de nuestros socios y clientes.
 * [**Publicación de blog: Tome control de su red en la nube con los grupos de seguridad**](https://www.ibm.com/blogs/bluemix/2017/11/security-groups/)
 
     *"En un entorno de nube, debe tener en cuenta 'quién habla con quién'. Una forma de regular esta conversación es mediante los grupos de seguridad".*
+    
+* [**Publicación del blog: Mantenga protegida su nube con los servicios de seguridad de red de IBM**](https://www.ibm.com/blogs/bluemix/2017/09/keep-cloud-safe-ibm-network-security-services/)
+
+    *"Cuando se trata de proteger su red, no existe un enfoque que se adapte a todos los casos. A medida que las organizaciones utilizan cada vez más datos críticos y aplicaciones en la nube, debe pararse a pensar qué opción de seguridad se ajusta mejor a sus requisitos de su red."*

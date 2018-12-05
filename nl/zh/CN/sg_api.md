@@ -27,7 +27,7 @@ SoftLayer API (SLAPI) 为客户门户网站中的许多功能部件提供技术�
 SoftLayer API 是一种远程过程调用系统。每个调用都涉及向 API 端点发送数据以及接收所返回的结构化数据。通过 SLAPI 发送和接收数据时所使用的格式取决于您所选择的 API 实现。 
 
 有关 SoftLayer API、虚拟服务器、安全组 API 的更多信息，请参阅 SoftLayer 开发网络中的以下资源：
-* [SoftLayer API 概述 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://sldn.softlayer.com/article/softlayer-api-overview){: new_window} 
+* [SoftLayer API 概述 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://softlayer.github.io/reference/softlayerapi/){: new_window} 
 * [SoftLayer API 入门 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](http://sldn.softlayer.com/article/getting-started){: new_window}
 * [*SoftLayer_Virtual_Guest/createObject* API ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: new_window}
 * [*SoftLayer_Network_SecurityGroup* API ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: new_window}

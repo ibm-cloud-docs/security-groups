@@ -3,7 +3,7 @@
 copyright:
   years: 2017, 2018
 
-lastupdated: "2018-05-23"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -15,7 +15,7 @@ lastupdated: "2018-05-23"
 {:tip: .tip}
 {:download: .download}
 
-# 外部资源
+# 其他资源
 
 这些资源由 IBM 和我们的一些合作伙伴和客户创建。
 
@@ -30,3 +30,7 @@ lastupdated: "2018-05-23"
 * [**博客帖子：使用安全组控制云网络**](https://www.ibm.com/blogs/bluemix/2017/11/security-groups/)
 
     *“在云环境中，您必须考虑谁与谁对话。控制此对话的一种方式是通过安全组。”*
+    
+* [**博客帖子：使用 IBM 网络安全服务来保证云安全**](https://www.ibm.com/blogs/bluemix/2017/09/keep-cloud-safe-ibm-network-security-services/)
+
+    *“在保护网络安全方面，没有一劳永逸的方法。随着组织对云中关键数据和应用程序的使用日益增多，您可能会停下来思考何种安全措施最适合您的网络需求。”*

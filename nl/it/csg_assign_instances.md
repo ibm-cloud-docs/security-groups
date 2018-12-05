@@ -4,8 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-02-15"
-
+lastupdated: "2018-11-10"
 
 ---
 
@@ -16,7 +15,7 @@ lastupdated: "2018-02-15"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Assegnazione di istanze al gruppo di sicurezza 
+# Assegnazione di istanze al gruppo di sicurezza
 Puoi assegnare gli oggetti del gruppo di sicurezza alle istanze in due modi:
 
 ## Utilizzo del menu Sicurezza
@@ -31,7 +30,7 @@ Puoi assegnare gli oggetti del gruppo di sicurezza alle istanze in due modi:
 
 	Nota in che modo il numero di **Istanze collegate** viene aumentato da `0` a `1`.
 
-4. Fare clic su **Salva** per applicare le modifiche. 
+4. Fare clic su **Salva** per applicare le modifiche.
 
 5. Riavvia la tua istanza.
 
@@ -46,7 +45,7 @@ Puoi assegnare gli oggetti del gruppo di sicurezza alle istanze in due modi:
 	![Istanza menu Dispositivo](./images/device_assign.jpg)
 
 	Questa figura mostra l'oggetto del gruppo di sicurezza "allow_icmp" che sta venendo assegnato all'interfaccia privata dell'istanza jpmongevsi4.
-4. Fare clic su **Salva** per applicare le modifiche. 
+4. Fare clic su **Salva** per applicare le modifiche.
 
 5. Riavvia l'istanza.
 

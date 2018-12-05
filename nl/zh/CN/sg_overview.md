@@ -4,8 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2017-08-08"
-
+lastupdated: "2018-11-10"
 
 ---
 
@@ -36,7 +35,7 @@ lastupdated: "2017-08-08"
 * *allow_all*：此安全组定义的 IP 规则允许所有端口上的所有入口流量。
 
 ## 安全组和审计日志
-所有安全组交互记录在帐户的[审计日志](https://console.bluemix.net/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog)中。审计日志条目跟踪特定安全组更改以及哪个用户请求了更改。针对以下交互会写入日志：
+所有安全组交互记录在帐户的[审计日志](/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog)中。审计日志条目跟踪特定安全组更改以及哪个用户请求了更改。针对以下交互会写入日志：
 * 在虚拟服务器的网络接口中添加或除去安全组
 * 通过添加规则、编辑规则或除去规则来更改安全组的规则
 

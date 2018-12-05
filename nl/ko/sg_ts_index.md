@@ -4,30 +4,17 @@
 
 copyright:
   years: 2017,2018
-lastupdated: "2018-02-28"
+lastupdated: "2018-11-10"
 
 
 ---
 
-<!-- Common attributes used in the template are defined as follows: -->
 {:tsSymptoms: .tsSymptoms} 
 {:tsCauses: .tsCauses} 
 {:tsResolve: .tsResolve} 
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
 
-<!-- # {{site.data.keyword.blockstorageshort}} troubleshooting
-{: #ts} -->
-<!-- Provide an appropriate ID above -->
-
-<!-- IN PROGRESS - AUDIENCE BLUE, STAGING ONLY -->
-
-
-<!-- This is the template for troubleshooting topics.  -->
-
-<!-- The short description section should include the service long name and "Bluemix" for search optimization. Example short description: -->
-
-<!-- Add a heading and content for how to get help and support. Use this template for beta and GA services:  -->
 # 도움 및 지원 받기 
 {: #gettinghelp}
 
@@ -43,8 +30,8 @@ lastupdated: "2018-02-28"
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
 * 서비스 및 시작하기 지시사항에 대한 질문이 있는 경우 [IBM developerWorks dW Answers ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window} 포럼을 사용하십시오. "security groups" 및 "ibm-cloud" 태그를 포함시키십시오.
 
-포럼 사용에 대한 세부사항은 [도움 받기](https://console.bluemix.net/docs/support/index.html#getting-help)를 참조하십시오.
+포럼 사용에 대한 세부사항은 [도움 받기](/docs/support/index.html#getting-help)를 참조하십시오.
 
-IBM 지원 티켓 열기 또는 지원 레벨과 티켓 심각도에 대한 정보는 [지원 문의](https://console.bluemix.net/docs/support/index.html#contacting-support)를 참조하십시오.
+IBM 지원 티켓 열기 또는 지원 레벨과 티켓 심각도에 대한 정보는 [지원 문의](/docs/support/index.html#contacting-support)를 참조하십시오.
 
 

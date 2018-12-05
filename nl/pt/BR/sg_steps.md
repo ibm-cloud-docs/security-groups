@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-06"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -20,6 +20,12 @@ lastupdated: "2018-04-06"
 {: #tutorials}
 
 Use essas guias abrangentes de passo a passo para construir e customizar os Grupos de segurança com o IBM Cloud para manipular o tráfego recebido e de saída em seus servidores virtuais. 
+
+### [Incluindo um Grupo de segurança predefinido durante o pedido](add-existing-sg.html)
+<img src="images/tutorial-reqs.png" alt="desenho" style="width: 300px;"/>
+
+Este guia mostra como incluir grupos de segurança existentes ou predefinidos (padrão) em instâncias durante o processo de pedido.
+
 
 <style>
     .solutionBox {

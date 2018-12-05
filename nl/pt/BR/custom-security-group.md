@@ -4,8 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2017-08-10"
-
+lastupdated: "2018-11-10"
 
 ---
 
@@ -24,7 +23,7 @@ Neste tutorial, você aprenderá como criar, designar instâncias para e editar 
 ## Do que você precisará
 Para este exemplo, os objetos e itens a seguir serão usados:
 
-| Nome de Recurso  | Sistema Operacional | Tipo | Local/DC    | IP/Sub-rede |
+| Nome de Recurso  | Sistema Operacional | Tipo | Local/DC | IP/Sub-rede |
 |:------------- |:---------------:| -------------:| :---------------:| ---------------:|
 | Não aplicável/Qualquer um | 10.0.0.0/16 |
 | allow_icmp | Não aplicável  | Grupo de Segurança | Não aplicável/Qualquer um | 0.0.0.0/0 |

@@ -1,12 +1,8 @@
 ---
 
-
-
 copyright:
   years: 2017
-lastupdated: "2017-04-27"
-
-
+lastupdated: "2018-11-10"
 ---
 
 {:shortdesc: .shortdesc}
@@ -39,7 +35,7 @@ Pour créer une règle d'un groupe de sécurité, procédez comme suit :
 2. Sur la page Groupes de sécurité, cliquez sur le nom d'un groupe de sécurité pour ouvrir la page Détails, puis sélectionnez **Créer une règle**.
 3. Sur la page Créer une règle, entrez tous les attributs appropriés (sens, type d'IP, protocole et informations relatives à la source et à la destination, par exemple). Quand vous avez terminé, cliquez sur **OK**.
 
-**Remarque **: la sélection facultative des zones Source ou Destination restreignant la nouvelle règle, elle ne s'applique qu'au trafic entrant/sortant de la source/destination spécifiée. Les zones Source ou Destination peuvent spécifier un bloc CIDR (Classless Inter-Domain Routing) ou un groupe de sécurité. 
+**Remarque **: la sélection facultative des zones Source ou Destination restreignant la nouvelle règle, elle ne s'applique qu'au trafic entrant/sortant de la source/destination spécifiée.  Les zones Source ou Destination peuvent spécifier un bloc CIDR (Classless Inter-Domain Routing) ou un groupe de sécurité. 
 
 Un bloc CIDR facilite le routage d'un bloc d'adresses IP.  Si vous sélectionnez le type CIDR, spécifiez une plage d'adresses IP. 
 

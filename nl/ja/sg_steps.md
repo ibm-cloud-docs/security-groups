@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-06"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -20,6 +20,12 @@ lastupdated: "2018-04-06"
 {: #tutorials}
 
 これらの包括的なステップバイステップ・ガイドを使用して、IBM Cloud でセキュリティー・グループを作成してカスタマイズし、仮想サーバーでの入力と出力のトラフィックを処理することができます。 
+
+### [オーダー時の事前定義セキュリティー・グループの追加](add-existing-sg.html)
+<img src="images/tutorial-reqs.png" alt="図面" style="width: 300px;"/>
+
+このガイドでは、オーダー・プロセスで既存または事前定義 (デフォルト) のセキュリティー・グループをインスタンスに追加する方法を示します。
+
 
 <style>
     .solutionBox {

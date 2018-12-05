@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-04"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -18,7 +18,6 @@ lastupdated: "2018-04-04"
 {:shortdesc}
 
 시작하려면 Virtual Server 인스턴스(VSI)를 주문하고 보안 그룹을 지정하십시오.
-
  
 1. 브라우저에서 [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://control.softlayer.com/)을 열고 계정에 로그인하십시오.
 2. **주문** 섹션을 찾아 **디바이스**를 클릭하십시오.

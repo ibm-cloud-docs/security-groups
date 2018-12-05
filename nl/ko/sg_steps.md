@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-06"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -20,6 +20,12 @@ lastupdated: "2018-04-06"
 {: #tutorials}
 
 이러한 포괄적인 단계별 안내를 사용하여 Virtual Server에서 수신 및 발신 트래픽을 처리하도록 IBM Cloud에서 보안 그룹을 빌드하고 사용자 정의하십시오. 
+
+### [주문하는 중에 사전 정의된 보안 그룹 추가](add-existing-sg.html)
+<img src="images/tutorial-reqs.png" alt="그리기" style="width: 300px;"/>
+
+이 안내서는 주문 프로세스 중에 기존의 사전 정의된(기본) 보안 그룹을 인스턴스에 추가하는 방법을 보여줍니다.
+
 
 <style>
     .solutionBox {

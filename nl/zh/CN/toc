@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="security-groups" audience="security" href="/docs/infrastructure/security-groups/sg_index.html"}
+{: .toc subcollection="security-groups" audience="security" arm="4034676" href="/docs/infrastructure/security-groups/sg_index.html" path="infrastructure/security-groups"}
 安全组
   
     {: .navgroup id="learn"}
@@ -27,7 +27,6 @@
         csg_rule.md
         csg_assign_instances.md
         csg_edit.md
-    
     {: .navgroup-end}
     
     {: .navgroup id="reference"}

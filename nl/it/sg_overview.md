@@ -4,8 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2017-08-08"
-
+lastupdated: "2018-11-10"
 
 ---
 
@@ -30,7 +29,7 @@ I gruppi di sicurezza sono implementati nell'hypervisor che ospita il server vir
 
 ## Gruppi di sicurezza forniti da IBM
 Puoi assegnare uno dei seguenti gruppi di sicurezza forniti da IBM alle interfacce di
-rete delle tue istanze del server virtuale: 
+rete delle tue istanze del server virtuale:
 
 * *allow_ssh*: questo gruppo di sicurezza definisce le regole IP che consentono il traffico TCP in ingresso solo sulla porta SSH (22/TCP).
 * *allow_http*: questo gruppo di sicurezza definisce le regole IP che consentono il traffico in ingresso solo sulla porta HTTP (80/TCP).
@@ -38,8 +37,8 @@ rete delle tue istanze del server virtuale:
 * *allow_outbound*: questo gruppo di sicurezza definisce le regole IP che consentono tutto il traffico in uscita dal server.
 * *allow_all*: questo gruppo di sicurezza definisce le regole IP che consentono tutto il traffico in ingresso su tutte le porte.
 
-## Gruppi di sicurezza e log di controllo 
-Tutte le interazioni del gruppo di sicurezza sono registrate in un [log di controllo](https://console.bluemix.net/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog) dell'account. Le voci del log di controllo tracciano le modifiche e quale utente ha richiesto la modifica. I log vengono scritti per le seguenti interazioni:
+## Gruppi di sicurezza e log di controllo
+Tutte le interazioni del gruppo di sicurezza sono registrate in un [log di controllo](/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog) dell'account. Le voci del log di controllo tracciano le modifiche e quale utente ha richiesto la modifica. I log vengono scritti per le seguenti interazioni:
 * Un gruppo di sicurezza viene aggiunto a o rimosso da un'interfaccia di rete del server virtuale
 * Le regole di un gruppo di sicurezza vengono modificate aggiungendo, modificando o rimuovendo una regola
 

@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-06"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -20,6 +20,12 @@ lastupdated: "2018-04-06"
 {: #tutorials}
 
 Utilice estas guías paso a paso completas para crear y personalizar los Grupos de seguridad con IBM Cloud para gestionar el tráfico entrante y saliente en los servidores virtuales. 
+
+### [Adición de un Grupo de seguridad predefinido durante la solicitud](add-existing-sg.html)
+<img src="images/tutorial-reqs.png" alt="dibujo" style="width: 300px;"/>
+
+Esta guía le muestra cómo añadir grupos de seguridad existentes o predefinidos (predeterminados) a instancias durante el proceso de solicitud.
+
 
 <style>
     .solutionBox {

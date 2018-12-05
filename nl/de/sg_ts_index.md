@@ -4,30 +4,17 @@
 
 copyright:
   years: 2017,2018
-lastupdated: "2018-02-28"
+lastupdated: "2018-11-10"
 
 
 ---
 
-<!-- Common attributes used in the template are defined as follows: -->
 {:tsSymptoms: .tsSymptoms} 
 {:tsCauses: .tsCauses} 
 {:tsResolve: .tsResolve} 
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
 
-<!-- # {{site.data.keyword.blockstorageshort}} troubleshooting
-{: #ts} -->
-<!-- Provide an appropriate ID above -->
-
-<!-- IN PROGRESS - AUDIENCE BLUE, STAGING ONLY -->
-
-
-<!-- This is the template for troubleshooting topics.  -->
-
-<!-- The short description section should include the service long name and "Bluemix" for search optimization. Example short description: -->
-
-<!-- Add a heading and content for how to get help and support. Use this template for beta and GA services:  -->
 # Hilfe und Support anfordern 
 {: #gettinghelp}
 
@@ -39,12 +26,12 @@ Wenn Sie bei der Verwendung von Sicherheitsgruppen für {{site.data.keyword.BluV
 
 Wenn Sie in den Foren eine Frage stellen, sollten Sie diese Frage mit einem Tag versehen, damit sie von den {{site.data.keyword.Bluemix_notm}}-Entwicklerteams gesehen wird.
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
-* Wenn Sie technische Fragen zu Sicherheitsgruppen für virtuelle Server haben, können Sie Ihre Frage bei [Stack Overflow ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window} posten und mit 'ibm-cloud' und 'network-security-groups' taggen. 
+* Wenn Sie technische Fragen zu Sicherheitsgruppen für virtuelle Server haben, können Sie Ihre Frage bei [Stack Overflow ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window} posten und mit 'ibm-cloud' und 'network-security-groups' taggen.
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* Verwenden Sie für Fragen zum Service und zu Anweisungen für die ersten Schritte das Forum [IBM developerWorks dW Answers ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window}. Schließen Sie die Tags 'security groups' und 'ibm-cloud' ein. 
+* Verwenden Sie für Fragen zum Service und zu Anweisungen für die ersten Schritte das Forum [IBM developerWorks dW Answers ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window}. Schließen Sie die Tags 'security groups' und 'ibm-cloud' ein.
 
-Lesen Sie [Hilfe anfordern](https://console.bluemix.net/docs/support/index.html#getting-help), um weitere Einzelheiten zur Verwendung der Foren zu erhalten.
+Lesen Sie [Hilfe anfordern](/docs/support/index.html#getting-help), um weitere Einzelheiten zur Verwendung der Foren zu erhalten.
 
-Informationen zum Öffnen eines IBM Support-Tickets oder zu Support-Levels und der Dringlichkeit von Tickets finden Sie unter [Support kontaktieren](https://console.bluemix.net/docs/support/index.html#contacting-support).
+Informationen zum Öffnen eines IBM Support-Tickets oder zu Support-Levels und der Dringlichkeit von Tickets finden Sie unter [Support kontaktieren](/docs/support/index.html#contacting-support).
 
 

@@ -33,7 +33,7 @@ Gegenzug strukturierte Daten erhalten. Das Format, das zum Senden und Empfangen 
 
 Weitere Informationen zur SoftLayer-API, zum virtuellen Server und zu den APIs der Sicherheitsgruppen finden Sie in den folgenden
 Ressourcen im SoftLayer Development Network:
-* [SoftLayer-API - Übersicht ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://sldn.softlayer.com/article/softlayer-api-overview){: new_window} 
+* [SoftLayer-API - Übersicht ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://softlayer.github.io/reference/softlayerapi/){: new_window} 
 * [Einführung in die SoftLayer-API ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](http://sldn.softlayer.com/article/getting-started){: new_window}
 * [API *SoftLayer_Virtual_Guest/createObject* ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: new_window}
 * [API *SoftLayer_Network_SecurityGroup* ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: new_window}

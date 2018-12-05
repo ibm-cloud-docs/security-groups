@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-06"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -20,6 +20,12 @@ lastupdated: "2018-04-06"
 {: #tutorials}
 
 Utilizza questa guida dettagliata completa per creare e personalizzare i gruppi di sicurezza con IBM Cloud e per gestire il traffico in entrata e in uscita nei tuoi server virtuali. 
+
+### [Aggiunta di gruppo di sicurezza predefinito durante l'ordine](add-existing-sg.html)
+<img src="images/tutorial-reqs.png" alt="drawing" style="width: 300px;"/>
+
+Questa guida ti mostra come aggiungere gruppi di sicurezza predefiniti o esistenti alle istanze durante il processo di ordine.
+
 
 <style>
     .solutionBox {
@@ -76,7 +82,7 @@ Utilizza questa guida dettagliata completa per creare e personalizzare i gruppi 
         </h3>
         <div class="solutionBoxDescription">
             <div class="descriptionContainer">
-                <p>Questa guida ti mostra come aggiungere gruppi di sicurezza predefiniti o esistenti alle istanze durante il processo di ordine. </p>
+                <p>Questa guida ti mostra come aggiungere gruppi di sicurezza predefiniti o esistenti alle istanze durante il processo di ordine.</p>
                     <span class="tag-filter category">Gruppi di sicurezza</span>
                     <span class="tag-filter category">Server virtuale</span>
                     <span class="tag-filter category">Sottorete privata</span>
@@ -91,7 +97,7 @@ Utilizza questa guida dettagliata completa per creare e personalizzare i gruppi 
         </h3>
         <div class="solutionBoxDescription">
             <div class="descriptionContainer">
-                <p>Questa guida è una procedura di come creare, assegnare le istanze a e modificare un gruppo di sicurezza personalizzato. </p>
+                <p>Questa guida è una procedura di come creare, assegnare le istanze a e modificare un gruppo di sicurezza personalizzato.</p>
                  <span class="tag-filter category">Gruppi di sicurezza</span>
                  <span class="tag-filter category">Reti private CPA</span>
                  <span class="tag-filter category">Server virtuale</span>

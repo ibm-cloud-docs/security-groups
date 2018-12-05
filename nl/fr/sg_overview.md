@@ -4,8 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2017-08-08"
-
+lastupdated: "2018-11-10"
 
 ---
 
@@ -24,7 +23,7 @@ Un *groupe de sécurité* est un ensemble de règles de filtrage d'adresses IP q
 * Le trafic entrant sur une instance de serveur virtuel est appelé "ingress".
 * Le trafic sortant d'une instance de serveur virtuel est appelé "egress".
 
-Les groupes de sécurité sont implémentés sur l'hyperviseur hébergeant le serveur virtuel. 
+Les groupes de sécurité sont implémentés sur l'hyperviseur hébergeant le serveur virtuel.
 
 ## Groupes de sécurité fournis par IBM
 Vous pouvez affecter l'un des groupes de sécurité suivants, fournis par IBM, dans les interfaces réseau de vos instances de serveur virtuel :
@@ -36,13 +35,13 @@ Vous pouvez affecter l'un des groupes de sécurité suivants, fournis par IBM, d
 * *allow_all* : ce groupe de sécurité définit les règles d'adresses IP qui autorisent l'ensemble du trafic d'entrée sur tous les ports.
 
 ## Groupes de sécurité et journaux d'audit
-Toutes les interactions de groupe de sécurité sont consignées dans un [journal d'audit](https://console.bluemix.net/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog) de compte. Les entrées de journal d'audit effectuent le suivi des changements apportés à des groupes de sécurité spécifiques et gardent trace du nom de l'utilisateur qui a demandé la modification. Des entrées sont effectuées dans les journaux pour les interactions suivantes :
+Toutes les interactions de groupe de sécurité sont consignées dans un [journal d'audit](/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog) de compte. Les entrées de journal d'audit effectuent le suivi des changements apportés à des groupes de sécurité spécifiques et gardent trace du nom de l'utilisateur qui a demandé la modification. Des entrées sont effectuées dans les journaux pour les interactions suivantes :
 * Un groupe de sécurité est ajouté dans une interface réseau de serveur virtuel (ou retiré de cette dernière)
 * Les règles d'un groupe de sécurité sont modifiées (ajout, édition ou retrait d'une règle).
 
 Pour chacune de ces interactions, un journal est écrit pour chaque objet affecté. Toute modification d'un groupe de sécurité entraîne l'inscription dans un journal. Des journaux supplémentaires sont écrits pour chaque interface réseau de serveur virtuel attachée au groupe de sécurité. Le filtrage des journaux d'audit sur un groupe de sécurité spécifique montre tous les changements apportés à ce groupe de sécurité pour le groupe. De la même façon, le filtrage des journaux sur un serveur virtuel spécifique affiche toutes les modifications effectuées dans le(s) groupe(s) de sécurité pour le serveur virtuel.
 
-Puisque les modifications apportées aux groupes de sécurité peuvent conduire à une mise à jour en arrière-plan d'un certain nombre de serveurs virtuels, les journaux d'audit permettent de déterminer précisément quand un changement a pris effet. Les API de groupe de sécurité qui génèrent des journaux d'audit retournent un identificateur de demande. Cet identificateur peut servir à établir une corrélation entre les appels API et les journaux d'audit résultants.
+Puisque les modifications apportées aux groupes de sécurité peuvent conduire à une mise à jour en arrière-plan d'un certain nombre de serveurs virtuels, les journaux d'audit permettent de déterminer précisément quand un changement a pris effet.  Les API de groupe de sécurité qui génèrent des journaux d'audit retournent un identificateur de demande. Cet identificateur peut servir à établir une corrélation entre les appels API et les journaux d'audit résultants.
 
 ## Exemple
 Dans le diagramme suivant, les instances de serveur virtuel sont associées à un ensemble de groupes de sécurité pour restreindre le trafic réseau. Les flèches représentent le flux du trafic réseau. Le développeur d'applications a restreint l'accès aux différentes couches de l'infrastructure, comme suit :

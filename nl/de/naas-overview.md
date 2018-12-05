@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-01-08"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -16,7 +16,7 @@ lastupdated: "2018-01-08"
 # Demo: Network-as-a-Service
 {: #naas-video}
 
-IBM Cloud Network-Services, darunter Lastausgleichsfunktionen, Sicherheitsgruppen und CDN, vereinfachen die Erstellung von cloudnativen Anwendungen mit besserer Sicherheit, Leistung und Ausfallsicherheit. In dieser Demonstration lernen Sie, wie Sie diese Services verwenden können, um eine einfache Web-App mit drei Ebenen mit wenigen Klicks zu erstellen. 
+IBM Cloud Network-Services, darunter Lastausgleichsfunktionen, Sicherheitsgruppen und CDN, vereinfachen die Erstellung von cloudnativen Anwendungen mit besserer Sicherheit, Leistung und Ausfallsicherheit. In dieser Demonstration lernen Sie, wie Sie diese Services verwenden können, um eine einfache Web-App mit drei Ebenen mit wenigen Klicks zu erstellen.
 
 <p>
   <div class="embed-responsive embed-responsive-16by9">

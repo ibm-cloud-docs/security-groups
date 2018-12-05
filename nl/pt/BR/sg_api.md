@@ -31,7 +31,7 @@ O SoftLayer API é um sistema de Chamada de Procedimento Remoto Cada chamada env
 
 Para obter mais informações sobre o SoftLayer API, o servidor virtual e as APIs do grupo de segurança, veja os recursos a seguir no
 SoftLayer Development Network:
-* [Visão geral do SoftLayer API ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://sldn.softlayer.com/article/softlayer-api-overview){: new_window} 
+* [Visão geral do SoftLayer API ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://softlayer.github.io/reference/softlayerapi/){: new_window} 
 * [Introdução ao SoftLayer API ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](http://sldn.softlayer.com/article/getting-started){: new_window}
 * [API *SoftLayer_Virtual_Guest/createObject* ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: new_window}
 * [API *SoftLayer_Network_SecurityGroup* ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: new_window}

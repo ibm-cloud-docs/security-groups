@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-04"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -19,7 +19,7 @@ lastupdated: "2018-04-04"
 # Guida dettagliata: aggiunta di un gruppo di sicurezza predefinito durante l'ordine
 Questa procedura dettagliata ti mostra come aggiungere gruppi di sicurezza predefiniti o esistenti alle istanze durante il processo di ordine.
 
-Puoi utilizzare i gruppi di sicurezza per applicare una serie di regole di filtro IP che definiscono come gestire il traffico in entrata e in uscita alle interfacce pubbliche e private di un'istanza del server virtuale. 
+Puoi utilizzare i gruppi di sicurezza per applicare una serie di regole di filtro IP che definiscono come gestire il traffico in entrata e in uscita alle interfacce pubbliche e private di un'istanza del server virtuale.
 
 ![Gruppo di sicurezza personalizzato](./images/goal2.jpg)
 
@@ -44,7 +44,7 @@ Per ordinare un'istanza del server virtuale e assegnare un gruppo di sicurezza, 
 
 	* Ubicazione
 	* Specifiche
-	* Opzioni della porta di rete.  
+	* Opzioni della porta di rete. 
 
 7. Da **Configura gruppi di sicurezza**, seleziona il gruppo di sicurezza desiderato da applicare. Le regole associate a ogni gruppo di sicurezza possono essere visualizzate facendo clic sul link **Visualizza regole**. 
 
@@ -52,6 +52,6 @@ Per ordinare un'istanza del server virtuale e assegnare un gruppo di sicurezza, 
 
 	Puoi selezionare qualsiasi gruppo di sicurezza predefinito da applicare alle interfacce private o pubbliche sul server virtuale.
 	
-8. Specifica il nome dell'istanza. 
+8. Specifica il nome dell'istanza.
 9. Spunta la casella dei termini del servizio cloud e degli accordi di servizio di terze parti se applicabile.
 10. Infine, fai clic su **Inoltra ordine**.

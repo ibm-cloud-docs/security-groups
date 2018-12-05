@@ -33,7 +33,7 @@ strutturati. Il formato utilizzato per inviare e ricevere dati con la SLAPI dipe
 
 Per ulteriori informazioni sull'API SoftLayer, sul server virtuale e sulle API del gruppo di sicurezza, consulta le seguenti risorse in SoftLayer
 Development Network:
-* [Panoramica dell'API SoftLayer ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://sldn.softlayer.com/article/softlayer-api-overview){: new_window} 
+* [Panoramica dell'API SoftLayer ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://softlayer.github.io/reference/softlayerapi/){: new_window} 
 * [Introduzione all'API SoftLayer ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](http://sldn.softlayer.com/article/getting-started){: new_window}
 * [API *SoftLayer_Virtual_Guest/createObject* ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: new_window}
 * [API *SoftLayer_Network_SecurityGroup* ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: new_window}

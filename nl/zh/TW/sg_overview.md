@@ -4,8 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2017-08-08"
-
+lastupdated: "2018-11-10"
 
 ---
 
@@ -36,7 +35,7 @@ lastupdated: "2017-08-08"
 * *allow_all*：此安全群組定義的 IP 規則，會允許所有埠上的所有輸入資料流量。
 
 ## 安全群組及審核日誌
-所有安全群組互動都記載至帳戶的[審核日誌](https://console.bluemix.net/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog)。審核日誌項目追蹤特定的安全群組變更，以及哪一個使用者要求變更。在進行下列互動時，即會撰寫日誌：
+所有安全群組互動都記載至帳戶的[審核日誌](/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog)。審核日誌項目追蹤特定的安全群組變更，以及哪一個使用者要求變更。在進行下列互動時，即會撰寫日誌：
 * 在虛擬伺服器的網路介面中新增或移除安全群組
 * 安全群組的規則由新增規則、編輯規則或移除規則所變更
 

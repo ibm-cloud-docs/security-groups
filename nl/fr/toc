@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="security-groups" audience="security" href="/docs/infrastructure/security-groups/sg_index.html"}
+{: .toc subcollection="security-groups" audience="security" arm="4034676" href="/docs/infrastructure/security-groups/sg_index.html" path="infrastructure/security-groups"}
 Groupes de sécurité
   
     {: .navgroup id="learn"}
@@ -22,7 +22,6 @@ Groupes de sécurité
 		
     {: .topicgroup}
     Création et gestion d'un groupe de sécurité personnalisé
-    
     {: .navgroup-end}
     
     {: .navgroup id="reference"}

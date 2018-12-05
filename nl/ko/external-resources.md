@@ -3,7 +3,7 @@
 copyright:
   years: 2017, 2018
 
-lastupdated: "2018-05-23"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -15,7 +15,7 @@ lastupdated: "2018-05-23"
 {:tip: .tip}
 {:download: .download}
 
-# 외부 리소스
+# 기타 리소스
 
 이러한 리소스는 IBM과 일부 파트너 및 고객에 의해 작성됩니다.
 
@@ -30,3 +30,7 @@ lastupdated: "2018-05-23"
 * [**Blog Post: Take control of your cloud network with security groups**](https://www.ibm.com/blogs/bluemix/2017/11/security-groups/)
 
     *"클라우드 환경에서 '누가 누구에게 대화'하는지를 고려해야 합니다. 이 대화를 규제하는 한 가지 방법은 보안 그룹을 통한 방법입니다."*
+    
+* [**블로그 게시물: IBM 네트워크 보안 서비스를 사용하여 클라우드를 안전하게 보호**](https://www.ibm.com/blogs/bluemix/2017/09/keep-cloud-safe-ibm-network-security-services/)
+
+    *"네트워크 보안 설정에 관한 한 어디에나 적용되는 접근 방법은 없습니다. 조직이 클라우드에 있는 중요한 데이터 및 애플리케이션을 점점 더 활용할수록, 여러분 네트워크에 가장 적합한 보안 옵션이 무엇인지 궁금할 수 있습니다."*

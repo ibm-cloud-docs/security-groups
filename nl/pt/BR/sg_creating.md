@@ -1,12 +1,8 @@
 ---
 
-
-
 copyright:
   years: 2017
-lastupdated: "2017-04-27"
-
-
+lastupdated: "2018-11-10"
 ---
 
 {:shortdesc: .shortdesc}
@@ -39,7 +35,7 @@ Para criar uma regra de grupo de segurança, conclua as etapas a seguir:
 2. Na página Grupos de segurança, clique em um nome do grupo de segurança para abrir a página Detalhes e selecione **Criar regra**.
 3. Na página Criar regra, insira todos os atributos apropriados (como direção, tipo de IP, protocolo e informações de origem/destino). Quando concluído, clique em **Ok**.
 
-**Nota**: a seleção dos campos de origem ou de destino opcionais restringirá a nova regra para que ela se aplique apenas ao tráfego para/de a origem/o destino especificado. Os campos de origem e de destino podem especificar um bloco ou um grupo de segurança do Classless Inter-Domain Routing (CIDR). 
+**Nota**: a seleção dos campos de origem ou de destino opcionais restringirá a nova regra para que ela se aplique apenas ao tráfego para/de a origem/o destino especificado.  Os campos de origem e de destino podem especificar um bloco ou um grupo de segurança do Classless Inter-Domain Routing (CIDR). 
 
 Um bloco CIDR facilita o roteamento de um bloco de endereços IP.  Se você seleciona CIDR como o tipo, deve-se especificar um intervalo de endereço IP. 
 

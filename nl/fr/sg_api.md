@@ -27,7 +27,7 @@ L'interface de programmation SoftLayer (SLAPI) offre un grand nombre de fonction
 L'interface de programmation SoftLayer est un système à appel de procédure distante. Chaque appel implique l'envoi de données vers un noeud final d'API et la réception de données structurées en retour. Le format utilisé pour l'envoi et la réception de données à l'aide de SLAPI dépend de l'implémentation que vous avez choisie. 
 
 Pour plus d'informations sur l'API SoftLayer, le serveur virtuel et les API de groupe de sécurité, voir les ressources suivantes dans le réseau de développement SoftLayer :
-* [SoftLayer API Overview ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://sldn.softlayer.com/article/softlayer-api-overview){: new_window} 
+* [SoftLayer API Overview ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://softlayer.github.io/reference/softlayerapi/){: new_window} 
 * [Getting Started with the SoftLayer API ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](http://sldn.softlayer.com/article/getting-started){: new_window}
 * [*SoftLayer_Virtual_Guest/createObject* API ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: new_window}
 * [*SoftLayer_Network_SecurityGroup* API ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: new_window}

@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-06"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -20,6 +20,12 @@ lastupdated: "2018-04-06"
 {: #tutorials}
 
 使用这些全面的分步指南可通过 IBM Cloud 构建和定制安全组，以处理虚拟服务器上的入局和出局流量。 
+
+### [订购期间添加预定义的安全组](add-existing-sg.html)
+        <img src="images/tutorial-reqs.png" alt="图样" style="width: 300px;"/>
+
+本指南说明了如何在订购期间向实例添加现有或预定义（缺省）安全组。
+
 
 <style>
     .solutionBox {

@@ -29,8 +29,8 @@ SLAPI(SoftLayer API)는 고객 포털에 있는 기능의 대부분을 지원하
 SoftLayer API는 원격 프로시저 호출(RPC) 시스템입니다. 각 호출에는 API 엔드포인트로 데이터를 전송하고 구조화된 데이터를 수신하는 과정이 포함됩니다. SLAPI를 통해 데이터를 전송하고 수신하는 데 사용되는 형식은 사용자가 선택한 API 구현에 따라 다릅니다. 
 
 SoftLayer API, Virtual Server 및 보안 그룹 API에 대한 자세한 정보는 SoftLayer 개발 네트워크에서
-다음 자원을 참조하십시오.
-* [SoftLayer API 개요 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://sldn.softlayer.com/article/softlayer-api-overview){: new_window} 
+다음 리소스를 참조하십시오.
+* [SoftLayer API 개요 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://softlayer.github.io/reference/softlayerapi/){: new_window} 
 * [SoftLayer API 시작하기 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](http://sldn.softlayer.com/article/getting-started){: new_window}
 * [*SoftLayer_Virtual_Guest/createObject* API ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: new_window}
 * [*SoftLayer_Network_SecurityGroup* API ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: new_window}

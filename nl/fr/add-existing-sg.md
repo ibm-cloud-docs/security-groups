@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-04-04"
+lastupdated: "2018-11-10"
 
 
 ---
@@ -30,7 +30,7 @@ Pour cet exemple, les objets et éléments suivants seront utilisés :
 |:------------- |:---------------:| -------------:| :---------------:| ---------------:|
 | allow_ssh1 | Non applicable  | Groupe de sécurité | Non applicable | 0.0.0.0/0 |
 |jpmongevsi2.testing.com | Ubuntu 16.04 | Instance de serveur virtuel | Dallas 10 Pod 01 | 10.0.0.21 |	
-|jpmongevsi4.testing.com | Ubuntu 16.04 | Instance de serveur virtuel |	 Dallas 10 Pod 01 | 10.0.2.219 |
+|jpmongevsi4.testing.com | Ubuntu 16.04 | Instance de serveur virtuel |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 ## Commande d'un groupe de sécurité
 Pour commander une instance de serveur virtuel et affecter un groupe de sécurité, procédez comme suit :

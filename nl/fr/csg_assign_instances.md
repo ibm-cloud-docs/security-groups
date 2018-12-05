@@ -4,8 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-02-15"
-
+lastupdated: "2018-11-10"
 
 ---
 
@@ -45,7 +44,7 @@ Vous pouvez affecter des objets de groupe de sécurité à des instances en util
 
 	![Interface réseau privé](./images/device_assign.jpg)
 
-	Cet écran montre  l'objet Groupe de sécurité "allow_icmp" qui est affecté à l'interface privée de l'instance jpmongevsi4.
+	Cet écran montre l'objet Groupe de sécurité "allow_icmp" qui est affecté à l'interface privée de l'instance jpmongevsi4.
 4. Cliquez sur **Enregistrer** pour appliquer les changements.
 
 5. Redémarrez l'instance.
