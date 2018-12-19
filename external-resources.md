@@ -19,11 +19,11 @@ lastupdated: "2018-11-10"
 
 These resources are created by IBM and some of our partners and customers.
 
-* [**Blog Post: Illustrating Uses of IBM Cloud Security Groups**](https://admin.blogs.prd.ibm.event.ibm.com/blogs/bluemix/2018/05/illustrating-uses-ibm-cloud-security-groups/)
+* [**Blog Post: Illustrating Uses of IBM Cloud Security Groups**](https://www.ibm.com/blogs/bluemix/2018/05/illustrating-uses-ibm-cloud-security-groups/)
 
     *"Security groups firewall your IBM Cloud applications from nefarious network traffic, protecting you and your company from the efforts of 'industrious users' trying to bring down your application, or make off with your customer’s credit card details. If those sound like sub-optimal outcomes for your situation, read on…"*
     
-* [**Blog Post: Regulate access to your network resources with IBM Cloud security groups**](https://admin.blogs.prd.ibm.event.ibm.com/blogs/bluemix/2017/09/network-security-groups/)
+* [**Blog Post: Regulate access to your network resources with IBM Cloud security groups**](https://www.ibm.com/blogs/bluemix/2017/09/network-security-groups/)
 
     *"IBM Cloud security groups are a set of IP filter rules (five-tuple rules: source and destination IP, source and destination port, and protocol) that define how to handle incoming (ingress) and outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The rules added to the security group are known as security group rules."*
 
