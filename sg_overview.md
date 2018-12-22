@@ -20,7 +20,7 @@ rules that you add to a security group are known as *security group rules*.
 {:shortdesc}
 
 * You can assign security groups to the public and/or private network interfaces of a single virtual server or multiple virtual server instances.
-* You can assign security groups that are provided by IBM or that you create.
+* You can assign security groups that are provided by IBM© or that you create.
 * When a security group is applied to a network component of a virtual server instance, all traffic to and from that network component is denied unless explicitly permitted by a security group rule.
 * The inbound traffic to a virtual server instance is referred to as ingress traffic.
 * The outbound traffic from a virtual server instance is referred to as egress traffic.

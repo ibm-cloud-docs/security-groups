@@ -17,7 +17,7 @@ lastupdated: "2018-11-10"
 
 # Other Resources
 
-These resources are created by IBM and some of our partners and customers.
+These resources are created by IBM© and some of our partners and customers.
 
 * [**Blog Post: Illustrating Uses of IBM Cloud Security Groups**](https://www.ibm.com/blogs/bluemix/2018/05/illustrating-uses-ibm-cloud-security-groups/)
 

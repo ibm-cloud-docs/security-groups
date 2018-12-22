@@ -41,7 +41,7 @@ In this tutorial you will learn how to...
 
 Task  | Description
 ------------- | -------------
-[Create a Security Group](csg_create.html) | Create and configure a custom security group, as opposed to using one pre-defined by the IBM cloud platform. 
+[Create a Security Group](csg_create.html) | Create and configure a custom security group, as opposed to using one pre-defined by the IBM© cloud platform. 
 [Create a rule](csg_rule.html)  | Create a rule to allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows. 
 [Assign instances to the Security Group](csg_assign_instances.html) | Assign Security Group objects to instances using either the Security Menu or the Device Menu.
 [Edit a Security Group and its Rules](csg_edit.html) | Modify the parameters of the Security Object and its rules.

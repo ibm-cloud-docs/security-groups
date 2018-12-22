@@ -28,7 +28,7 @@ When using the forums to ask a question, tag your question so that it is seen by
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
 * If you have technical questions about security groups for virtual servers, post your question on [Stack Overflow ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window} and tag your question with "ibm-cloud" and "network-security-groups".
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* For questions about the service and getting started instructions, use the [IBM developerWorks dW Answers ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window} forum. Include the  "security groups" and "ibm-cloud" tags.
+* For questions about the service and getting started instructions, use the [IBM© developerWorks dW Answers ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window} forum. Include the  "security groups" and "ibm-cloud" tags.
 
 See [Getting help](/docs/support/index.html#getting-help) for more details about using the forums.
 

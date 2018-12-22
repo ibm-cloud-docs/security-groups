@@ -37,7 +37,7 @@ The sections below describe a few difficult network security scenarios you might
 **Solution:** Use Security Groups at the time of ordering the virtual server. That way, your server is protected right from the time it is provisioned.
 
 ### Cost-efficient instance level firewall
-**Security scenario:** Customers want to have granular control over traffic at an instance level (apart from network-level firewalling), but at the same time, the costs of a shared hardware firewall (which is IBM’s other instance level multi-tenant firewall offering) can add up quickly if the customer needs to protect multiple servers in different data centers.
+**Security scenario:** Customers want to have granular control over traffic at an instance level (apart from network-level firewalling), but at the same time, the costs of a shared hardware firewall (which is another instance level by IBM© of a multi-tenant firewall offering) can add up quickly if the customer needs to protect multiple servers in different data centers.
 
 **Solution:** There is no extra charge for using the Security Groups feature. Use Security Groups for all virtual servers that need protection in any of our global data centers.
 
