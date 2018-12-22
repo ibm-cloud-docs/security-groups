@@ -12,6 +12,7 @@ Security Groups
     sg_perf_limits.md
     naas-overview.md
     [Explore Firewalls](../docs/infrastructure/fortigate-10g/explore-firewalls.html)
+    external-resources.md
     {: .navgroup-end}
     
     {: .navgroup id="howto"}
@@ -30,7 +31,6 @@ Security Groups
     
     {: .navgroup id="reference"}
     sg_api.md
-    external-resources.md
     {: .navgroup-end}
 
     {: .navgroup id="help"}
