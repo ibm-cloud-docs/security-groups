@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
 
-# Getting Help and Support 
+# Getting Help and Support for IBM Security Groups
 {: #gettinghelp}
 
 Last updated: 16 August 2017
@@ -30,8 +30,6 @@ When using the forums to ask a question, tag your question so that it is seen by
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
 * For questions about the service and getting started instructions, use the [IBM© developerWorks dW Answers ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window} forum. Include the  "security groups" and "ibm-cloud" tags.
 
-See [Getting help](/docs/support/index.html#getting-help) for more details about using the forums.
+See [Getting help](https://{DomainName}/docs/get-support?topic=get-support-using-avatar) for more details about using the forums.
 
-For information about opening an IBM support ticket, or about support levels and ticket severities, see [Contacting support](/docs/support/index.html#contacting-support).
-
-
+For information about opening an IBM support ticket, or about support levels and ticket severities, see [Contacting support](/docs/get-support?topic=get-support-contacting-bluemix-support-dedicated-local).

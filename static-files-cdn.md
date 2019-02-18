@@ -16,7 +16,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Accelerate delivery of static files using Object Storage and CDN
+# Accelerating the Delivery of Static Files Using Object Storage and CDN
 Allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows by performing the following procedure:
 
 1. Select the **Rules** tab in the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window}.

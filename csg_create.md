@@ -30,4 +30,4 @@ Create and configure a custom security group:
 Note that the **Create group with a default…** checkbox is unmarked. This means no outbound rule will be created for this Security Group object. As a result, unless other outbound rules or Security Group objects are created, only incoming requests (such as SSH and ICMP) and their related (outgoing) traffic flows or responses will be permitted.
 
 ## Next step...
-[Create a rule](csg_rule.html) to allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows.  
+[Create a rule](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) to allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows.  

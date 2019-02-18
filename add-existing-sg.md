@@ -16,7 +16,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Step-by-step: Adding a pre-defined Security Group during ordering
+# Adding a pre-defined Security Group during ordering
 This step-by-step procedure shows you how to add existing or pre-defined security groups to instances during the ordering process.
 
 You can use Security Groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.

@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Ordering a Security Group
+# Ordering an IBM Security Group
 
 To order a virtual server instance and assign a security group, perform the following procedure:
 

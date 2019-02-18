@@ -12,7 +12,7 @@ lastupdated: "2018-11-10"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Performance limitations for security groups
+# Performance Limitations for Security Groups
 
 Some performance limitations exist for security groups and their associated rules. 
 {:shortdesc}

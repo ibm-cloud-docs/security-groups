@@ -12,14 +12,13 @@ lastupdated: "2018-11-10"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Existing network configurations and security groups
+# Existing Network Configurations and Security Groups
 
 A security group augments any existing network configuration. Therefore, a security group cannot span across networks that cannot communicate 
 with one another. 
 {:shortdesc}
 
-If virtual server instances cannot communicate with one another, adding them to a security group does not change that 
-behavior. Gateways must allow the traffic that is defined by the selected security groups.
+If virtual server instances cannot communicate with one another, adding them to a security group does not change that behavior. Gateways must allow the traffic that is defined by the selected security groups.
 
 If your account is enabled for custom private addressing (CPA) as well as security groups, be aware that security groups are scoped to the account level, not the network level. Security groups are defined by IP addresses, not private networks.
 

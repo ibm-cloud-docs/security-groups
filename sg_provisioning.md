@@ -12,7 +12,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 
-# Provisioning a virtual server with security groups
+# Provisioning a Virtual Server with IBM Security Groups
 
 To get started, order a virtual server 
 instance and assign a security group.
@@ -26,4 +26,3 @@ instance and assign a security group.
 6. Complete the Configure Security Groups information.
 7. You can select any of the predefined security groups to apply to the private or public interfaces on the virtual server.
 8. Finally, click **Submit Order**.
-

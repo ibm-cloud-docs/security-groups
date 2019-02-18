@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Automate deployment of environments using Schematics
+# Automating the Deployment of Environments Using Schematics
 Allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows by performing the following procedure:
 
 1. Select the **Rules** tab in the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window}.
