@@ -15,8 +15,8 @@ lastupdated: "2018-11-10"
 {: #about-ibm-security-groups}
 
 ## What is a security group?
-A *security group* is a set of IP filter rules that define how to handle incoming (ingress) and 
-outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The 
+A *security group* is a set of IP filter rules that define how to handle incoming (ingress) and
+outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The
 rules that you add to a security group are known as *security group rules*.
 {:shortdesc}
 
@@ -29,7 +29,7 @@ rules that you add to a security group are known as *security group rules*.
 Security groups are implemented on the hypervisor hosting the virtual server.
 
 ## Security groups provided by IBM
-You can assign any of the following security groups that are provided by IBM to the network 
+You can assign any of the following security groups that are provided by IBM to the network
 interfaces of your virtual server instances:
 
 * *allow_ssh*: This security group defines the IP rules that allow ingress TCP traffic on the SSH port only (22/TCP).
@@ -48,11 +48,11 @@ For each of those interactions, one log is written for each affected object. A l
 Since security group changes may result in a number of virtual servers being updated in the background, audit logs can be used to determine precisely when a change went into effect.  Security group APIs that generate audit logs return a request identifier. That identifier can be used to correlate API calls with their resulting audit logs.
 
 ## Example
-In the following diagram, virtual server instances are 
+In the following diagram, virtual server instances are
 associated with a set of security groups to restrict network traffic. The arrows represent network traffic flow. The application developer has restricted access to the various infrastructure layers, as follows:
 
 * The application developer can access only the web layer on TCP port 443 (https).
 * Only web layer instances can access the application layer instances.
-* Only the application layer instances can access the database layer instances. 
+* Only the application layer instances can access the database layer instances.
 
 ![Security group image](images/SecurityGroups.png "Image shows the flow of network traffic with a set of security groups enabled") Figure 1. Security group image
