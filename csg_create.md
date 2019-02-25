@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Creating a Security Group
+{: #creating-a-security-group}
+
 Create and configure a custom security group:
 
 1. From your browser, open the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window} and log into your account.

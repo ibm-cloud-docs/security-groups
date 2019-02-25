@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Creating a New Rule
+{: #creating-a-new-rule}
+
 Allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows by performing the following procedure:
 
 1. Select the **Rules** tab in the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window}.

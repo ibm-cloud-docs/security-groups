@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Existing Network Configurations and Security Groups
+{: #existing-network-configurations-and-security-groups}
 
 A security group augments any existing network configuration. Therefore, a security group cannot span across networks that cannot communicate 
 with one another. 

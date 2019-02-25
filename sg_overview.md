@@ -12,6 +12,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # About IBM Security Groups
+{: #about-ibm-security-groups}
 
 ## What is a security group?
 A *security group* is a set of IP filter rules that define how to handle incoming (ingress) and 

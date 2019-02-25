@@ -12,6 +12,8 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Security Groups Guidelines
+{: #security-groups-guidelines}
+
 Consider the following guidelines when you work with security groups:
 
 ## Rules

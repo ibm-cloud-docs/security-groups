@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Getting Started with Security Groups
+{: #getting-started-with-security-groups}
 
 You can use Security Groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
 {:shortdesc}

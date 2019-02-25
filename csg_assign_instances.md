@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Assigning Instances to the Security Group
+{: #assigning-instances-to-the-security-group}
+
 You can assign security group objects to instances in one of two ways:
 
 ## Using the Security Menu

@@ -16,6 +16,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Other Resources for IBM Security Groups
+{: #other-resources-for-ibm-security-groups}
 
 These resources are created by IBM© and some of our partners and customers.
 

@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Creating and Managing a Custom Security Group
+{: #creating-and-managing-a-custom-security-group}
+
 In this tutorial you will learn how to create, assign instances to, and edit a custom Security Group. 
 
 ![Custom Security Group](./images/goal.jpg)

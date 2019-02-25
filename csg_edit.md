@@ -16,6 +16,7 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Editing a Security Group
+{: #editing-a-security-group}
 
 Once you've created your Security Group object, you can modify its parameters and rules.
 
