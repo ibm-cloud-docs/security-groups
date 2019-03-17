@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: order, begin, overview, use cases, solutions
+
+subcollection: security-group
+
 
 ---
 
@@ -19,7 +23,7 @@ You can use Security Groups to enact a set of IP filter rules that define how to
 {:shortdesc}
 
 To get started, order a virtual server instance (VSI) and assign a security group.
- 
+
 1. From your browser, open [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/) and log in to your account.
 2. Locate the **Order** section and click **Devices**.
 3. On the Devices page, click **Hourly** or **Monthly** for one of the Virtual Server offerings.

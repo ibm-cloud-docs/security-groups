@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: security, guidelines, rules
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}

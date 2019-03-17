@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: configuration, network, virtual server, instance, security
+
+subcollection: security-group
+
 
 ---
 
@@ -15,8 +19,7 @@ lastupdated: "2018-11-10"
 # Existing Network Configurations and Security Groups
 {: #existing-network-configurations-and-security-groups}
 
-A security group augments any existing network configuration. Therefore, a security group cannot span across networks that cannot communicate 
-with one another. 
+A security group augments any existing network configuration. Therefore, a security group cannot span across networks that cannot communicate with one another.
 {:shortdesc}
 
 If virtual server instances cannot communicate with one another, adding them to a security group does not change that behavior. Gateways must allow the traffic that is defined by the selected security groups.

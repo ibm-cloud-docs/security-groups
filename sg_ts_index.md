@@ -6,12 +6,16 @@ copyright:
   years: 2017,2018
 lastupdated: "2018-11-10"
 
+keywords: help, support, troubleshoot, contact
+
+subcollection: security-group
+
 
 ---
 
-{:tsSymptoms: .tsSymptoms} 
-{:tsCauses: .tsCauses} 
-{:tsResolve: .tsResolve} 
+{:tsSymptoms: .tsSymptoms}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
 

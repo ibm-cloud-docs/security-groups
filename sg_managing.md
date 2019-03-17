@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: manage, details, edit, configure
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -29,7 +33,7 @@ To manage security groups from the Security Groups page, complete the following 
      * Edit group information.
      * Duplicate a group.
      * Delete a group.
-     
+
 ## Managing security group rules from Security Groups page
 
 To manage security group rules from the Security Groups page, complete the following steps:
@@ -43,9 +47,9 @@ To manage security group rules from the Security Groups page, complete the follo
      * Edit a rule.
      * Delete a rule.
      * View the virtual server instances and the associated interfaces that are assigned to the security group.
-     
+
 **Tip:** If you delete the last rule in a security group, then no inbound or outbound traffic is allowed by this security group.
-     
+
 ## Managing security groups from Device Details page
 
 To manage security groups from the Device Details page, complete the following steps:
@@ -58,11 +62,11 @@ To manage security groups from the Device Details page, complete the following s
      * View the security groups and rules.
      * Assign security groups to a network interface of a virtual server instance.
      * Remove security groups from a network interface of a virtual server instance.
-     
+
      **Important** : The first time that you assign an existing security group to a network interface (public or private), a restart is required for each interface.  However, if the public and private interfaces were assigned to the security group at the same time, then only one restart is required.  After a restart, changes are automatically applied.
-     
+
      When you assign a new security group, it prevents new connections from being established according to the security group rule definitions. However, existing socket connections are not terminated.
 
      **Tip**: If you remove the last security group that is assigned to a virtual server instance, then the virtual server traffic is no longer limited by security groups. A security group firewall no longer exists.
-     
+
 6. When you finish making changes, click **Save**.
