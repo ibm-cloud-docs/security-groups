@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
 
-# 获取帮助和支持 
+# 获取 IBM 安全组的帮助和支持
 {: #gettinghelp}
 
 上次更新日期：2017 年 8 月 16 日
@@ -29,11 +29,9 @@ lastupdated: "2018-11-10"
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
 * 如果您对虚拟服务器的安全组有技术问题，请在 [Stack Overflow ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window} 上发布您的问题，并使用“ibm-cloud”和“network-security-groups”标记您的问题。
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* 有关服务和入门指示信息的问题，请使用 [IBM developerWorks dW Answers ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window} 论坛。请包括“security groups”和“ibm-cloud”标记。
+* 有关服务和入门指示信息的问题，请使用 [IBM© developerWorks dW Answers ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window} 论坛。请包括“security groups”和“ibm-cloud”标记。
 
 请参阅[获取
-帮助](/docs/support/index.html#getting-help)了解有关如何使用论坛的更多详细信息。
+帮助](https://{DomainName}/docs/get-support?topic=get-support-using-avatar)了解有关如何使用论坛的更多详细信息。
 
-有关开具 IBM 支持凭单的信息，或有关支持级别和凭单严重性的信息，请参阅[联系支持人员](/docs/support/index.html#contacting-support)。
-
-
+有关开具 IBM 支持凭单的信息，或有关支持级别和凭单严重性的信息，请参阅[联系支持人员](/docs/get-support?topic=get-support-contacting-bluemix-support-dedicated-local)。

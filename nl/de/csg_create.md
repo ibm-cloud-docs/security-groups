@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Sicherheitsgruppe erstellen
+{: #creating-a-security-group}
+
 Erstellen und konfigurieren Sie eine angepasste Sicherheitsgruppe.
 
 1. Rufen Sie in Ihrem Browser das [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/){: new_window} auf und melden Sie sich bei Ihrem Konto an.
@@ -30,4 +32,4 @@ Erstellen und konfigurieren Sie eine angepasste Sicherheitsgruppe.
 Beachten Sie, dass das Kontrollkästchen **Gruppe mit einem Standardwert erstellen…** nicht markiert ist. Das bedeutet, dass keine abgehende Regel für dieses Sicherheitsgruppenobjekt erstellt wird. Folglich werden auch nur eingehende Anforderungen (wie SSH und ICMP) sowie ihre zugehörigen Datenflüsse zugelassen, es sei denn, andere abgehende Regeln oder Sicherheitsgruppenobjekte werden erstellt.
 
 ## Nächster Schritt ...
-[Eine Regel erstellen](csg_rule.html), um eingehende Anforderungen (SSH & ICMP) und ihre zugehörigen (abgehenden) Datenflüsse zuzulassen.  
+[Eine Regel erstellen](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule), um eingehende Anforderungen (SSH & ICMP) und ihre zugehörigen (abgehenden) Datenflüsse zuzulassen.  

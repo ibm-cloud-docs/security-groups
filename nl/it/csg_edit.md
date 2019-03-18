@@ -16,6 +16,7 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Modifica di un gruppo di sicurezza
+{: #editing-a-security-group}
 
 Dopo aver creato il tuo oggetto del gruppo di sicurezza, puoi modificarne i parametri e le regole.
 

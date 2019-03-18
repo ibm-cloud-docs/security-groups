@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Affectation d'instances au groupe de sécurité
+{: #assigning-instances-to-the-security-group}
+
 Vous pouvez affecter des objets de groupe de sécurité à des instances en utilisant l'une des méthodes suivantes :
 
 ## Utilisation du menu Sécurité
@@ -26,7 +28,7 @@ Vous pouvez affecter des objets de groupe de sécurité à des instances en util
 
 	![Instances affectées](./images/security_assign.jpg)
 
-	Dans cet écran, le groupe de sécurité "allow_icmp" (créé à la [première étape](csg_create.html)) est appliqué à l'interface privée (`10.0.2.219`) de "jpmongevsi4".
+	Dans cet écran, le groupe de sécurité "allow_icmp" (créé à la [première étape](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group)) est appliqué à l'interface privée (`10.0.2.219`) de "jpmongevsi4".
 
 	Notez que le compte **Instances jointes** est passé de `0` à `1`.
 
@@ -52,4 +54,4 @@ Vous pouvez affecter des objets de groupe de sécurité à des instances en util
 	**Remarque :** il s'agit d'une étape unique par interface réseau pour les instances qui n'ont pas été créées avec un groupe de sécurité.
 
 ## Etape suivante...
-[Editez le groupe de sécurité](csg_edit.html) pour modifier ses paramètres  
+[Editez le groupe de sécurité](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) pour modifier ses paramètres  

@@ -19,8 +19,8 @@ lastupdated: "2017-08-10"
 # 보안 그룹 API 참조
 {: #api-reference} 
 
-SoftLayer&reg; API(Application Programming Interface)는 개발자와 시스템 관리자가 SoftLayer 백엔드 시스템과 직접 상호작용하는
-개발 인터페이스입니다. 
+SoftLayer API(Application Programming Interface)는 개발자와 시스템 관리자가 SoftLayer 백엔드 시스템과 직접 상호작용하는
+개발 인터페이스입니다.
 {:shortdesc}
 
 SLAPI(SoftLayer API)는 고객 포털에 있는 기능의 대부분을 지원하므로

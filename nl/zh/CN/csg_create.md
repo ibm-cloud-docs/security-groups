@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # 创建安全组
+{: #creating-a-security-group}
+
 创建和配置定制安全组：
 
 1. 从浏览器，打开[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/){: new_window}，并登录到帐户。
@@ -30,4 +32,4 @@ lastupdated: "2018-11-10"
 请注意，**使用缺省值创建组…** 复选框处于取消选中状态。这意味着不会为此安全组对象创建出站规则。因此，除非创建其他出站规则或安全组对象，否则将只允许入局请求（例如 SSH 和 ICMP）及其相关的（出局）流量或响应。
 
 ## 后续步骤...
-[创建规则](csg_rule.html)以允许入局请求 (SSH & ICMP) 及其相关的（出局）流量。  
+[创建规则](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule)以允许入局请求 (SSH & ICMP) 及其相关的（出局）流量。  

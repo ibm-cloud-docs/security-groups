@@ -19,7 +19,8 @@ lastupdated: "2017-08-10"
 # Référence d'API du groupe de sécurité
 {: #api-reference} 
 
-L'interface de programmation SoftLayer&reg; permet aux développeurs et aux administrateurs système d'interagir directement avec le système backend de SoftLayer. 
+L'interface de programmation SoftLayer permet aux développeurs et aux administrateurs système
+d'interagir directement avec le système de back end de SoftLayer.
 {:shortdesc}
 
 L'interface de programmation SoftLayer (SLAPI) offre un grand nombre de fonctionnalités du portail client, ce qui signifie généralement que si une interaction est disponible dans le portail client, elle peut également être exécutée dans l'interface. Puisque vous pouvez interagir à l'aide d'un programme avec toutes les portions de l'environnement SoftLayer au sein de l'API, vous pouvez utiliser l'API pour automatiser les tâches. Vous pouvez, par exemple, utiliser l'API *SoftLayer_Virtual_Guest/createObject* pour déployer une instance de serveur virtuel avec un groupe de sécurité activé.

@@ -16,7 +16,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Accélération de la distribution des fichiers statique en utilisant Object Storage et CDN
+# Accélération de la distribution des fichiers statiques en utilisant Object Storage et CDN
 Autorisez les demandes entrantes (SSH et ICMP) et les flux de trafic (en sortie) associés en procédant comme suit :
 
 1. Sélectionnez l'onglet **Règles** dans le [portail client![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/){: new_window}.

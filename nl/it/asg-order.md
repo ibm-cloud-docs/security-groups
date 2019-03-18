@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Ordine di un gruppo di sicurezza
+# Ordine di un gruppo di sicurezza IBM
 
 Per ordinare un'istanza del server virtuale e assegnare un gruppo di sicurezza, esegui la seguente procedura:
 

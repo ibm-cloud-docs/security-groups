@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Solicitud de un Grupo de seguridad
+# Solicitud de un Grupo de seguridad de IBM
 
 Para solicitar una instancia de servidor virtual y asignar un grupo de seguridad, realice el procedimiento siguiente:
 

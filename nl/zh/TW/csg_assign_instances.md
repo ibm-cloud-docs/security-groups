@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # 指派安全群組的實例
+{: #assigning-instances-to-the-security-group}
+
 您有兩種方式可將安全群組物件指派到實例中：
 
 ## 使用安全功能表
@@ -26,7 +28,7 @@ lastupdated: "2018-11-10"
 
 	![安全功能表實例](./images/security_assign.jpg)
 
-	在此圖中，"allow_icmp" 安全群組（在[首要步驟](csg_create.html)中所建立）已套用至 "jpmongevsi4" 的專用介面 (`10.0.2.219`)。
+	在此圖中，"allow_icmp" 安全群組（在[首要步驟](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group)中所建立）已套用至 "jpmongevsi4" 的專用介面 (`10.0.2.219`)。
 
 	請注意，**附加的實例**計數如何從 `0` 增加為 `1`。
 
@@ -52,4 +54,4 @@ lastupdated: "2018-11-10"
 	**附註：**這是針對建立時不具備安全群組的實例所進行，每個網路介面的一次性步驟。
 
 ## 下一步...
-[編輯安全群組](csg_edit.html)以修改其參數。  
+[編輯安全群組](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group)以修改其參數。  

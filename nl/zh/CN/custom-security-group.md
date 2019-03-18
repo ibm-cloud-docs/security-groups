@@ -16,7 +16,9 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # 创建和管理定制安全组
-在本教程中，您将学习如何创建定制安全组、向其分配实例，以及如何编辑定制安全组。 
+{: #creating-and-managing-a-custom-security-group}
+
+在本教程中，您将学习如何创建定制安全组、向其分配实例，以及如何编辑定制安全组。
 
 ![定制安全组](./images/goal.jpg)
 
@@ -28,7 +30,7 @@ lastupdated: "2018-11-10"
 | 不适用/任意| 10.0.0.0/16 |
 | allow_icmp |不适用|安全组| 不适用/任意| 0.0.0.0/0 |
 | allow_ssh |不适用|安全组| 不适用/任意| 0.0.0.0/0 |
-|jpmongevsi2.testing.com | Ubuntu 16.04 | 虚拟服务器实例| Dallas 10 Pod 01 | 10.0.0.21 |	
+|jpmongevsi2.testing.com | Ubuntu 16.04 | 虚拟服务器实例| Dallas 10 Pod 01 | 10.0.0.21 |
 |jpmongevsi4.testing.com | Ubuntu 16.04 | 虚拟服务器实例|	Dallas 10 Pod 01	| 10.0.2.219 |
 
 
@@ -41,7 +43,7 @@ lastupdated: "2018-11-10"
 
 任务|描述
 ------------- | -------------
-[创建安全组](csg_create.html) |创建和配置定制安全组，而不是使用 IBM 云平台预定义的一个安全组。
-[创建规则](csg_rule.html)  | 创建规则以允许入局请求 (SSH & ICMP) 及其相关的（出局）流量。
-[向安全组分配实例](csg_assign_instances.html) | 使用安全菜单或设备菜单向实例分配安全组对象。
-[编辑安全组及其规则](csg_edit.html) |修改安全对象及其规则的参数。
+[创建安全组](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) |创建和配置定制安全组，而不是使用 IBM© 云平台预定义的一个安全组。
+[创建规则](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule)  | 创建规则以允许入局请求 (SSH & ICMP) 及其相关的（出局）流量。
+[向安全组分配实例](/docs/infrastructure/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | 使用安全菜单或设备菜单向实例分配安全组对象。
+[编辑安全组及其规则](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) |修改安全对象及其规则的参数。

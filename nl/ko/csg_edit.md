@@ -16,6 +16,7 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # 보안 그룹 편집
+{: #editing-a-security-group}
 
 보안 그룹 오브젝트를 작성하면 해당 매개변수와 규칙을 수정할 수 있습니다.
 

@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # 向安全组分配实例
+{: #assigning-instances-to-the-security-group}
+
 您可以采用以下两种方式之一将安全组对象分配给实例：
 
 ## 使用安全菜单
@@ -26,7 +28,7 @@ lastupdated: "2018-11-10"
 
 	![安全菜单实例](./images/security_assign.jpg)
 
-	在图中，“allow_icmp”安全组（在[第一步](csg_create.html)创建）应用到“jpmongevsi4”的专用接口 (`10.0.2.219`)。
+	在图中，“allow_icmp”安全组（在[第一步](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group)创建）应用到“jpmongevsi4”的专用接口 (`10.0.2.219`)。
 
 	请注意**连接的实例数**计数如何从 `0` 增加到 `1`。
 
@@ -53,4 +55,4 @@ lastupdated: "2018-11-10"
 	**注：**对于未使用安全组创建的实例的每个网络接口，只需执行此步骤一次。
 
 ## 后续步骤...
-[编辑安全组](csg_edit.html)以修改其参数。  
+[编辑安全组](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group)以修改其参数。  

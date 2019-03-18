@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# 訂購安全群組
+# 訂購 IBM 安全群組
 
 若要訂購虛擬伺服器實例及指派安全群組，請執行下列程序：
 

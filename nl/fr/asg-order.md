@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Commande d'un groupe de sécurité
+# Commande d'un groupe de sécurité IBM
 
 Pour commander une instance de serveur virtuel et affecter un groupe de sécurité, procédez comme suit :
 

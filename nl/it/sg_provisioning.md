@@ -12,7 +12,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 
-# Provisioning di un server virtuale con i gruppi di sicurezza
+# Provisioning di un server virtuale con i gruppi di sicurezza IBM
 
 Per iniziare, ordina un'istanza del server
 virtuale e assegna un gruppo di sicurezza.
@@ -26,4 +26,3 @@ virtuale e assegna un gruppo di sicurezza.
 6. Completa le informazioni in Configura gruppi di sicurezza.
 7. Puoi selezionare qualsiasi gruppo di sicurezza predefinito da applicare alle interfacce private o pubbliche sul server virtuale.
 8. Infine, fai clic su **Inoltra ordine**.
-

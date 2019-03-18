@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # 安全群組的效能限制
+{: #performance-limitations-for-security-groups}
 
 安全群組及其相關聯規則有一些效能限制存在。
 {:shortdesc}

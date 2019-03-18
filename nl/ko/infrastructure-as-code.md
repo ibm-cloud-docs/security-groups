@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Schematic을 사용하여 환경 자동 배치
+# Schematic을 사용하여 환경 배치 자동화
 다음 프로시저를 수행하여 수신 요청(SSH & ICMP) 및 이와 관련된 (발신) 트래픽 플로우를 허용하십시오.
 
 1. [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://control.softlayer.com/){: new_window}에서 **규칙** 탭을 선택하십시오.

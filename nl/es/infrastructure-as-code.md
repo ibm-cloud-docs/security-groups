@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Automatizar el despliegue de entornos utilizando Schematics
+# Automatización del despliegue de entornos mediante esquemas
 Permita las solicitudes entrantes (SSH e ICMP) y sus flujos de tráfico relacionados (salientes) realizando el procedimiento siguiente:
 
 1. Seleccione el separador **Reglas** en el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){: new_window}.

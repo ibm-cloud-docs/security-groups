@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # 现有网络配置和安全组
+{: #existing-network-configurations-and-security-groups}
 
 安全组可以作为任何现有网络配置的补充。因此，安全组无法跨越不能彼此通信的网络。
 {:shortdesc}

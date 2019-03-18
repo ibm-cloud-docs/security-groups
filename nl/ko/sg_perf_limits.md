@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # 보안 그룹의 성능 제한사항
+{: #performance-limitations-for-security-groups}
 
 보안 그룹 및 연관된 규칙에 대한 몇 가지 성능 제한사항이 있습니다. 
 {:shortdesc}

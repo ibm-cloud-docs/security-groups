@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Vorhandene Netzkonfigurationen und Sicherheitsgruppen
+{: #existing-network-configurations-and-security-groups}
 
 Vorhandene Netzkonfigurationen werden durch Sicherheitsgruppen erweitert. Daher kann eine Sicherheitsgruppe nicht für mehrere
 Netze gelten, die untereinander nicht kommunizieren können. 

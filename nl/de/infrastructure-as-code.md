@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Bereitstellung von Umgebungen mithilfe von Schematics automatisieren
+# Bereitstellung von Umgebungen mit Schemas automatisieren
 Führen Sie die folgenden Schritte aus, um eingehende Anforderungen (SSH & ICMP) und ihre zugehörigen (abgehenden) Datenflüsse zuzulassen:
 
 1. Wählen Sie die Registerkarte **Regeln** im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/){: new_window} aus.

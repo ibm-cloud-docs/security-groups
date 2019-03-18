@@ -16,7 +16,9 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Angepasste Sicherheitsgruppe erstellen und verwalten
-In diesem Lernprogramm erfahren Sie, wie Sie eine angepasste Sicherheitsgruppe erstellen, ihr Instanzen zuordnen und sie bearbeiten. 
+{: #creating-and-managing-a-custom-security-group}
+
+In diesem Lernprogramm erfahren Sie, wie Sie eine angepasste Sicherheitsgruppe erstellen, ihr Instanzen zuordnen und sie bearbeiten.
 
 ![Angepasste Sicherheitsgruppe](./images/goal.jpg)
 
@@ -28,7 +30,7 @@ In diesem Beispiel werden die folgenden Objekte und Elemente verwendet:
 | Nicht zutreffend/Kein | 10.0.0.0/16 |
 | allow_icmp | Nicht zutreffend  | Sicherheitsgruppe | Nicht zutreffend/Kein | 0.0.0.0/0 |
 | allow_ssh | Nicht zutreffend | Sicherheitsgruppe | Nicht zutreffend/Kein | 0.0.0.0/0 |
-|jpmongevsi2.testing.com | Ubuntu 16.04 | Virtuelle Serverinstanz | Dallas 10 Pod 01 | 10.0.0.21 |	
+|jpmongevsi2.testing.com | Ubuntu 16.04 | Virtuelle Serverinstanz | Dallas 10 Pod 01 | 10.0.0.21 |
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Virtuelle Serverinstanz |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 
@@ -41,7 +43,7 @@ In diesem Lernprogramm erfahren Sie. wie Sie ...
 
 Aufgabe  | Beschreibung
 ------------- | -------------
-[Eine Sicherheitsgruppe erstellen](csg_create.html) | Erstellen und konfigurieren Sie eine angepasste Sicherheitsgruppe, statt eine von der IBM Cloudplattform vordefinierte zu verwenden. 
-[Eine Regel erstellen](csg_rule.html)  | Erstellen Sie eine Regel, um eingehende Anforderungen (SSH & ICMP) und ihre zugehörigen (abgehenden) Datenflüsse zuzulassen. 
-[Instanzen zu der Sicherheitsgruppe zuordnen](csg_assign_instances.html) | Ordnen Sie Sicherheitsgruppenobjekte entweder über das Sicherheitsmenü oder das Gerätemenü zu Instanzen zu.
-[Eine Sicherheitsgruppe und ihre Regeln bearbeiten](csg_edit.html) | Ändern Sie die Parameter des Sicherheitsobjekts und seine Regeln.
+[Eine Sicherheitsgruppe erstellen](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | Erstellen und konfigurieren Sie eine angepasste Sicherheitsgruppe, anstatt eine von der IBM© Cloud-Plattform vordefinierte zu verwenden. 
+[Eine Regel erstellen](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) | Erstellen Sie eine Regel, um eingehende Anforderungen (SSH & ICMP) und ihre zugehörigen (abgehenden) Datenflüsse zuzulassen.
+[Instanzen zu der Sicherheitsgruppe zuordnen](/docs/infrastructure/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | Ordnen Sie Sicherheitsgruppenobjekte entweder über das Sicherheitsmenü oder das Gerätemenü zu Instanzen zu.
+[Eine Sicherheitsgruppe und ihre Regeln bearbeiten](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) | Ändern Sie die Parameter des Sicherheitsobjekts und seine Regeln.

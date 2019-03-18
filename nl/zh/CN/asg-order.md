@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# 订购安全组
+# 订购 IBM 安全组
 
 要订购虚拟服务器实例并分配安全组，请执行以下过程：
 

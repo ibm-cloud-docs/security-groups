@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Sicherheitsgruppe bestellen
+# IBM Sicherheitsgruppe bestellen
 
 Führen Sie die folgenden Schritte aus, um eine virtuelle Serverinstanz (VSI) zu bestellen und eine Sicherheitsgruppe zuzuordnen.
 

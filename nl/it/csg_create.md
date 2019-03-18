@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Creazione di un gruppo di sicurezza
+{: #creating-a-security-group}
+
 Crea e configura un gruppo di sicurezza personalizzato:
 
 1. Dal tuo browser, apri il [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/){: new_window} e accedi al tuo account.
@@ -30,4 +32,4 @@ Crea e configura un gruppo di sicurezza personalizzato:
 Nota che la casella **Crea un gruppo con un'impostazione predefinita…** non è spuntata. Questo significa che non sarà creata alcuna regola in uscita per questo oggetto del gruppo di sicurezza. Di conseguenza, a meno che non vengano creati altri oggetti del gruppo di sicurezza o regole in uscita, saranno permesse solo le richieste in entrata (come SSH e ICMP) e i flussi di traffico (in uscita) o le risposte correlati.
 
 ## Passo successivo...
-[Crea una regola](csg_rule.html) per consentire le richieste in entrata (SSH e ICMP) e i relativi flussi di traffico (in uscita).  
+[Crea una regola](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) per consentire le richieste in entrata (SSH e ICMP) e i relativi flussi di traffico (in uscita).  

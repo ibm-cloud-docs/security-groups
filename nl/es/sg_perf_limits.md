@@ -12,7 +12,8 @@ lastupdated: "2018-11-10"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Limitaciones de rendimiento para grupos de seguridad
+# Limitaciones de rendimiento para los grupos de seguridad
+{: #performance-limitations-for-security-groups}
 
 Hay algunas limitaciones de rendimiento para los grupos de seguridad y las reglas asociadas correspondientes. 
 {:shortdesc}

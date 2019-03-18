@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Configurations réseau existantes et groupes de sécurité
+{: #existing-network-configurations-and-security-groups}
 
 Un groupe de sécurité permet d'étendre une configuration réseau existante. Par conséquent, un groupe de sécurité ne peut pas être étendu sur des réseaux incapables de pas communiquer entre eux. 
 {:shortdesc}

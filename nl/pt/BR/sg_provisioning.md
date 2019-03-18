@@ -12,7 +12,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 
-# Fornecendo um servidor virtual com grupos de segurança
+# Fornecendo um servidor virtual com os grupos de segurança da IBM
 
 Para iniciar, peça uma instância
 de servidor virtual e designe um grupo de segurança.
@@ -26,4 +26,3 @@ de servidor virtual e designe um grupo de segurança.
 6. Conclua as informações de Configurar grupos de segurança.
 7. É possível selecionar qualquer um dos grupos de segurança predefinidos para aplicar às interfaces privada ou pública no servidor virtual.
 8. Por último, clique em **Enviar ordem**.
-

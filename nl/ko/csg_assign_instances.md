@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # 보안 그룹에 인스턴스 지정
+{: #assigning-instances-to-the-security-group}
+
 다음 두 방법 중 하나를 사용하여 인스턴스에 보안 그룹 오브젝트를 지정할 수 있습니다.
 
 ## 보안 메뉴 사용
@@ -26,7 +28,7 @@ lastupdated: "2018-11-10"
 
 	![보안 메뉴 인스턴스](./images/security_assign.jpg)
 
-	그림에서 "allow_icmp" 보안 그룹([첫 번째 단계](csg_create.html)에서 작성됨)은 "jpmongevsi4"의 사설 인터페이스(`10.0.2.219`)에 적용됩니다.
+	그림에서 "allow_icmp" 보안 그룹([첫 번째 단계](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group)에서 작성됨)은 "jpmongevsi4"의 사설 인터페이스(`10.0.2.219`)에 적용됩니다.
 
 	**접속된 인스턴스** 수를 `0`에서 `1`로 증가시킨 방법을 참고하십시오.
 
@@ -52,4 +54,4 @@ lastupdated: "2018-11-10"
 	**참고:** 이는 보안 그룹을 사용하여 작성되지 않은 인스턴스에 대한 네트워크 인터페이스당 한 번만 수행되는 단계입니다.
 
 ## 다음 단계...
-[보안 그룹을 편집](csg_edit.html)하여 해당 매개변수를 수정하십시오.  
+[보안 그룹을 편집](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group)하여 해당 매개변수를 수정하십시오.  

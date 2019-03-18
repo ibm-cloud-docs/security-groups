@@ -12,7 +12,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 
-# 보안 그룹으로 Virtual Server 프로비저닝
+# IBM Security Groups로 Virtual Server 프로비저닝
 
 시작하려면 Virtual Server 인스턴스를 주문하고
 보안 그룹을 지정하십시오.
@@ -26,4 +26,3 @@ lastupdated: "2018-11-10"
 6. 보안 그룹 구성 정보를 완료하십시오.
 7. Virtual Server의 개인용 또는 공용 인터페이스에 적용할 임의의 사전 정의된 보안 그룹을 선택할 수 있습니다.
 8. 마지막으로 **주문 제출**을 클릭하십시오.
-

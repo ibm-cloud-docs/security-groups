@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Distribuzione automatizzata degli ambienti utilizzando Schematics
+# Automatizzazione della distribuzione degli ambienti utilizzando Schematics
 Consenti le richieste in entrata (SSH e ICMP) e i relativi flussi di traffico (in uscita) eseguendo la seguente procedura:
 
 1. Seleziona la scheda **Regole** nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/){: new_window}.

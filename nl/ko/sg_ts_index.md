@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
 
-# 도움 및 지원 받기 
+# IBM Security Groups에 대한 도움 및 지원 받기
 {: #gettinghelp}
 
 마지막 업데이트 날짜: 2017년 8월 16일
@@ -28,10 +28,8 @@ lastupdated: "2018-11-10"
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
 * Virtual Server의 보안 그룹에 대한 기술적인 질문이 있는 경우 [스택 오버플로우 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window}에 질문을 게시하고 해당 질문에 "ibm-cloud" 및 "network-security-groups" 태그를 지정하십시오.
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* 서비스 및 시작하기 지시사항에 대한 질문이 있는 경우 [IBM developerWorks dW Answers ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window} 포럼을 사용하십시오. "security groups" 및 "ibm-cloud" 태그를 포함시키십시오.
+* 서비스 및 시작하기 지시사항에 대한 질문이 있는 경우 [IBM© developerWorks dW Answers ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window} 포럼을 사용하십시오. "security groups" 및 "ibm-cloud" 태그를 포함시키십시오.
 
-포럼 사용에 대한 세부사항은 [도움 받기](/docs/support/index.html#getting-help)를 참조하십시오.
+포럼 사용에 대한 세부사항은 [도움 받기](https://{DomainName}/docs/get-support?topic=get-support-using-avatar)를 참조하십시오.
 
-IBM 지원 티켓 열기 또는 지원 레벨과 티켓 심각도에 대한 정보는 [지원 문의](/docs/support/index.html#contacting-support)를 참조하십시오.
-
-
+IBM 지원 티켓 열기 또는 지원 레벨과 티켓 심각도에 대한 정보는 [지원 문의](/docs/get-support?topic=get-support-contacting-bluemix-support-dedicated-local)를 참조하십시오.

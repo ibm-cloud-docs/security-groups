@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # セキュリティー・グループへのインスタンスの割り当て
+{: #assigning-instances-to-the-security-group}
+
 セキュリティー・グループ・オブジェクトは、次の 2 つのいずれかの方法でインスタンスに割り当てることができます。
 
 ## セキュリティー・メニューの使用
@@ -26,7 +28,7 @@ lastupdated: "2018-11-10"
 
 	![セキュリティー・メニューのインスタンス](./images/security_assign.jpg)
 
-	この図では、セキュリティー・グループ「allow_icmp」 ([最初のステップ](csg_create.html)で作成したもの) が、「jpmongevsi4」のプライベート・インターフェース (`10.0.2.219`) に適用されています。
+	この図では、セキュリティー・グループ「allow_icmp」 ([最初のステップ](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group)で作成したもの) が、「jpmongevsi4」のプライベート・インターフェース (`10.0.2.219`) に適用されています。
 
 	どのようにして**「接続されたインスタンス (Attached Instances)」**カウントが `0` から `1` に増えたかに注意してください。
 
@@ -52,4 +54,4 @@ lastupdated: "2018-11-10"
 	**注:** これは、セキュリティー・グループで作成されなかったインスタンスのネットワーク・インターフェースごとに 1 回のみ実行するステップです。
 
 ## 次のステップ...
-[セキュリティー・グループを編集](csg_edit.html)し、そのパラメーターを変更します。  
+[セキュリティー・グループを編集](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group)し、そのパラメーターを変更します。  

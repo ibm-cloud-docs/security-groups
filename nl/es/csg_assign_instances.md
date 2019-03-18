@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Asignación de instancias al Grupo de seguridad
+{: #assigning-instances-to-the-security-group}
+
 Puede asignar objetos del grupo de seguridad a instancias de una de estas dos formas:
 
 ## Utilizando el menú Seguridad
@@ -26,7 +28,7 @@ Puede asignar objetos del grupo de seguridad a instancias de una de estas dos fo
 
 	![Instancia del menú Seguridad](./images/security_assign.jpg)
 
-	En la figura, el Grupo de seguridad "allow_icmp" (creado en el [primer paso](csg_create.html)) se aplica a la interfaz privada (`10.0.2.219`) de "jpmongevsi4".
+	En la figura, el Grupo de seguridad "allow_icmp" (creado en el [primer paso](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group)) se aplica a la interfaz privada (`10.0.2.219`) de "jpmongevsi4".
 
 	Tenga en cuenta cómo ha aumentado el recuento de **Instancias adjuntas** de `0` a `1`.
 
@@ -52,4 +54,4 @@ Puede asignar objetos del grupo de seguridad a instancias de una de estas dos fo
 	**NOTA:** Este es un paso único por interfaz de red para instancias no creadas con un grupo de seguridad.
 
 ## Paso siguiente...
-[Edite el Grupo de seguridad](csg_edit.html) para modificar sus parámetros.  
+[Edite el Grupo de seguridad](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) para modificar sus parámetros.  

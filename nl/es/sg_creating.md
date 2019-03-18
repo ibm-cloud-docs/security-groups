@@ -24,14 +24,14 @@ Para crear un grupo de seguridad, siga estos pasos:
 2. En la página Grupos de seguridad, pulse **Crear grupo**.
 3. Introduzca un nombre y una descripción para el grupo de seguridad y vuelva a pulsar **Crear grupo**.
 
-**Nota:** la opción "Crear grupo con una regla predeterminada que permita todo el tráfico saliente." está seleccionada de forma predeterminada. Puede borrar este campo para crear el grupo de seguridad sin reglas. Un grupo de seguridad sin reglas bloquea todo el tráfico (tanto el entrante como el saliente).
+**Nota:** De forma predeterminada, se selecciona la opción la opción "Crear grupo con una regla predeterminada que permita todo el tráfico saliente". Puede borrar este campo para crear el grupo de seguridad sin reglas. Un grupo de seguridad sin reglas bloquea todo el tráfico (tanto el entrante como el saliente).
 
 ## Creación de reglas de grupos de seguridad
 
 Para crear una regla de grupo de seguridad, siga estos pasos:
 {:shortdesc}
 
-1. En la navegación del [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
+1. En la navegación del [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad > Seguridad de red > Grupos de seguridad**.
 2. En la página Grupos de seguridad, pulse un nombre de grupo de seguridad para abrir la página Detalles y seleccione **Crear regla**.
 3. En la página Crear regla, introduzca todos los atributos pertinentes (como dirección, tipo de IP, protocolo e información de origen y destino). Cuando haya terminado, pulse **Aceptar**.
 

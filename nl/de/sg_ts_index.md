@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
 
-# Hilfe und Support anfordern 
+# Hilfe und Unterstützung für IBM Sicherheitsgruppen anfordern
 {: #gettinghelp}
 
 Letzte Aktualisierung: 16. August 2017
@@ -28,10 +28,8 @@ Wenn Sie in den Foren eine Frage stellen, sollten Sie diese Frage mit einem Tag 
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
 * Wenn Sie technische Fragen zu Sicherheitsgruppen für virtuelle Server haben, können Sie Ihre Frage bei [Stack Overflow ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window} posten und mit 'ibm-cloud' und 'network-security-groups' taggen.
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* Verwenden Sie für Fragen zum Service und zu Anweisungen für die ersten Schritte das Forum [IBM developerWorks dW Answers ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window}. Schließen Sie die Tags 'security groups' und 'ibm-cloud' ein.
+* Verwenden Sie für Fragen zum Service und zu Anweisungen für die ersten Schritte das Forum [IBM© developerWorks dW Answers ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window}. Schließen Sie die Tags 'security groups' und 'ibm-cloud' ein.
 
-Lesen Sie [Hilfe anfordern](/docs/support/index.html#getting-help), um weitere Einzelheiten zur Verwendung der Foren zu erhalten.
+Lesen Sie [Hilfe anfordern](https://{DomainName}/docs/get-support?topic=get-support-using-avatar), um weitere Einzelheiten zur Verwendung der Foren zu erhalten.
 
-Informationen zum Öffnen eines IBM Support-Tickets oder zu Support-Levels und der Dringlichkeit von Tickets finden Sie unter [Support kontaktieren](/docs/support/index.html#contacting-support).
-
-
+Informationen zum Öffnen eines IBM Support-Tickets oder zu Support-Levels und der Dringlichkeit von Tickets finden Sie unter [Support kontaktieren](/docs/get-support?topic=get-support-contacting-bluemix-support-dedicated-local).

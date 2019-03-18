@@ -12,7 +12,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 
-# Virtuellen Server mit Sicherheitsgruppen bereitstellen
+# Virtuellen Server mit IBM Sicherheitsgruppen bereitstellen
 
 Bestellen Sie zunächst eine virtuelle Serverinstanz und ordnen Sie eine Sicherheitsgruppe zu.
 {:shortdesc}
@@ -25,4 +25,3 @@ Bestellen Sie zunächst eine virtuelle Serverinstanz und ordnen Sie eine Sicherh
 6. Füllen Sie die Informationen für die Konfiguration von Sicherheitsgruppen aus.
 7. Sie können eine beliebige der vordefinierten Sicherheitsgruppen auswählen, die dann auf die privaten oder öffentlichen Schnittstellen auf dem virtuellen Server angewendet wird.
 8. Klicken Sie zuletzt auf die Option für **Bestellung abschicken**.
-

@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Designando instâncias para o grupo de segurança
+{: #assigning-instances-to-the-security-group}
+
 É possível designar objetos de grupo de segurança para instâncias em uma de duas maneiras:
 
 ## Usando o menu de Segurança
@@ -26,7 +28,7 @@ lastupdated: "2018-11-10"
 
 	![Instância do menu de segurança](./images/security_assign.jpg)
 
-	Na figura, o Grupo de segurança "allow_icmp" (criado na [primeira etapa](csg_create.html)) é aplicado à interface privada (`10.0.2.219`) de "jpmongevsi4".
+	Na figura, o Grupo de segurança "allow_icmp" (criado na [primeira etapa](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group)) é aplicado à interface privada (`10.0.2.219`) de "jpmongevsi4".
 
 	Observe como a contagem de **Instâncias anexadas** aumentou de `0` para `1`.
 
@@ -52,4 +54,4 @@ lastupdated: "2018-11-10"
 	**NOTA:** esta é uma etapa única por interface de rede para instâncias não criadas com um grupo de segurança.
 
 ## Próxima etapa...
-[Edite o grupo de segurança](csg_edit.html) para modificar os seus parâmetros.  
+[Edite o grupo de segurança](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) para modificar os seus parâmetros.  

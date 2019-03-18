@@ -12,7 +12,8 @@ lastupdated: "2018-11-10"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# 現有的網路配置及安全群組
+# 現有網路配置及安全群組
+{: #existing-network-configurations-and-security-groups}
 
 安全群組會擴增任何現有的網路配置。因此，安全群組不能跨越無法彼此通訊的網路。
 {:shortdesc}

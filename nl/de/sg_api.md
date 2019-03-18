@@ -19,8 +19,8 @@ lastupdated: "2017-08-10"
 # API-Referenz der Sicherheitsgruppe
 {: #api-reference} 
 
-Die SoftLayer&reg;-API (API - Application Programming Interface) ist die Entwicklungsschnittstelle, über die Entwickler und
-Systemadministratoren direkt mit dem Back-End-System von SoftLayer interagieren können. 
+Die SoftLayer-API (API - Application Programming Interface) ist die Entwicklungsschnittstelle, über die Entwickler und
+Systemadministratoren direkt mit dem Back-End-System von SoftLayer interagieren können.
 {:shortdesc}
 
 Die SoftLayer-API (SLAPI) stützt viele Funktionen im Kundenportal; dies bedeutet in der Regel, dass eine Interaktion, die im

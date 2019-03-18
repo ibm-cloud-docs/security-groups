@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # 安全组的性能限制
+{: #performance-limitations-for-security-groups}
 
 安全组及其关联的规则存在一些性能限制。
 {:shortdesc}

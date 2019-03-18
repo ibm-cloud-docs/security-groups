@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Pedindo um grupo de segurança
+# Pedindo um grupo de segurança da IBM
 
 Para pedir uma instância de servidor virtual e designar um grupo de segurança, execute o procedimento a seguir:
 

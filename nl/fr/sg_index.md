@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Initiation aux groupes de sécurité
+{: #getting-started-with-security-groups}
 
 Vous pouvez vous servir des groupes de sécurité pour appliquer un ensemble de règles de filtrage d'adresses IP qui définissent la façon de gérer le trafic entrant et sortant tant au niveau des interfaces publiques qu'au niveau des interfaces privées d'une instance de serveur virtuel.
 {:shortdesc}
@@ -37,7 +38,7 @@ Les sections ci-après décrivent quelques scénarios de sécurité réseau comp
 **Solution :** utilisez les groupes de sécurité au moment de la commande du serveur virtuel. De cette façon, votre serveur est protégé dès le moment de sa mise à disposition.
 
 ### Pare-feu de niveau instance d'un bon rapport qualité/prix
-**Scénario de sécurité :** les clients veulent disposer d'un contrôle très précis sur le trafic au niveau d'une instance (sans parler du niveau réseau), mais d'un autre côté, les coûts générés par un pare-feu matériel partagé (qui est l'autre offre de pare-feu à service partagé proposé par IBM) peuvent augmenter rapidement si les clients ont besoin de protéger des serveurs multiples dans différents centres de données.
+**Scénario de sécurité :** les clients veulent disposer d'un contrôle très précis sur le trafic au niveau d'une instance (sans parler du niveau réseau), mais d'un autre côté, les coûts générés par un pare-feu matériel partagé (autre offre de pare-feu à service partagé proposé par IBM©) peuvent augmenter rapidement si les clients ont besoin de protéger des serveurs multiples dans différents centres de données.
 
 **Solution :** l'utilisation de la fonction Groupes de sécurité ne génère pas de coût supplémentaire. Servez-vous des groupes de sécurité pour tous les serveurs virtuels nécessitant une protection dans l'un de nos centres de données internationaux.
 

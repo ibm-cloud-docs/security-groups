@@ -16,6 +16,7 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # 编辑安全组
+{: #editing-a-security-group}
 
 一旦创建了安全组对象，您可以修改其参数和规则。
 

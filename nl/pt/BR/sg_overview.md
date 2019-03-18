@@ -11,7 +11,8 @@ lastupdated: "2018-11-10"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Sobre grupos de segurança
+# Sobre os grupos de segurança da IBM
+{: #about-ibm-security-groups}
 
 ## O que é um grupo de segurança?
 Um *grupo de segurança* é um conjunto de regras de filtro de IP que definem como manipular o tráfego de
@@ -20,7 +21,7 @@ regras que você inclui em um grupo de segurança são conhecidas como *regras d
 {:shortdesc}
 
 * É possível designar grupos de segurança às interfaces de rede públicas e/ou privadas de um único servidor virtual ou de múltiplas instâncias de servidor virtual.
-* É possível designar grupos de segurança que são fornecidos pela IBM ou que você cria.
+* É possível designar os grupos de segurança fornecidos pela IBM© ou os que você criar.
 * Quando um grupo de segurança é aplicado a um componente de rede de uma instância de servidor virtual, todo o tráfego para esse componente e a partir dele é negado, a menos que seja expressamente permitido por uma regra do grupo de segurança.
 * O tráfego de entrada para uma instância de servidor virtual é referido como tráfego de ingresso.
 * O tráfego de saída de uma instância de servidor virtual é referido como tráfego egresso.
@@ -38,7 +39,7 @@ de rede de suas instâncias de servidor virtual:
 * *allow_all*: este grupo de segurança define as regras de IP que permitem todo o tráfego de ingresso em todas as portas.
 
 ## Grupos de segurança e logs de auditoria
-Todas as interações de grupo de segurança são registradas em um [log de auditoria](/docs/customer-portal/cpmonenv.html#cp_viewacctauditlog) da conta. Entradas de log de auditoria controlam mudanças de grupo de segurança específicas e qual usuário solicitou a mudança. Logs são gravados para as interações a seguir:
+Todas as interações de grupos de segurança são registradas em uma conta. As entradas do log de auditoria controlam mudanças específicas em um grupo de segurança e qual usuário solicitou a mudança. Logs são gravados para as interações a seguir:
 * Um grupo de segurança é incluído em ou removido de uma interface de rede do servidor virtual
 * As regras do grupo de segurança são mudadas por incluir regra, editar regra ou remover regra.
 
@@ -51,8 +52,6 @@ No diagrama a seguir, as instâncias do servidor virtual estão associadas a um 
 
 * O desenvolvedor de aplicativos pode acessar apenas a camada da web na porta TCP 443 (https).
 * Apenas as instâncias da camada da web podem acessar as instâncias da camada de aplicativo.
-* Apenas as instâncias da camada de aplicativos podem acessar as instâncias da camada de banco de dados. 
+* Apenas as instâncias da camada de aplicativos podem acessar as instâncias da camada de banco de dados.
 
 ![ Imagem de Grupo de segurança](images/SecurityGroups.png "A imagem mostra o fluxo do tráfego de rede com um conjunto de grupos de segurança ativado") Figura 1. Imagem do grupo de segurança
-
-

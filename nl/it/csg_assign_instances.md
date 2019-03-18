@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Assegnazione di istanze al gruppo di sicurezza
+{: #assigning-instances-to-the-security-group}
+
 Puoi assegnare gli oggetti del gruppo di sicurezza alle istanze in due modi:
 
 ## Utilizzo del menu Sicurezza
@@ -26,7 +28,7 @@ Puoi assegnare gli oggetti del gruppo di sicurezza alle istanze in due modi:
 
 	![Istanza menu Sicurezza](./images/security_assign.jpg)
 
-	Nella figura, il gruppo di sicurezza "allow_icmp" (creato nel [primo passo](csg_create.html)) viene applicato all'interfaccia privata (`10.0.2.219`) di "jpmongevsi4".
+	Nella figura, il gruppo di sicurezza "allow_icmp" (creato nel [primo passo](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group)) viene applicato all'interfaccia privata (`10.0.2.219`) di "jpmongevsi4".
 
 	Nota in che modo il numero di **Istanze collegate** viene aumentato da `0` a `1`.
 
@@ -52,4 +54,4 @@ Puoi assegnare gli oggetti del gruppo di sicurezza alle istanze in due modi:
 	**NOTA:** questo è un passo unico per l'interfaccia di rete delle istanze non create con un gruppo di sicurezza.
 
 ## Passo successivo...
-[Modifica il gruppo di sicurezza](csg_edit.html) per modificarne i parametri.  
+[Modifica il gruppo di sicurezza](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) per modificarne i parametri.  

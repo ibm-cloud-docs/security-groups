@@ -31,7 +31,7 @@ Führen Sie die folgenden Schritte aus, um eine Sicherheitsgruppe zu erstellen:
 Führen Sie die folgenden Schritte aus, um eine Sicherheitsgruppenregel zu erstellen:
 {:shortdesc}
 
-1. Wählen Sie in der Navigation des [Kundenportals ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/) die Optionen für **Sicherheit -> Netzsicherheit -> Sicherheitsgruppen** aus.
+1. Wählen Sie in der Navigation des [Kundenportals ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/) die Optionen für **Sicherheit > Netzsicherheit > Sicherheitsgruppen** aus. 
 2. Klicken Sie auf der Seite 'Sicherheitsgruppen' auf den Namen einer Sicherheitsgruppe, um die Seite 'Details' zu öffnen, und wählen Sie **Regel erstellen** aus.
 3. Geben Sie auf der Seite 'Regel erstellen' alle passenden Attribute ein (wie Richtung, IP-Typ, Protokoll und Informationen zu Quelle/Ziel). Klicken Sie dann auf **OK**.
 

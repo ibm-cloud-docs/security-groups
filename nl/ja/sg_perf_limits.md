@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # セキュリティー・グループのパフォーマンス上の制限
+{: #performance-limitations-for-security-groups}
 
 セキュリティー・グループとその関連ルールには、パフォーマンス上の制限がいくつかあります。 
 {:shortdesc}

@@ -19,7 +19,7 @@ lastupdated: "2017-08-10"
 # 安全组 API 参考
 {: #api-reference} 
 
-SoftLayer&reg; 应用程序编程接口 (API) 这款开发接口使开发人员和系统管理员能够与 SoftLayer 的后端系统进行直接交互。
+SoftLayer 应用程序编程接口 (API) 这款开发接口使开发者和系统管理员能够与 SoftLayer 的后端系统进行直接交互。
 {:shortdesc}
 
 SoftLayer API (SLAPI) 为客户门户网站中的许多功能部件提供技术支持，这通常意味着，如果交互可以在客户门户网站中进行，就也可以在 API 中运行。因为在 API 中，您可以与 SoftLayer 环境的每个部分进行程序化的交互，所以就可以使用 API 自动执行任务。例如，您可以使用 *SoftLayer_Virtual_Guest/createObject* API 来部署启用了安全组的虚拟服务器实例。

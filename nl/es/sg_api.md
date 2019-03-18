@@ -19,7 +19,7 @@ lastupdated: "2017-08-10"
 # Referencia de API de grupo de seguridad
 {: #api-reference} 
 
-La API de SoftLayer&reg; es la interfaz de desarrollo que permite a los desarrolladores y administradores del sistema interactuar directamente con el sistema de fondo de SoftLayer. 
+La API de SoftLayer es la interfaz de desarrollo que permite a los desarrolladores y administradores del sistema interactuar directamente con el sistema de fondo de SoftLayer. 
 {:shortdesc}
 
 La API de SoftLayer (SLAPI) ofrece muchas de las características del Portal de clientes, lo cual significa que normalmente si una interacción es posible en Portal de clientes, también lo es en la API. Puesto que se puede interactuar mediante programación con todos los componentes del entorno de SoftLayer dentro de la API, es posible utilizar la API para automatizar tareas. Por ejemplo, puede utilizar la API *SoftLayer_Virtual_Guest/createObject* para desplegar una instancia de servidor virtual con un grupo de seguridad habilitado.

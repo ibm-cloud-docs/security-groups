@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2018-11-20"
 
 ---
 
@@ -16,10 +16,10 @@ lastupdated: "2018-11-10"
 # デモ: Network as a Service
 {: #naas-video}
 
-IBM Cloud ネットワーク・サービス (ロード・バランサー、セキュリティー・グループ、および CDN を含む) を使用すると、セキュリティー、パフォーマンス、回復力が強化されたクラウド・ネイティブ・アプリケーションを簡単に構築することができます。 このデモでは、こうしたサービスを使用してシンプルな 3 層 Web アプリケーションを数回のクリックで作成する方法を説明します。
+IBM© Cloud ネットワーク・サービス (ロード・バランサー、セキュリティー・グループ、および CDN を含む) を使用すると、セキュリティー、パフォーマンス、回復力が強化されたクラウド・ネイティブ・アプリケーションを簡単に構築することができます。このデモでは、こうしたサービスを使用してシンプルな 3 層 Web アプリケーションを数回のクリックで作成する方法を説明します。
 
 <p>
   <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" id="youtubeplayer" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/LRvNCXvtkX0?rel=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+    <iframe class="embed-responsive-item" id="youtubeplayer" type="text/html" title="web-app-security-groups-load-balancer-cdn" width="640" height="390" src="https://www.youtube.com/embed/LRvNCXvtkX0?rel=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
   </div>
 </p>

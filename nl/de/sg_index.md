@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Einführung in Sicherheitsgruppen
+{: #getting-started-with-security-groups}
 
 Sie können Sicherheitsgruppen verwenden, um eine Gruppe von IP-Filterregeln einzurichten, die definieren, wie eingehender und abgehender Datenverkehr an bzw. von sowohl öffentlichen als auch privaten Schnittstellen einer virtuellen Serverinstanz gehandhabt wird.
 {:shortdesc}
@@ -37,7 +38,7 @@ In den folgenden Abschnitten werden einige schwierige Netzsicherheitsszenarios b
 **Lösung:** Verwenden Sie Sicherheitsgruppen, wenn Sie den virtuellen Server bestellen. Auf diese Weise ist Ihr Server ab dem Zeitpunkt seiner Bereitstellung geschützt.
 
 ### Kosteneffiziente Firewall auf Instanzebene
-**Sicherheitsszenario:** Kunden möchten differenzierte Kontrolle über den Datenverkehr auf Instanzebene (abgesehen von dem Einsatz von Firewalls auf Netzebene), aber gleichzeitig können sich die Kosten einer gemeinsam genutzten Hardware-Firewall (IBMs anderes Multi-Tenant-Firewall-Angebot auf Instanzebene) schnell summieren, wenn der Kunde mehrere Server in verschiedenen Rechenzentren schützen muss.
+**Sicherheitsszenario:** Kunden möchten differenzierte Kontrolle über den Datenverkehr auf Instanzebene (abgesehen von dem Einsatz von Firewalls auf Netzebene), aber gleichzeitig können sich die Kosten einer gemeinsam genutzten Hardware-Firewall (anderes Multi-Tenant-Firewall-Angebot auf Instanzebene von IBM©) schnell summieren, wenn der Kunde mehrere Server in verschiedenen Rechenzentren schützen muss. 
 
 **Lösung:** Die Verwendung des Features 'Sicherheitsgruppen' wird nicht extra berechnet. Verwenden Sie Sicherheitsgruppen für alle virtuellen Server, die geschützt werden müssen, in allen globalen Rechenzentren.
 

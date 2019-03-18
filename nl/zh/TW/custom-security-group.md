@@ -16,7 +16,9 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # 建立及管理自訂安全群組
-在本指導教學中，您將學會如何建立、指派實例及編輯自訂「安全群組」。 
+{: #creating-and-managing-a-custom-security-group}
+
+在本指導教學中，您將學會如何建立、指派實例及編輯自訂「安全群組」。
 
 ![自訂安全群組](./images/goal.jpg)
 
@@ -28,7 +30,7 @@ lastupdated: "2018-11-10"
 | 不適用/任何        | 10.0.0.0/16 |
 | allow_icmp | 不適用          | 安全群組       | 不適用/任何        | 0.0.0.0/0 |
 | allow_ssh | 不適用          | 安全群組       | 不適用/任何        | 0.0.0.0/0 |
-|jpmongevsi2.testing.com | Ubuntu 16.04 | 虛擬伺服器實例          | Dallas 10 Pod 01 | 10.0.0.21 |	
+|jpmongevsi2.testing.com | Ubuntu 16.04 | 虛擬伺服器實例          |Dallas 10 Pod 01	| 10.0.0.21 |
 |jpmongevsi4.testing.com | Ubuntu 16.04 | 虛擬伺服器實例          |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 
@@ -41,7 +43,7 @@ lastupdated: "2018-11-10"
 
 作業  |說明
 ------------- | -------------
-[建立安全群組](csg_create.html) | 建立及配置自訂安全群組，相對於使用 IBM Cloud 平台預先定義的安全群組。
-[建立規則](csg_rule.html)  | 建立規則，以容許送入的要求 (SSH & ICMP) 及其相關的（送出的）資料傳輸流。
-[將實例指派給「安全群組」](csg_assign_instances.html) | 使用「安全功能表」或「裝置功能表」，將「安全群組」物件指派給實例。
-[編輯安全群組及其規則](csg_edit.html) | 修改「安全物件」的參數及其規則。
+[建立安全群組](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | 建立及配置自訂安全群組，相對於使用 IBM© Cloud 平台預先定義的安全群組。
+[建立規則](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule)  | 建立規則，以容許送入的要求 (SSH & ICMP) 及其相關的（送出的）資料傳輸流。
+[將實例指派給「安全群組」](/docs/infrastructure/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | 使用「安全功能表」或「裝置功能表」，將「安全群組」物件指派給實例。
+[編輯安全群組及其規則](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) | 修改「安全物件」的參數及其規則。

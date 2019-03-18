@@ -12,7 +12,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 
-# Suministro de un servidor virtual con grupos de seguridad
+# Aprovisionamiento de un Servidor Virtual con grupos de seguridad de IBM
 
 Para empezar, solicite una instancia de servidor virtual y asigne un grupo de seguridad.
 {:shortdesc}
@@ -25,4 +25,3 @@ Para empezar, solicite una instancia de servidor virtual y asigne un grupo de se
 6. Complete la información de Configurar grupos de seguridad.
 7. Puede seleccionar cualquiera de los grupos de seguridad predefinidos para aplicar a las interfaces públicas o privadas del servidor virtual.
 8. Por último, pulse **Enviar pedido**.
-

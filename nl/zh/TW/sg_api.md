@@ -19,7 +19,7 @@ lastupdated: "2017-08-10"
 # Security Group API 參考資料
 {: #api-reference} 
 
-SoftLayer&reg; 應用程式設計介面 (API) 是開發介面，它可讓開發人員及系統管理者直接與 SoftLayer 的後端系統互動。
+SoftLayer 應用程式設計介面 (API) 是開發介面，它可讓開發人員及系統管理者直接與 SoftLayer 的後端系統互動。
 {:shortdesc}
 
 SoftLayer API (SLAPI) 會啟動客戶入口網站中的許多特性，這通常表示如果可以在客戶入口網站中互動，便也可以在 API 執行。由於您可以透過程式設計方式，在 API 內與 SoftLayer 環境的所有部分互動，您可以使用 API 將作業自動化。例如，您可以使用 *SoftLayer_Virtual_Guest/createObject* API 來部署虛擬伺服器實例，並且啟用安全群組。

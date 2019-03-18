@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Configuraciones de red y grupos de seguridad existentes
+{: #existing-network-configurations-and-security-groups}
 
 Los grupos de seguridad aumentan la configuración de red existente. Por lo tanto, un grupo de seguridad no puede abarcar redes que no se puedan comunicar entre sí. 
 {:shortdesc}

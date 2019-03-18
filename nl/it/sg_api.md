@@ -19,8 +19,8 @@ lastupdated: "2017-08-10"
 # Riferimento all'API gruppo di sicurezza
 {: #api-reference} 
 
-L'API (Application Programming Interface) SoftLayer&reg; è l'interfaccia di sviluppo che fornisce agli sviluppatori e agli amministratori
-di sistema un'interazione diretta con il sistema di backend SoftLayer. 
+L'API (Application Programming Interface) SoftLayer è l'interfaccia di sviluppo che fornisce agli sviluppatori e agli amministratori
+di sistema un'interazione diretta con il sistema di backend SoftLayer
 {:shortdesc}
 
 L'API SoftLayer (SLAPI) potenzia molte delle funzioni del Portale del cliente, il che

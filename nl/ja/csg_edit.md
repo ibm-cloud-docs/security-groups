@@ -16,6 +16,7 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # セキュリティー・グループの編集
+{: #editing-a-security-group}
 
 セキュリティー・グループ・オブジェクトを作成したら、そのパラメーターとルールを変更できます。
 

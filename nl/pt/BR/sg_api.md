@@ -19,7 +19,7 @@ lastupdated: "2017-08-10"
 # Referência de API do Grupo de Segurança
 {: #api-reference} 
 
-A Interface de Programação de Aplicações (API) do SoftLayer&reg; é a interface de desenvolvimento que fornece aos desenvolvedores e administradores do sistema a interação direta com o sistema backend do SoftLayer. 
+A Interface de programação de aplicativos (API) do SoftLayer é a interface de programação que fornece aos desenvolvedores e administradores do sistema interação direta com o sistema de back-end do SoftLayer.
 {:shortdesc}
 
 O SoftLayer API (SLAPI) impulsiona muitos dos recursos no Customer Portal, que

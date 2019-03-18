@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
 
-# Come ottenere aiuto e supporto 
+# Come ottenere aiuto e supporto per i gruppi di sicurezza IBM
 {: #gettinghelp}
 
 Ultimo aggiornamento: 16 agosto 2017
@@ -28,10 +28,8 @@ Quando utilizzi i forum per fare una domanda, contrassegnala con una tag in modo
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
 * Se hai domande tecniche sui gruppi di sicurezza per i server virtuali, inserisci la tua domanda in [Stack Overflow ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window} e contrassegnala con le tag "ibm-cloud" e "network-security-groups".
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* Per domande sul servizio e le istruzioni introduttive, utilizza il forum [IBM developerWorks dW Answers ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window}. Includi le tag  "security groups" e "ibm-cloud".
+* Per domande sul servizio e le istruzioni introduttive, utilizza il forum [IBM© developerWorks dW Answers ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window}. Includi le tag  "security groups" e "ibm-cloud".
 
-Per ulteriori dettagli sull'utilizzo dei forum, vedi [Come ottenere supporto](/docs/support/index.html#getting-help).
+Per ulteriori dettagli sull'utilizzo dei forum, vedi [Come ottenere supporto](https://{DomainName}/docs/get-support?topic=get-support-using-avatar).
 
-Per informazioni su come aprire un ticket di supporto IBM o sui livelli di supporto e sulla gravità dei ticket, consulta [Come contattare il supporto](/docs/support/index.html#contacting-support).
-
-
+Per informazioni su come aprire un ticket di supporto IBM o sui livelli di supporto e sulla gravità dei ticket, consulta [Come contattare il supporto](/docs/get-support?topic=get-support-contacting-bluemix-support-dedicated-local).

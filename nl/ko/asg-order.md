@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# 보안 그룹 주문
+# IBM Security Group 주문
 
 Virtual Server 인스턴스를 주문하여 보안 그룹을 지정하려면 다음 프로시저를 수행하십시오.
 

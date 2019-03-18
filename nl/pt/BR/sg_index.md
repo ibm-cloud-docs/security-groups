@@ -13,6 +13,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Introdução aos grupos de segurança
+{: #getting-started-with-security-groups}
 
 É possível usar grupos de segurança para decretar um conjunto de regras de filtro de IP que definem como manipular o tráfego de entrada e de saída para as interfaces pública e privada de uma instância de servidor virtual.
 {:shortdesc}
@@ -37,7 +38,7 @@ As seções a seguir descrevem alguns cenários de segurança de rede difíceis 
 **Solução:** use os Grupos de segurança no momento do pedido do servidor virtual. Dessa forma, o seu servidor será protegido desde o momento em que for provisionado.
 
 ### Firewall de nível de instância com custo eficiente
-**Cenário de segurança:** os clientes desejam ter controle granular sobre o tráfego em um nível de instância (além de firewalling de nível de rede), mas ao mesmo tempo, os custos de um firewall de hardware compartilhado (que é a outra oferta de firewall com múltiplos locatários de nível de instância da IBM) poderão ser incluídos rapidamente se o cliente precisar proteger múltiplos servidores em diferentes data centers.
+**Cenário de segurança:** os clientes querem ter controle granular sobre o tráfego a um nível de instância (diferente do firewall de nível de rede), mas, ao mesmo tempo, os custos de um firewall de hardware compartilhado (que é outro nível de instância fornecido pela IBM© de uma oferta de firewall de vários locatários) podem aumentar rapidamente caso o cliente precise proteger vários servidores em diferentes data centers.
 
 **Solução:** não há encargo extra para usar o recurso de Grupos de segurança. Use Grupos de segurança para todos os servidores virtuais que precisam de proteção em qualquer um de nossos data centers globais.
 

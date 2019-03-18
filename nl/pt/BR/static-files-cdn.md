@@ -16,7 +16,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Acelere a entrega de arquivos estáticos usando o Object Storage e o CDN
+# Acelerando a entrega de arquivos estáticos usando o Object Storage e o CDN
 Permitir solicitações recebidas (SSH e ICMP) e os seus fluxos de tráfego relacionados (de saída) executando o procedimento a seguir:
 
 1. Selecione a guia **Regras** no [Portal do cliente![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window}.

@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
 
-# Obtendo ajuda e suporte 
+# Obtendo ajuda e suporte para os grupos de segurança da IBM
 {: #gettinghelp}
 
 Última atualização: 16 de agosto de 2017
@@ -29,13 +29,10 @@ para que ela possa ser vista pelas equipes de desenvolvimento do {{site.data.key
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
 * Se você tiver questões técnicas sobre grupos de segurança para servidores virtuais, poste a sua pergunta no [Stack Overflow![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://stackoverflow.com/search?q=network-security-groups+ibm-cloud){:new_window} e identifique a sua pergunta com "ibm-cloud" e "grupos de segurança de rede".
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* Para perguntas sobre o serviço e instruções de introdução, use o fórum [IBM developerWorks dW Answers
-![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window}. Inclua as identificações "grupos de segurança" e "ibm-cloud".
+* Para fazer perguntas sobre o serviço e obter instruções de introdução, use o fórum [IBM© developerWorks dW Answers ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/topics/security%20groups.html?smartspace=ibm-cloud){:new_window}. Inclua as identificações "grupos de segurança" e "ibm-cloud".
 
 Consulte
 [Obtendo
-ajuda](/docs/support/index.html#getting-help) para mais detalhes sobre como usar os fóruns.
+ajuda](https://{DomainName}/docs/get-support?topic=get-support-using-avatar) para mais detalhes sobre como usar os fóruns.
 
-Para obter informações sobre a abertura de um chamado de suporte IBM ou sobre níveis de suporte e gravidades de chamados, veja [Entrando em contato com o suporte](/docs/support/index.html#contacting-support).
-
-
+Para obter informações sobre a abertura de um chamado de suporte IBM ou sobre níveis de suporte e gravidades de chamados, veja [Entrando em contato com o suporte](/docs/get-support?topic=get-support-contacting-bluemix-support-dedicated-local).

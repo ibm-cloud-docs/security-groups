@@ -12,9 +12,10 @@ lastupdated: "2018-11-10"
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 
-# Leistungsbeschränkungen für Sicherheitsgruppen
+# Leistungseinschränkungen für Sicherheitsgruppen
+{: #performance-limitations-for-security-groups}
 
-Für Sicherheitsgruppen und die ihnen zugeordneten Regeln gelten einige Leistungsbeschränkungen. 
+Für Sicherheitsgruppen und die ihnen zugeordneten Regeln gelten einige Leistungseinschränkungen.
 {:shortdesc}
 
 | Ressource                                                  | Beschränkung                                               |

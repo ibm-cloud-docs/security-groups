@@ -16,6 +16,7 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # 編輯安全群組
+{: #editing-a-security-group}
 
 建立「安全群組」物件之後，您可以修改其參數及規則。
 

@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Automatizar a implementação de ambientes usando o Schematics
+# Automatizando a implementação de ambientes usando esquemas
 Permitir solicitações recebidas (SSH e ICMP) e os seus fluxos de tráfego relacionados (de saída) executando o procedimento a seguir:
 
 1. Selecione a guia **Regras** no [Portal do cliente![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window}.

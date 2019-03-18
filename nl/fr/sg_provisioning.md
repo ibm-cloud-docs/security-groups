@@ -25,4 +25,3 @@ Pour commencer, commandez une instance de serveur virtuel et affectez-lui un gro
 6. Complétez les informations de configuration des groupes de sécurité.
 7. Vous pouvez sélectionner n'importe quel groupe de sécurité prédéfini à appliquer aux interfaces publiques ou privées du serveur virtuel.
 8. Pour terminer, cliquez sur **Soumettre une commande**.
-

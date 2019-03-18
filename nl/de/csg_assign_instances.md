@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Instanzen zu der Sicherheitsgruppe zuordnen
+{: #assigning-instances-to-the-security-group}
+
 Sie haben zwei Möglichkeiten, Sicherheitsgruppenobjekte zu Instanzen zuzuordnen:
 
 ## Über das Sicherheitsmenü
@@ -26,7 +28,7 @@ Sie haben zwei Möglichkeiten, Sicherheitsgruppenobjekte zu Instanzen zuzuordnen
 
 	![Sicherheitsmenü-Instanz](./images/security_assign.jpg)
 
-	In der Abbildung wird die Sicherheitsgruppe 'allow_icmp' (erstellt im [ersten Schritt](csg_create.html)) auf die private Schnittstelle (`10.0.2.219`) 'jpmongevsi4' angewendet.
+	In der Abbildung wird die Sicherheitsgruppe 'allow_icmp' (erstellt im [ersten Schritt](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group)) auf die private Schnittstelle (`10.0.2.219`) 'jpmongevsi4' angewendet.
 
 	Beachten Sie, dass sich die Anzahl **Angehängte Instanzen** von `0` in `1` geändert hat.
 
@@ -52,4 +54,4 @@ Sie haben zwei Möglichkeiten, Sicherheitsgruppenobjekte zu Instanzen zuzuordnen
 	**HINWEIS:** Dieser Schritt muss für Instanzen, die nicht mit einer Sicherheitsgruppe erstellt wurden, nur einmal pro Netzschnittstelle ausgeführt werden.
 
 ## Nächster Schritt ...
-[Sicherheitsgruppe bearbeiten](csg_edit.html), um die zugehörigen Parameter zu ändern.  
+[Sicherheitsgruppe bearbeiten](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group), um die zugehörigen Parameter zu ändern.  

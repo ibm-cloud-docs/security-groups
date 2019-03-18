@@ -16,7 +16,9 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # カスタム・セキュリティー・グループの作成と管理
-このチュートリアルでは、カスタム・セキュリティー・グループの作成、インスタンス割り当て、編集の方法を説明します。 
+{: #creating-and-managing-a-custom-security-group}
+
+このチュートリアルでは、カスタム・セキュリティー・グループの作成、インスタンス割り当て、編集の方法を説明します。
 
 ![カスタム・セキュリティー・グループ](./images/goal.jpg)
 
@@ -28,7 +30,7 @@ lastupdated: "2018-11-10"
 | 適用外/任意 | 10.0.0.0/16 |
 | allow_icmp | 適用外  | セキュリティー・グループ | 適用外/任意 | 0.0.0.0/0 |
 | allow_ssh | 適用外 | セキュリティー・グループ | 適用外/任意 | 0.0.0.0/0 |
-|jpmongevsi2.testing.com | Ubuntu 16.04 | 仮想サーバー・インスタンス | ダラス 10 ポッド 01 | 10.0.0.21 |	
+|jpmongevsi2.testing.com | Ubuntu 16.04 | 仮想サーバー・インスタンス | ダラス 10 ポッド 01 | 10.0.0.21 |
 |jpmongevsi4.testing.com | Ubuntu 16.04 | 仮想サーバー・インスタンス |	ダラス 10 ポッド 01	| 10.0.2.219 |
 
 
@@ -41,7 +43,7 @@ lastupdated: "2018-11-10"
 
 タスク  | 説明
 ------------- | -------------
-[セキュリティー・グループの作成](csg_create.html) | IBM クラウド・プラットフォームで事前定義されたセキュリティー・グループを使用するのではなく、カスタム・セキュリティー・グループを作成して構成します。 
-[ルールの作成](csg_rule.html)  | 入力要求 (SSH および ICMP) とその関連の (出力) トラフィック・フローを許可するルールを作成します。 
-[セキュリティー・グループへのインスタンスの割り当て](csg_assign_instances.html) | セキュリティー・メニューまたはデバイス・メニューを使用して、セキュリティー・グループ・オブジェクトをインスタンスに割り当てます。
-[セキュリティー・グループとそのルールの編集](csg_edit.html) | セキュリティー・オブジェクトのパラメーターとそのルールを変更します。
+[セキュリティー・グループの作成](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | IBM© Cloud プラットフォームで事前定義されたセキュリティー・グループを使用するのではなく、カスタム・セキュリティー・グループを作成して構成します。 
+[ルールの作成](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) | 入力要求 (SSH および ICMP) とその関連の (出力) トラフィック・フローを許可するルールを作成します。 
+[セキュリティー・グループへのインスタンスの割り当て](/docs/infrastructure/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | セキュリティー・メニューまたはデバイス・メニューを使用して、セキュリティー・グループ・オブジェクトをインスタンスに割り当てます。
+[セキュリティー・グループとそのルールの編集](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) | セキュリティー・オブジェクトのパラメーターとそのルールを変更します。

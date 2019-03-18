@@ -16,7 +16,9 @@ lastupdated: "2018-11-10"
 {:table: .aria-labeledby="caption"}
 
 # Creación y gestión de un grupo de seguridad personalizada
-En esta guía de aprendizaje aprenderá cómo crear, asignar instancias a y editar un Grupo de seguridad personalizado. 
+{: #creating-and-managing-a-custom-security-group}
+
+En esta guía de aprendizaje aprenderá cómo crear, asignar instancias a y editar un Grupo de seguridad personalizado.
 
 ![Grupo de seguridad personalizado](./images/goal.jpg)
 
@@ -28,7 +30,7 @@ Para este ejemplo, se utilizarán los siguientes objetos y elementos:
 | No aplicable/Ninguno | 10.0.0.0/16 |
 | allow_icmp | No aplicable  | Grupo de seguridad | No aplicable/Ninguno | 0.0.0.0/0 |
 | allow_ssh | No aplicable | Grupo de seguridad | No aplicable/Ninguno | 0.0.0.0/0 |
-|jpmongevsi2.testing.com | Ubuntu 16.04 | Instancia de servidor virtual | Dallas 10 Pod 01 | 10.0.0.21 |	
+|jpmongevsi2.testing.com | Ubuntu 16.04 | Instancia de servidor virtual | Dallas 10 Pod 01 | 10.0.0.21 |
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Instancia de servidor virtual |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 
@@ -41,7 +43,7 @@ En esta guía de aprendizaje aprenderá a...
 
 Tarea  | Descripción
 ------------- | -------------
-[Crear un Grupo de seguridad](csg_create.html) | Crear y configurar un grupo de seguridad personalizada, al contrario que utilizar uno predefinido mediante la plataforma de IBM Cloud. 
-[Crear una regla](csg_rule.html)  | Crear una regla para permitir las solicitudes entrantes (SSH e ICMP) y sus flujos de tráfico relacionados (salientes). 
-[Asignar instancias al Grupo de seguridad](csg_assign_instances.html) | Asignar objetos de Grupo de seguridad a instancias utilizando el menú Seguridad o el menú Dispositivos.
-[Editar un Grupo de seguridad y sus Reglas](csg_edit.html) | Modificar los parámetros del Objeto de seguridad y de sus reglas.
+[Crear un Grupo de seguridad](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | Crear y configurar un grupo de seguridad personalizada, al contrario que utilizar uno predefinido mediante la plataforma de IBM© Cloud.
+[Crear una regla](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) | Crear una regla para permitir las solicitudes entrantes (SSH e ICMP) y sus flujos de tráfico relacionados (salientes).
+[Asignar instancias al Grupo de seguridad](/docs/infrastructure/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | Asignar objetos de Grupo de seguridad a instancias utilizando el menú Seguridad o el menú Dispositivos.
+[Editar un Grupo de seguridad y sus Reglas](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) | Modificar los parámetros del Objeto de seguridad y de sus reglas.

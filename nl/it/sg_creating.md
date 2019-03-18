@@ -31,7 +31,7 @@ Per creare un gruppo di sicurezza, completa la seguente procedura:
 Per creare una regola del gruppo di sicurezza, completa la seguente procedura:
 {:shortdesc}
 
-1. Nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/), seleziona **Sicurezza -> Sicurezza di rete -> Gruppi di sicurezza**.
+1. Nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/), seleziona **Sicurezza > Sicurezza di rete > Gruppi di sicurezza**.
 2. Nella pagina Gruppi di sicurezza, fai clic sul nome di un gruppo di sicurezza per aprire la pagina Dettagli e seleziona **Crea regola**.
 3. Nella pagina Crea regola, immetti tutti gli attributi appropriati (come direzione, tipo IP, protocollo e le informazioni di origine/destinazione). Al termine, fai clic su **Ok**.
 
