@@ -18,6 +18,8 @@ subcollection: security-group
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Other Resources for IBM Security Groups
 {: #other-resources-for-ibm-security-groups}

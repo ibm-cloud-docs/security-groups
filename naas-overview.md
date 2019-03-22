@@ -16,6 +16,9 @@ subcollection: security-group
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Demo: Network as a Service
 {: #naas-video}

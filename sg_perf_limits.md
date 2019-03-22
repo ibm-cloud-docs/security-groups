@@ -15,12 +15,15 @@ subcollection: security-group
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Performance Limitations for Security Groups
 {: #performance-limitations-for-security-groups}
 
 Some performance limitations exist for security groups and their associated rules.
-{:shortdesc}
+{: shortdesc}
 
 | Resource                                                  | Limit                                               |
 | --------------------------------------------------------- | --------------------------------------------------- |
@@ -31,4 +34,5 @@ Some performance limitations exist for security groups and their associated rule
 | Network interfaces per security group                     | 100                                                  |
 {: caption="Table 3. Performance limitations for specific resources" caption-side="top"}
 
-**Note:** A remote rule is one that specifies a security group as the source or destination.
+A remote rule is one that specifies a security group as the source or destination.
+{: note}

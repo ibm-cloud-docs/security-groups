@@ -18,15 +18,17 @@ subcollection: security-group
 {:tsResolve: .tsResolve}
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Getting Help and Support for IBM Security Groups
 {: #gettinghelp}
 
 Last updated: 16 August 2017
-{: .last-updated}
 
 If you have problems or questions when using security groups for {{site.data.keyword.BluVirtServers}}, you can get help by searching for information or by asking questions through one of the forums listed below. You can also open a support ticket.
-{:shortdesc}
+{: shortdesc}
 
 When using the forums to ask a question, tag your question so that it is seen by the {{site.data.keyword.Bluemix_notm}} development teams.
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->

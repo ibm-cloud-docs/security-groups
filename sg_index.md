@@ -15,12 +15,15 @@ subcollection: security-group
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Getting Started with Security Groups
 {: #getting-started-with-security-groups}
 
 You can use Security Groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
-{:shortdesc}
+{: shortdesc}
 
 To get started, order a virtual server instance (VSI) and assign a security group.
 
@@ -42,7 +45,7 @@ The sections below describe a few difficult network security scenarios you might
 **Solution:** Use Security Groups at the time of ordering the virtual server. That way, your server is protected right from the time it is provisioned.
 
 ### Cost-efficient instance level firewall
-**Security scenario:** Customers want to have granular control over traffic at an instance level (apart from network-level firewalling), but at the same time, the costs of a shared hardware firewall (which is another instance level by IBM© of a multi-tenant firewall offering) can add up quickly if the customer needs to protect multiple servers in different data centers.
+**Security scenario:** Customers want to have granular control over traffic at an instance level (apart from network-level firewalls), but at the same time, the costs of a shared hardware firewall (which is another instance level by IBM© of a multi-tenant firewall offering) can add up quickly if the customer needs to protect multiple servers in different data centers.
 
 **Solution:** There is no extra charge for using the Security Groups feature. Use Security Groups for all virtual servers that need protection in any of our global data centers.
 

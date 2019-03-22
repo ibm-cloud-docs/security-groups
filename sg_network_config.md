@@ -15,12 +15,15 @@ subcollection: security-group
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Existing Network Configurations and Security Groups
 {: #existing-network-configurations-and-security-groups}
 
 A security group augments any existing network configuration. Therefore, a security group cannot span across networks that cannot communicate with one another.
-{:shortdesc}
+{: shortdesc}
 
 If virtual server instances cannot communicate with one another, adding them to a security group does not change that behavior. Gateways must allow the traffic that is defined by the selected security groups.
 

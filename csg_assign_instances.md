@@ -17,6 +17,9 @@ subcollection: security-group
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # Assigning Instances to the Security Group
@@ -40,7 +43,8 @@ You can assign security group objects to instances in one of two ways:
 
 5. Reboot your instance.
 
-	**NOTE:** This is a one-time-only step per network interface for instances not created with a security group.
+	This is a one-time-only step per network interface for instances not created with a security group.
+  {: note}
 
 ## Using the Devices Menu
 
@@ -55,7 +59,8 @@ You can assign security group objects to instances in one of two ways:
 
 5. Reboot the instance.
 
-	**NOTE:** This is a one-time-only step per network interface for instances not created with a security group.
+	This is a one-time-only step per network interface for instances not created with a security group.
+  {: note}
 
 ## Next step...
 [Edit the Security Group](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) to modify its parameters.  

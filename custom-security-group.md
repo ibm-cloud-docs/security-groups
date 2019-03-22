@@ -18,6 +18,9 @@ subcollection: security-group
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Creating and Managing a Custom Security Group
 {: #creating-and-managing-a-custom-security-group}

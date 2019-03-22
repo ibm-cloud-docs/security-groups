@@ -19,6 +19,9 @@ subcollection: security-groups
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Adding a pre-defined Security Group during ordering
 {: #adding-a-pre-defined-security-group-during-ordering}

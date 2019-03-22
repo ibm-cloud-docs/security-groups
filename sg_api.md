@@ -19,13 +19,15 @@ subcollection: security-group
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Security Group API reference
 {: #api-reference}
 
 The SoftLayer Application Programming Interface (API) is the development interface that gives developers and system administrators direct
 interaction with SoftLayer's backend system.
-{:shortdesc}
 
 The SoftLayer API (SLAPI) powers many of the features in the Customer Portal, which
 typically means if an interaction is possible in the Customer Portal, it can also be run in the API. Because you can programmatically interact

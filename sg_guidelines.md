@@ -14,6 +14,9 @@ subcollection: security-group
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Security Groups Guidelines
 {: #security-groups-guidelines}
@@ -30,7 +33,7 @@ Consider the following guidelines when you work with security groups:
 * Changes to security group rules are automatically applied and can be modified at any time.
 * The order of rules within a security group does not matter. The priority always falls to the least restrictive rule.
 * Rules are stateful. Connections established prior to a security group change will not be altered. New connections will abide by rules that exist at the time connectivity is established.
-* Security groups do not override operating system firewalls on the virtual server. If a more restrictive firewall exists on the operating system than what is applied by security groups, the operating system rules are still enforced.
+* Security groups do not override operating system firewalls on the virtual server. Even if a more restrictive firewall exists on the operating system than what is applied by the security group, the operating system rules will still be enforced.
 * If your virtual server needs access to internal services, such as an update server, network attached storage(NAS), or advanced monitoring, ensure that the security group rules accommodate traffic for those internal services. For more information, see [What IP ranges do I allow through the firewall](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-ibm-cloud-ip-ranges).
 
 ## Interfaces

@@ -14,6 +14,9 @@ subcollection: security-group
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # About IBM Security Groups
 {: #about-ibm-security-groups}
@@ -22,11 +25,11 @@ subcollection: security-group
 A *security group* is a set of IP filter rules that define how to handle incoming (ingress) and
 outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The
 rules that you add to a security group are known as *security group rules*.
-{:shortdesc}
+{: shortdesc}
 
 * You can assign security groups to the public and/or private network interfaces of a single virtual server or multiple virtual server instances.
 * You can assign security groups that are provided by IBM© or that you create.
-* When a security group is applied to a network component of a virtual server instance, all traffic to and from that network component is denied unless explicitly permitted by a security group rule.
+* When a security group is applied to the network component of a virtual server instance, all traffic to and from that network component is denied, unless explicitly permitted by a security group rule.
 * The inbound traffic to a virtual server instance is referred to as ingress traffic.
 * The outbound traffic from a virtual server instance is referred to as egress traffic.
 
