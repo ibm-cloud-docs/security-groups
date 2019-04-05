@@ -20,9 +20,9 @@ subcollection: security-group
 {: #creating-security-groups}
 
 You can create a security group and its associated rules and then assign it to the interfaces of one or more virtual server instances to enable a virtual firewall.
-{:shortdesc}
 
 ## Creating a security group
+{: #creating-a-security-group-1}
 
 To create a security group, complete the following steps:
 
@@ -30,9 +30,11 @@ To create a security group, complete the following steps:
 2. On the Security Groups page, click **Create Group**.
 3. Enter a name and description for the security group and click **Create Group** again.
 
-**Note:** "Create group with a default rule to allow all outbound traffic" is selected by default. You can clear this field to create the security group with no rules. A security group with no rules blocks all traffic (both inbound and outbound).
+**Create group with a default rule to allow all outbound traffic** is selected by default. You can clear this field to create the security group with no rules. A security group with no rules blocks all traffic (both inbound and outbound).
+{: note}
 
 ## Creating security group rules
+{: #creating-security-group-rules}
 
 To create a security group rule, complete the following steps:
 

@@ -33,6 +33,8 @@ You can use Security Groups to enact a set of IP filter rules that define how to
 ![Custom Security Group](./images/goal2.jpg)
 
 ## What you'll need
+{: #what-you-ll-need-2}
+
 For this example the following objects and items will be used:
 
 | Resource Name  | Operating System | Type | Location/DC | IP/Subnet |
@@ -42,6 +44,8 @@ For this example the following objects and items will be used:
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Virtual server instance |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 ## Order a Security Group
+{: #order-a-security-group}
+
 To order a virtual server instance and assign a security group, perform the following procedure:
 
 1. From your browser, open [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/) and log in to your account.

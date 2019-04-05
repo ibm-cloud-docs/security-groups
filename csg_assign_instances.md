@@ -28,6 +28,7 @@ subcollection: security-group
 You can assign security group objects to instances in one of two ways:
 
 ## Using the Security Menu
+{: #using-the-security-menu}
 
 1. From the **Security** tab on the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window}, under **Network Security** select **Security Groups**.
 2. Click the ![More icon](./images/more_icon.jpg) icon of the Security Group object you wish to assign instances to, then select **Manage Instances**.
@@ -47,6 +48,7 @@ You can assign security group objects to instances in one of two ways:
   {: note}
 
 ## Using the Devices Menu
+{: #using-the-devices-menu}
 
 1. From the **Devices** tab on the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window}, select **Device List**.
 2. Click the instance name where you want to apply the Security Group object.
@@ -63,4 +65,6 @@ You can assign security group objects to instances in one of two ways:
   {: note}
 
 ## Next step...
+{: #next-step-1}
+
 [Edit the Security Group](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) to modify its parameters.  

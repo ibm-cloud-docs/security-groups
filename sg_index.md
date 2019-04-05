@@ -37,14 +37,20 @@ To get started, order a virtual server instance (VSI) and assign a security grou
 8. Finally, click **Submit Order**.
 
 ## Use Cases and Solutions
+{: #use-cases-and-solutions}
+
 The sections below describe a few difficult network security scenarios you might encounter that can be alleviated by using Security Groups.
 
 ### Security from the start
+{: #security-from-the-start}
+
 **Security scenario:** Customers want to secure their virtual server as soon as it is provisioned. They want complete control over the traffic passing through the server from the point when it was provisioned.
 
 **Solution:** Use Security Groups at the time of ordering the virtual server. That way, your server is protected right from the time it is provisioned.
 
 ### Cost-efficient instance level firewall
+{: #cost-efficient-instance-level-firewall}
+
 **Security scenario:** Customers want to have granular control over traffic at an instance level (apart from network-level firewalls), but at the same time, the costs of a shared hardware firewall (which is another instance level by IBM© of a multi-tenant firewall offering) can add up quickly if the customer needs to protect multiple servers in different data centers.
 
 **Solution:** There is no extra charge for using the Security Groups feature. Use Security Groups for all virtual servers that need protection in any of our global data centers.

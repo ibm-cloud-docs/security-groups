@@ -25,6 +25,7 @@ You can manage security groups by using the Security Groups page or the Device D
 {: shortdesc}
 
 ## Managing security groups from Security Groups page
+{: #managing-security-groups-from-security-groups-page}
 
 To manage security groups from the Security Groups page, complete the following steps:
 
@@ -37,6 +38,7 @@ To manage security groups from the Security Groups page, complete the following 
      * Delete a group.
 
 ## Managing security group rules from Security Groups page
+{: #managing-security-group-rules-from-security-groups-page}
 
 To manage security group rules from the Security Groups page, complete the following steps:
 
@@ -49,9 +51,11 @@ To manage security group rules from the Security Groups page, complete the follo
      * Delete a rule.
      * View the virtual server instances and the associated interfaces that are assigned to the security group.
 
-**Tip:** If you delete the last rule in a security group, then no inbound or outbound traffic is allowed by this security group.
+If you delete the last rule in a security group, then no inbound or outbound traffic is allowed by this security group.
+{: tip}
 
 ## Managing security groups from Device Details page
+{: #managing-security-groups-from-device-details-page}
 
 To manage security groups from the Device Details page, complete the following steps:
 

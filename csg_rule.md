@@ -40,4 +40,6 @@ Allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows 
 4. Click **OK** to finish.
 
 ## Next step...
+{: #next-step-3}
+
 [Assign instances to the Security Group](/docs/infrastructure/security-groups?topic=security-groups-assigning-instances-to-the-security-group) using either the Security Menu or the Device Menu.

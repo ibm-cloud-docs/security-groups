@@ -30,6 +30,8 @@ In this tutorial you will learn how to create, assign instances to, and edit a c
 ![Custom Security Group](./images/goal.jpg)
 
 ## What you'll need
+{: #what-you-ll-need-3}
+
 For this example the following objects and items will be used:
 
 | Resource Name  | Operating System | Type | Location/DC | IP/Subnet |
@@ -45,6 +47,7 @@ Note that this tutorial makes use of a CPA private network/account, however, for
 
 
 ## What you'll accomplish
+{: #what-you-ll-accomplish-3}
 
 In this tutorial you will learn how to...
 

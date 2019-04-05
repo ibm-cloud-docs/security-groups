@@ -21,11 +21,9 @@ subcollection: security-group
 # About IBM Security Groups
 {: #about-ibm-security-groups}
 
-## What is a security group?
 A *security group* is a set of IP filter rules that define how to handle incoming (ingress) and
 outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The
 rules that you add to a security group are known as *security group rules*.
-{: shortdesc}
 
 * You can assign security groups to the public and/or private network interfaces of a single virtual server or multiple virtual server instances.
 * You can assign security groups that are provided by IBM© or that you create.
@@ -36,6 +34,8 @@ rules that you add to a security group are known as *security group rules*.
 Security groups are implemented on the hypervisor hosting the virtual server.
 
 ## Security groups provided by IBM
+{: #security-groups-provided-by-ibm}
+
 You can assign any of the following security groups that are provided by IBM to the network
 interfaces of your virtual server instances:
 
@@ -46,6 +46,8 @@ interfaces of your virtual server instances:
 * *allow_all*: This security group defines the IP rules that allow all ingress traffic on all ports.
 
 ## Security Groups and Audit Logs
+{: #security-groups-and-audit-logs}
+
 All security group interactions are logged to an account's  Audit log entries track specific security group changes and which user requested the change. Logs are written for the following interactions:
 * A security group is added to or removed from a virtual server's network interface
 * A security group's rules are changed by add rule, edit rule or remove rule
@@ -55,6 +57,7 @@ For each of those interactions, one log is written for each affected object. A l
 Since security group changes may result in a number of virtual servers being updated in the background, audit logs can be used to determine precisely when a change went into effect.  Security group APIs that generate audit logs return a request identifier. That identifier can be used to correlate API calls with their resulting audit logs.
 
 ## Example
+{: #example-2}
 In the following diagram, virtual server instances are
 associated with a set of security groups to restrict network traffic. The arrows represent network traffic flow. The application developer has restricted access to the various infrastructure layers, as follows:
 
