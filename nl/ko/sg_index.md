@@ -13,13 +13,13 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # 보안 그룹 시작하기
-{: #getting-started-with-security-groups}
+{: #getting-started}
 
 보안 그룹을 사용하여 Virtual Server 인스턴스의 공용 및 사설 인터페이스 모두에 대한 수신 및 발신 트래픽을 처리하는 방법을 정의하는 IP 필터 규칙 세트를 규정할 수 있습니다.
 {:shortdesc}
 
 시작하려면 Virtual Server 인스턴스(VSI)를 주문하고 보안 그룹을 지정하십시오.
- 
+
 1. 브라우저에서 [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://control.softlayer.com/)을 열고 계정에 로그인하십시오.
 2. **주문** 섹션을 찾아 **디바이스**를 클릭하십시오.
 3. 디바이스 페이지에서 Virtual Server 오퍼링 중 하나에 대해 **시간별** 또는 **월별**을 클릭하십시오.

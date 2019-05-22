@@ -13,14 +13,14 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # 安全组入门
-{: #getting-started-with-security-groups}
+{: #getting-started}
 
 您可以使用“安全组”来制定一组 IP 过滤器规则，这些规则用于定义如何处理通过虚拟服务器实例的公共和专用接口的入局和出局流量。
 {:shortdesc}
 
 要开始使用此功能，请订购虚拟服务器实例 (VSI) 并分配安全组。
 
- 
+
 1. 从浏览器打开[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/)，然后登录帐户。
 2. 找到**订单**部分，然后单击**设备**。
 3. 在“设备”页面上，单击某个虚拟服务器产品的**按小时**或**按月**。

@@ -20,7 +20,7 @@ subcollection: security-group
 {:tip: .tip}
 
 # Getting Started with Security Groups
-{: #getting-started-with-security-groups}
+{: #getting-started}
 
 You can use Security Groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
 {: shortdesc}

@@ -13,13 +13,13 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Introdução aos grupos de segurança
-{: #getting-started-with-security-groups}
+{: #getting-started}
 
 É possível usar grupos de segurança para decretar um conjunto de regras de filtro de IP que definem como manipular o tráfego de entrada e de saída para as interfaces pública e privada de uma instância de servidor virtual.
 {:shortdesc}
 
 Para iniciar, solicite uma instância de servidor virtual (VSI) e designe um grupo de segurança.
- 
+
 1. Em seu navegador, abra [Customer Portal ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/) e efetue login em sua conta.
 2. Localize a seção **Ordem** e clique em **Dispositivos**.
 3. Na página Dispositivos, clique em **Por hora** ou **Mensal** para uma das ofertas de Virtual Server.

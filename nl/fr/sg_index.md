@@ -13,13 +13,13 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # Initiation aux groupes de sécurité
-{: #getting-started-with-security-groups}
+{: #getting-started}
 
 Vous pouvez vous servir des groupes de sécurité pour appliquer un ensemble de règles de filtrage d'adresses IP qui définissent la façon de gérer le trafic entrant et sortant tant au niveau des interfaces publiques qu'au niveau des interfaces privées d'une instance de serveur virtuel.
 {:shortdesc}
 
 Pour commencer, commandez une instance de serveur virtuel et affectez-lui un groupe de sécurité.
- 
+
 1. Dans votre navigateur, ouvrez le [Portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/) et connectez-vous à votre compte.
 2. Recherchez la section **Commander** et cliquez sur **Unités**.
 3. Sur la page Unités, cliquez sur l'option **A l'heure** ou **Au mois** correspondant aux offres de serveur virtuel.

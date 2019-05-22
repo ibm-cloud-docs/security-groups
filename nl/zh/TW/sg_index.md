@@ -13,13 +13,13 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 
 # 開始使用安全群組
-{: #getting-started-with-security-groups}
+{: #getting-started}
 
 您可以使用「安全群組」來制定一組 IP 過濾器規則，定義如何處理對虛擬伺服器實例之公用和專用介面的送入及送出資料流量。
 {:shortdesc}
 
 若要開始使用，請訂購虛擬伺服器實例 (VSI) 及指派安全群組。
- 
+
 1. 從您的瀏覽器開啟[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/) 然後登入您的帳戶。
 2. 找到**訂購**區段，並按一下**裝置**。
 3. 在「裝置」頁面上，針對其中一個虛擬伺服器供應項目按一下**每小時**或**每月**。
