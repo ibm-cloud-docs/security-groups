@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-20"
 
+keywords: naas, demo, video
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,11 +16,14 @@ lastupdated: "2018-11-20"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # 데모: 서비스로서의 네트워크
 {: #naas-video}
 
-Load Balancers, 보안 그룹 및 CDN 등의 IBM© Cloud 네트워크 서비스를 사용하면 보안, 성능 및 복원성이 강화된 클라우드 기반 애플리케이션을 쉽게 빌드할 수 있습니다. 이 데모에서는 이러한 서비스를 사용하여 몇 번의 클릭만으로 계층 3개로 이루어진 간단한 웹 앱을 작성하는 방법을 알아봅니다.
+로드 밸런서, 보안 그룹 및 CDN 등의 IBM© Cloud 네트워크 서비스를 사용하면 보안, 성능 및 복원성이 강화된 클라우드 기반 애플리케이션을 쉽게 빌드할 수 있습니다. 이 데모에서는 이러한 서비스를 사용하여 몇 번의 클릭만으로 계층 3개로 이루어진 간단한 웹 앱을 작성하는 방법을 알아봅니다.
 
 <p>
   <div class="embed-responsive embed-responsive-16by9">

@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, configure, configuration, custom
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # セキュリティー・グループの作成
@@ -32,4 +39,6 @@ lastupdated: "2018-11-10"
 **「すべてのアウトバウンド・トラフィックを許可するデフォルト・ルールを含むグループを作成する」**のチェック・ボックスにマークが付いていないことに注目してください。 これは、このセキュリティー・グループ・オブジェクトにアウトバウンド・ルールが作成されないことを意味します。 その結果、他のアウトバウンド・ルールまたはセキュリティー・グループ・オブジェクトが作成されなければ、入力要求 (SSH および ICMP など) とその関連の (出力) トラフィック・フローまたは応答のみが許可されます。
 
 ## 次のステップ...
+{: #next-step-2}
+
 入力要求 (SSH および ICMP) とその関連の (出力) トラフィック・フローを許可する[ルールを作成します](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule)。  

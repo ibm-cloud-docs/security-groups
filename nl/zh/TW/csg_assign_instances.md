@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: assign, instance
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # 指派安全群組的實例
@@ -21,6 +28,7 @@ lastupdated: "2018-11-10"
 您有兩種方式可將安全群組物件指派到實例中：
 
 ## 使用安全功能表
+{: #using-the-security-menu}
 
 1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/){: new_window}上的**安全**標籤，選取**網路安全**之下的**安全群組**。
 2. 按一下您要對其指派實例的「安全群組」物件的![其他圖示](./images/more_icon.jpg)圖示，然後選取**管理實例**。
@@ -36,9 +44,11 @@ lastupdated: "2018-11-10"
 
 5. 重新啟動實例。
 
-	**附註：**這是針對建立時不具備安全群組的實例所進行，每個網路介面的一次性步驟。
+	這是針對建立時不具備安全群組的實例所進行，每個網路介面的一次性步驟。
+  {: note}
 
 ## 使用裝置功能表
+{: #using-the-devices-menu}
 
 1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/){: new_window}上的**裝置**標籤，選取**裝置清單**。
 2. 按一下您要在其中套用「安全群組」物件的實例名稱。
@@ -51,7 +61,10 @@ lastupdated: "2018-11-10"
 
 5. 重新啟動實例。
 
-	**附註：**這是針對建立時不具備安全群組的實例所進行，每個網路介面的一次性步驟。
+	這是針對建立時不具備安全群組的實例所進行，每個網路介面的一次性步驟。
+  {: note}
 
 ## 下一步...
+{: #next-step-1}
+
 [編輯安全群組](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group)以修改其參數。  

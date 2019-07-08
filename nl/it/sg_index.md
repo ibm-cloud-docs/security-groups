@@ -6,17 +6,24 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: order, begin, overview, use cases, solutions
+
+subcollection: security-group
+
 
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Introduzione ai gruppi di sicurezza
 {: #getting-started}
 
 Puoi utilizzare i gruppi di sicurezza per applicare una serie di regole di filtro IP che definiscono come gestire il traffico in entrata e in uscita alle interfacce pubbliche e private di un'istanza del server virtuale.
-{:shortdesc}
+{: shortdesc}
 
 Per iniziare, ordina una VSI (Virtual Server Instance) e assegna un gruppo di sicurezza.
 
@@ -30,15 +37,21 @@ Per iniziare, ordina una VSI (Virtual Server Instance) e assegna un gruppo di si
 8. Infine, fai clic su **Inoltra ordine**.
 
 ## Soluzioni e casi di utilizzo
+{: #use-cases-and-solutions}
+
 Le seguenti sezioni descrivono alcuni complessi scenari di sicurezza della rete che potresti incontrare e che possono essere risolti utilizzando i gruppi di sicurezza.
 
 ### Sicurezza dall'inizio
+{: #security-from-the-start}
+
 **Scenario di sicurezza:** i clienti vogliono proteggere il proprio server virtuale come ne viene eseguito il provisioning. Vogliono il controllo completo sul traffico che passa per il server dal momento in cui ne è stato eseguito il provisioning.
 
 **Soluzione:** utilizza i gruppi di sicurezza al momento dell'ordine del server virtuale. In questo modo, il tuo server viene protetto dal momento del suo provisioning.
 
 ### Firewall a livello dell'istanza economicamente vantaggioso
-**Scenario di sicurezza:** i clienti vogliono avere il controllo granulare sul traffico a un livello dell'istanza (a parte la protezione firewall al livello della rete), ma allo stesso tempo, i costi di un firewall hardware condiviso (che è un'offerta a più tenant a livello dell'istanza di IBM) possono essere aggiunti velocemente se il cliente ha bisogno di proteggere più server in diversi data center.
+{: #cost-efficient-instance-level-firewall}
+
+**Scenario di sicurezza:** i clienti vogliono avere il controllo granulare sul traffico a un livello dell'istanza (a parte i firewall al livello della rete) ma, allo stesso tempo, i costi di un firewall hardware condiviso (che è un'offerta a più tenant a livello dell'istanza di IBM) possono accumularsi velocemente se il cliente ha bisogno di proteggere più server in diversi data center. 
 
 **Soluzione:** non c'è alcun costo aggiuntivo per l'utilizzo della funzione dei gruppi di sicurezza. Utilizza i gruppi di sicurezza per tutti i server virtuali che hanno bisogno di protezione in uno qualsiasi dei nostri data center globali.
 

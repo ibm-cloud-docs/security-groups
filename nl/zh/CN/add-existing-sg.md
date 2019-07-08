@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: add, order, group
+
+subcollection: security-groups
+
 
 ---
 
@@ -15,6 +19,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # 订购期间添加预定义的安全组
 {: #adding-a-pre-defined-security-group-during-ordering}
@@ -27,15 +34,19 @@ lastupdated: "2018-11-10"
 ![定制安全组](./images/goal2.jpg)
 
 ## 所需内容
+{: #what-you-ll-need-2}
+
 对于此示例，将使用以下对象和项目：
 
 | 资源名称|操作系统|类型| 位置/DC | IP/子网|
 |:------------- |:---------------:| -------------:| :---------------:| ---------------:|
 | allow_ssh1 |不适用|安全组| 不适用/任意| 0.0.0.0/0 |
-|jpmongevsi2.testing.com | Ubuntu 16.04 | 虚拟服务器实例|Dallas 10 Pod 01	| 10.0.0.21 |
+|jpmongevsi2.testing.com | Ubuntu 16.04 | 虚拟服务器实例| Dallas 10 Pod 01 | 10.0.0.21 |
 |jpmongevsi4.testing.com | Ubuntu 16.04 | 虚拟服务器实例|	Dallas 10 Pod 01	| 10.0.2.219 |
 
 ## 订购安全组
+{: #order-a-security-group}
+
 要订购虚拟服务器实例并分配安全组，请执行以下过程：
 
 1. 从浏览器打开[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/)，然后登录帐户。

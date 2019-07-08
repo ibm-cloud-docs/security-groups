@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, manage, custom, instance, assign, edit
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -14,6 +18,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # 创建和管理定制安全组
 {: #creating-and-managing-a-custom-security-group}
@@ -23,6 +30,8 @@ lastupdated: "2018-11-10"
 ![定制安全组](./images/goal.jpg)
 
 ## 所需内容
+{: #what-you-ll-need-3}
+
 对于此示例，将使用以下对象和项目：
 
 | 资源名称|操作系统|类型| 位置/DC | IP/子网|
@@ -38,6 +47,7 @@ lastupdated: "2018-11-10"
 
 
 ## 要完成的内容
+{: #what-you-ll-accomplish-3}
 
 在本教程中，您将学习如何...
 

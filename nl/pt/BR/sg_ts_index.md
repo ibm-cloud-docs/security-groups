@@ -6,23 +6,29 @@ copyright:
   years: 2017,2018
 lastupdated: "2018-11-10"
 
+keywords: help, support, troubleshoot, contact
+
+subcollection: security-group
+
 
 ---
 
-{:tsSymptoms: .tsSymptoms} 
-{:tsCauses: .tsCauses} 
-{:tsResolve: .tsResolve} 
+{:tsSymptoms: .tsSymptoms}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Obtendo ajuda e suporte para os grupos de segurança da IBM
 {: #gettinghelp}
 
 Última atualização: 16 de agosto de 2017
-{: .last-updated}
 
 Se você tiver problemas ou perguntas ao usar grupos de segurança para {{site.data.keyword.BluVirtServers}}, será possível obter ajuda procurando informações ou fazendo perguntas por meio de um dos fóruns listados abaixo. Também é possível abrir um chamado de suporte.
-{:shortdesc}
+{: shortdesc}
 
 Ao usar os fóruns para fazer uma pergunta, marque a sua pergunta
 para que ela possa ser vista pelas equipes de desenvolvimento do {{site.data.keyword.Bluemix_notm}}.

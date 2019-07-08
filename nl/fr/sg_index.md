@@ -6,17 +6,24 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: order, begin, overview, use cases, solutions
+
+subcollection: security-group
+
 
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Initiation aux groupes de sécurité
 {: #getting-started}
 
 Vous pouvez vous servir des groupes de sécurité pour appliquer un ensemble de règles de filtrage d'adresses IP qui définissent la façon de gérer le trafic entrant et sortant tant au niveau des interfaces publiques qu'au niveau des interfaces privées d'une instance de serveur virtuel.
-{:shortdesc}
+{: shortdesc}
 
 Pour commencer, commandez une instance de serveur virtuel et affectez-lui un groupe de sécurité.
 
@@ -30,15 +37,21 @@ Pour commencer, commandez une instance de serveur virtuel et affectez-lui un gro
 8. Pour terminer, cliquez sur **Soumettre une commande**.
 
 ## Cas d'utilisation et solutions
+{: #use-cases-and-solutions}
+
 Les sections ci-après décrivent quelques scénarios de sécurité réseau compliqués auxquels vous pouvez être confronté, dont il est possible d'atténuer la complexité en utilisant les groupes de sécurité.
 
 ### Sécurité dès la mise à disposition
+{: #security-from-the-start}
+
 **Scénario de sécurité :** les clients veulent sécuriser leur serveur virtuel dès qu'il est mis à disposition. Ils veulent disposer d'un contrôle complet sur le trafic passant sur le serveur, depuis le point où ce dernier a été mis à disposition.
 
 **Solution :** utilisez les groupes de sécurité au moment de la commande du serveur virtuel. De cette façon, votre serveur est protégé dès le moment de sa mise à disposition.
 
 ### Pare-feu de niveau instance d'un bon rapport qualité/prix
-**Scénario de sécurité :** les clients veulent disposer d'un contrôle très précis sur le trafic au niveau d'une instance (sans parler du niveau réseau), mais d'un autre côté, les coûts générés par un pare-feu matériel partagé (autre offre de pare-feu à service partagé proposé par IBM©) peuvent augmenter rapidement si les clients ont besoin de protéger des serveurs multiples dans différents centres de données.
+{: #cost-efficient-instance-level-firewall}
+
+**Scénario de sécurité :** les clients veulent disposer d'un contrôle très précis sur le trafic au niveau d'une instance (sans parler des pare-feux de niveau réseau), mais d'un autre côté, les coûts générés par un pare-feu matériel partagé (autre offre de pare-feu à service partagé proposé par IBM©) peuvent augmenter rapidement si les clients ont besoin de protéger des serveurs multiples dans différents centres de données.
 
 **Solution :** l'utilisation de la fonction Groupes de sécurité ne génère pas de coût supplémentaire. Servez-vous des groupes de sécurité pour tous les serveurs virtuels nécessitant une protection dans l'un de nos centres de données internationaux.
 

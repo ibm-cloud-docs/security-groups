@@ -6,17 +6,24 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: configuration, network, virtual server, instance, security
+
+subcollection: security-group
+
 
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Configuraciones de red y grupos de seguridad existentes
 {: #existing-network-configurations-and-security-groups}
 
-Los grupos de seguridad aumentan la configuración de red existente. Por lo tanto, un grupo de seguridad no puede abarcar redes que no se puedan comunicar entre sí. 
-{:shortdesc}
+Los grupos de seguridad aumentan la configuración de red existente. Por lo tanto, un grupo de seguridad no puede abarcar redes que no se puedan comunicar entre sí.
+{: shortdesc}
 
 Si las instancias de servidor virtual no se pueden comunicar entre sí, el hecho de añadirlas a un grupo de seguridad no cambiará este comportamiento. Las pasarelas deben permitir el tráfico definido por los grupos de seguridad seleccionados.
 

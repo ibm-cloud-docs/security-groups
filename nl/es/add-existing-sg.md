@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: add, order, group
+
+subcollection: security-groups
+
 
 ---
 
@@ -15,6 +19,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Adición de un Grupo de seguridad predefinido durante la solicitud
 {: #adding-a-pre-defined-security-group-during-ordering}
@@ -26,6 +33,8 @@ Puede utilizar los Grupos de seguridad para instaurar un conjunto de reglas de f
 ![Grupo de seguridad personalizado](./images/goal2.jpg)
 
 ## Lo que necesitará
+{: #what-you-ll-need-2}
+
 Para este ejemplo, se utilizarán los siguientes objetos y elementos:
 
 | Nombre del recurso  | Sistema operativo | Tipo | Ubicación/CD | IP/Subred |
@@ -35,6 +44,8 @@ Para este ejemplo, se utilizarán los siguientes objetos y elementos:
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Instancia de servidor virtual |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 ## Solicitar un Grupo de seguridad
+{: #order-a-security-group}
+
 Para solicitar una instancia de servidor virtual y asignar un grupo de seguridad, realice el procedimiento siguiente:
 
 1. En el navegador, abra el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/) e inicie sesión en su cuenta.

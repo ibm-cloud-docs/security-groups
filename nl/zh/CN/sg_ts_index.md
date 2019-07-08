@@ -6,23 +6,30 @@ copyright:
   years: 2017,2018
 lastupdated: "2018-11-10"
 
+keywords: help, support, troubleshoot, contact
+
+subcollection: security-group
+
 
 ---
 
-{:tsSymptoms: .tsSymptoms} 
-{:tsCauses: .tsCauses} 
-{:tsResolve: .tsResolve} 
+{:tsSymptoms: .tsSymptoms}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # 获取 IBM 安全组的帮助和支持
 {: #gettinghelp}
 
 上次更新日期：2017 年 8 月 16 日
-{: .last-updated}
+
 
 如果您在使用 {{site.data.keyword.BluVirtServers}} 的安全组时遇到问题，可以通过搜索信息获得帮助，也可以通过在下列论坛中提问来获得帮助。您还可以开具支持凭单。
-{:shortdesc}
+{: shortdesc}
 
 在使用论坛提问时，请给问题做标记，以便 {{site.data.keyword.Bluemix_notm}} 开发
 团队能看到您的问题。

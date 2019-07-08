@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: assign, instance
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # 向安全组分配实例
@@ -21,6 +28,7 @@ lastupdated: "2018-11-10"
 您可以采用以下两种方式之一将安全组对象分配给实例：
 
 ## 使用安全菜单
+{: #using-the-security-menu}
 
 1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/){: new_window} 的**安全**选项卡的**网络安全**下，选择**安全组**。
 2. 单击想要向其分配实例的安全组对象的 ![“更多”图标](./images/more_icon.jpg) 图标，然后选择**管理实例**。
@@ -36,9 +44,11 @@ lastupdated: "2018-11-10"
 
 5. 重新引导实例。
 
-	**注：**对于未使用安全组创建的实例的每个网络接口，只需执行此步骤一次。
+	对于未使用安全组创建的实例的每个网络接口，只需执行此步骤一次。
+  {: note}
 
 ## 使用设备菜单
+{: #using-the-devices-menu}
 
 1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/){: new_window} 的**设备**选项卡上，选择**设备列表**。
 
@@ -52,7 +62,10 @@ lastupdated: "2018-11-10"
 
 5. 重新引导实例。
 
-	**注：**对于未使用安全组创建的实例的每个网络接口，只需执行此步骤一次。
+	对于未使用安全组创建的实例的每个网络接口，只需执行此步骤一次。
+  {: note}
 
 ## 后续步骤...
+{: #next-step-1}
+
 [编辑安全组](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group)以修改其参数。  

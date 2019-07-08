@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: assign, instance
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # Designando instâncias para o grupo de segurança
@@ -21,6 +28,7 @@ lastupdated: "2018-11-10"
 É possível designar objetos de grupo de segurança para instâncias em uma de duas maneiras:
 
 ## Usando o menu de Segurança
+{: #using-the-security-menu}
 
 1. Na guia **Segurança** no [Portal do cliente![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window}, sob **Segurança de rede** selecione **Grupos de segurança**.
 2. Clique no ícone ![Ícone mais](./images/more_icon.jpg) do objeto de Grupo de Segurança para o qual você deseja designar instâncias e, em seguida, selecione **Gerenciar instâncias**.
@@ -36,9 +44,11 @@ lastupdated: "2018-11-10"
 
 5. Reinicialize a sua instância.
 
-	**NOTA:** esta é uma etapa única por interface de rede para instâncias não criadas com um grupo de segurança.
+	Esta é uma etapa única por interface de rede para instâncias não criadas com um grupo de segurança.
+  {: note}
 
 ## Usando o menu de dispositivos
+{: #using-the-devices-menu}
 
 1. Na guia **Dispositivos** no [Portal do cliente![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window}, selecione **Lista de dispositivos**.
 2. Clique no nome da instância em que você deseja aplicar o objeto de Grupo de segurança.
@@ -51,7 +61,10 @@ lastupdated: "2018-11-10"
 
 5. Reinicialize a instância.
 
-	**NOTA:** esta é uma etapa única por interface de rede para instâncias não criadas com um grupo de segurança.
+	Esta é uma etapa única por interface de rede para instâncias não criadas com um grupo de segurança.
+  {: note}
 
 ## Próxima etapa...
+{: #next-step-1}
+
 [Edite o grupo de segurança](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) para modificar os seus parâmetros.  

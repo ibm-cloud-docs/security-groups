@@ -6,17 +6,24 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: order, begin, overview, use cases, solutions
+
+subcollection: security-group
+
 
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Einführung in Sicherheitsgruppen
 {: #getting-started}
 
 Sie können Sicherheitsgruppen verwenden, um eine Gruppe von IP-Filterregeln einzurichten, die definieren, wie eingehender und abgehender Datenverkehr an bzw. von sowohl öffentlichen als auch privaten Schnittstellen einer virtuellen Serverinstanz gehandhabt wird.
-{:shortdesc}
+{: shortdesc}
 
 Bestellen Sie zunächst eine virtuelle Serverinstanz (VSI) und ordnen Sie eine Sicherheitsgruppe zu.
 
@@ -30,15 +37,21 @@ Bestellen Sie zunächst eine virtuelle Serverinstanz (VSI) und ordnen Sie eine S
 8. Klicken Sie zuletzt auf die Option für **Bestellung abschicken**.
 
 ## Anwendungsfälle und Lösungen
+{: #use-cases-and-solutions}
+
 In den folgenden Abschnitten werden einige schwierige Netzsicherheitsszenarios beschrieben, die mithilfe von Sicherheitsgruppen vereinfacht werden können.
 
 ### Sicherheit von Beginn an
+{: #security-from-the-start}
+
 **Sicherheitsszenario:** Kunden möchten ihre virtuellen Server ab dem Zeitpunkt ihrer Bereitstellung sichern. Sie möchten vollständige Kontrolle über den Datenverkehr, der den Server passiert, ab dem Zeitpunkt seiner Bereitstellung.
 
 **Lösung:** Verwenden Sie Sicherheitsgruppen, wenn Sie den virtuellen Server bestellen. Auf diese Weise ist Ihr Server ab dem Zeitpunkt seiner Bereitstellung geschützt.
 
 ### Kosteneffiziente Firewall auf Instanzebene
-**Sicherheitsszenario:** Kunden möchten differenzierte Kontrolle über den Datenverkehr auf Instanzebene (abgesehen von dem Einsatz von Firewalls auf Netzebene), aber gleichzeitig können sich die Kosten einer gemeinsam genutzten Hardware-Firewall (anderes Multi-Tenant-Firewall-Angebot auf Instanzebene von IBM©) schnell summieren, wenn der Kunde mehrere Server in verschiedenen Rechenzentren schützen muss.
+{: #cost-efficient-instance-level-firewall}
+
+**Sicherheitsszenario:** Kunden möchten differenzierte Kontrolle über den Datenverkehr auf Instanzebene (abgesehen von Firewalls auf Netzebene), aber gleichzeitig können sich die Kosten einer gemeinsam genutzten Hardware-Firewall (anderes Multi-Tenant-Firewall-Angebot auf Instanzebene von IBM©) schnell summieren, wenn der Kunde mehrere Server in verschiedenen Rechenzentren schützen muss. 
 
 **Lösung:** Die Verwendung des Features 'Sicherheitsgruppen' wird nicht extra berechnet. Verwenden Sie Sicherheitsgruppen für alle virtuellen Server, die geschützt werden müssen, in allen globalen Rechenzentren.
 

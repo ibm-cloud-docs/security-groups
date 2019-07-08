@@ -6,23 +6,30 @@ copyright:
   years: 2017,2018
 lastupdated: "2018-11-10"
 
+keywords: help, support, troubleshoot, contact
+
+subcollection: security-group
+
 
 ---
 
-{:tsSymptoms: .tsSymptoms} 
-{:tsCauses: .tsCauses} 
-{:tsResolve: .tsResolve} 
+{:tsSymptoms: .tsSymptoms}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # 取得 IBM 安全群組的協助及支援
 {: #gettinghelp}
 
 前次更新：2017 年 8 月 16 日
-{: .last-updated}
+
 
 如果您在使用 {{site.data.keyword.BluVirtServers}} 的安全群組時有問題或疑問，可以搜尋資訊或透過下列其中一個討論區提問來取得協助。您也可以開立支援問題單。
-{:shortdesc}
+{: shortdesc}
 
 使用討論區提問時，請標記您的問題，以便 {{site.data.keyword.Bluemix_notm}} 開發團隊能看到它。
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->

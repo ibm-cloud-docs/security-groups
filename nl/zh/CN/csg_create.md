@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, configure, configuration, custom
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # 创建安全组
@@ -32,4 +39,6 @@ lastupdated: "2018-11-10"
 请注意，**使用缺省值创建组…** 复选框处于取消选中状态。这意味着不会为此安全组对象创建出站规则。因此，除非创建其他出站规则或安全组对象，否则将只允许入局请求（例如 SSH 和 ICMP）及其相关的（出局）流量或响应。
 
 ## 后续步骤...
+{: #next-step-2}
+
 [创建规则](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule)以允许入局请求 (SSH & ICMP) 及其相关的（出局）流量。  

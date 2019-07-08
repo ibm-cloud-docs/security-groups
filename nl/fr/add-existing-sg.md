@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: add, order, group
+
+subcollection: security-groups
+
 
 ---
 
@@ -15,6 +19,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Ajout d'un groupe de sécurité prédéfini lors de la commande
 {: #adding-a-pre-defined-security-group-during-ordering}
@@ -26,6 +33,8 @@ Vous pouvez vous servir des groupes de sécurité pour appliquer un ensemble de 
 ![Groupe de sécurité personnalisé](./images/goal2.jpg)
 
 ## Ce dont vous avez besoin
+{: #what-you-ll-need-2}
+
 Pour cet exemple, les objets et éléments suivants seront utilisés :
 
 | Nom de ressource  | Système d'exploitation | Type | Emplacement | IP/Sous-réseau |
@@ -35,6 +44,8 @@ Pour cet exemple, les objets et éléments suivants seront utilisés :
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Instance de serveur virtuel |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 ## Commande d'un groupe de sécurité
+{: #order-a-security-group}
+
 Pour commander une instance de serveur virtuel et affecter un groupe de sécurité, procédez comme suit :
 
 1. Dans votre navigateur, ouvrez le [portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/) et connectez-vous à votre compte.

@@ -6,17 +6,24 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: configuration, network, virtual server, instance, security
+
+subcollection: security-group
+
 
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # 現有網路配置及安全群組
 {: #existing-network-configurations-and-security-groups}
 
 安全群組會擴增任何現有的網路配置。因此，安全群組不能跨越無法彼此通訊的網路。
-{:shortdesc}
+{: shortdesc}
 
 如果虛擬伺服器實例無法彼此通訊，將它們新增至安全群組並不會變更該行為。閘道必須容許所選安全群組定義的資料流量。
 

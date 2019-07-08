@@ -6,18 +6,25 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: configuration, network, virtual server, instance, security
+
+subcollection: security-group
+
 
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Vorhandene Netzkonfigurationen und Sicherheitsgruppen
 {: #existing-network-configurations-and-security-groups}
 
 Vorhandene Netzkonfigurationen werden durch Sicherheitsgruppen erweitert. Daher kann eine Sicherheitsgruppe nicht für mehrere
-Netze gelten, die untereinander nicht kommunizieren können. 
-{:shortdesc}
+Netze gelten, die untereinander nicht kommunizieren können.
+{: shortdesc}
 
 Auch wenn Sie virtuelle Serverinstanzen, die nicht miteinander kommunizieren können, einer Sicherheitsgruppe hinzufügen, ändert sich dieses
 Verhalten nicht. Gateways müssen den Datenverkehr, der von den ausgewählten Sicherheitsgruppen definiert wird, zulassen.

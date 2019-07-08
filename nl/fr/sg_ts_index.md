@@ -6,23 +6,29 @@ copyright:
   years: 2017,2018
 lastupdated: "2018-11-10"
 
+keywords: help, support, troubleshoot, contact
+
+subcollection: security-group
+
 
 ---
 
-{:tsSymptoms: .tsSymptoms} 
-{:tsCauses: .tsCauses} 
-{:tsResolve: .tsResolve} 
+{:tsSymptoms: .tsSymptoms}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Aide et assistance pour les groupes de sécurité
 {: #gettinghelp}
 
 Dernière mise à jour : 16 août 2017
-{: .last-updated}
 
 Si vous rencontrez des problèmes ou si vous vous posez des questions lors de l'utilisation des groupes de sécurité avec les {{site.data.keyword.BluVirtServers}}, vous pouvez obtenir de l'aide en recherchant des informations ou en posant des questions sur l'un des forums ci-dessous. Vous pouvez également ouvrir un ticket de demande de service.
-{:shortdesc}
+{: shortdesc}
 
 Si vous utilisez les forums pour poser une question, marquez-la à l'aide de balises pour que les équipes de développement {{site.data.keyword.Bluemix_notm}} la repère.
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->

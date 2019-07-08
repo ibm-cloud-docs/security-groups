@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: add, order, group
+
+subcollection: security-groups
+
 
 ---
 
@@ -15,6 +19,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Incluindo um Grupo de segurança predefinido durante o pedido
 {: #adding-a-pre-defined-security-group-during-ordering}
@@ -26,6 +33,8 @@ Esse procedimento passo a passo mostra como incluir grupos de segurança existen
 ![Grupo de segurança customizada](./images/goal2.jpg)
 
 ## Do que você precisará
+{: #what-you-ll-need-2}
+
 Para este exemplo, os objetos e itens a seguir serão usados:
 
 | Nome de Recurso  | Sistema Operacional | Tipo | Local/DC | IP/Sub-rede |
@@ -35,6 +44,8 @@ Para este exemplo, os objetos e itens a seguir serão usados:
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Instância de servidor virtual |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 ## Pedir um grupo de segurança
+{: #order-a-security-group}
+
 Para pedir uma instância de servidor virtual e designar um grupo de segurança, execute o procedimento a seguir:
 
 1. Em seu navegador, abra [Customer Portal ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/) e efetue login em sua conta.

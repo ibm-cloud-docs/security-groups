@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: add, order, group
+
+subcollection: security-groups
+
 
 ---
 
@@ -15,6 +19,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Vordefinierte Sicherheitsgruppe während der Bestellung hinzufügen
 {: #adding-a-pre-defined-security-group-during-ordering}
@@ -26,6 +33,8 @@ Sie können Sicherheitsgruppen verwenden, um eine Gruppe von IP-Filterregeln ein
 ![Angepasste Sicherheitsgruppe](./images/goal2.jpg)
 
 ## Voraussetzungen
+{: #what-you-ll-need-2}
+
 In diesem Beispiel werden die folgenden Objekte und Elemente verwendet:
 
 | Ressourcenname  | Betriebssystem | Typ | Ort/Rechenzentrum | IP/Teilnetz |
@@ -35,6 +44,8 @@ In diesem Beispiel werden die folgenden Objekte und Elemente verwendet:
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Virtuelle Serverinstanz |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 ## Bestellen einer Sicherheitsgruppe
+{: #order-a-security-group}
+
 Führen Sie die folgenden Schritte aus, um eine virtuelle Serverinstanz (VSI) zu bestellen und eine Sicherheitsgruppe zuzuordnen.
 
 1. Öffnen Sie in Ihrem Browser das [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/) und melden Sie sich mit Ihrem Konto an.

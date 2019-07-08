@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: assign, instance
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # 보안 그룹에 인스턴스 지정
@@ -21,6 +28,7 @@ lastupdated: "2018-11-10"
 다음 두 방법 중 하나를 사용하여 인스턴스에 보안 그룹 오브젝트를 지정할 수 있습니다.
 
 ## 보안 메뉴 사용
+{: #using-the-security-menu}
 
 1. **네트워크 보안** 아래에 있는 [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://control.softlayer.com/){: new_window}의 **보안** 탭에서 **보안 그룹**을 선택하십시오.
 2. 인스턴스를 지정할 보안 그룹 오브젝트의 ![추가 아이콘](./images/more_icon.jpg) 아이콘을 클릭한 다음 **인스턴스 관리**를 선택하십시오.
@@ -36,9 +44,11 @@ lastupdated: "2018-11-10"
 
 5. 인스턴스를 다시 부팅하십시오.
 
-	**참고:** 이는 보안 그룹을 사용하여 작성되지 않은 인스턴스에 대한 네트워크 인터페이스당 한 번만 수행되는 단계입니다.
+	이는 보안 그룹을 사용하여 작성되지 않은 인스턴스에 대해 네트워크 인터페이스당 한 번만 수행되는 단계입니다.
+  {: note}
 
 ## 디바이스 메뉴 사용
+{: #using-the-devices-menu}
 
 1. [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://control.softlayer.com/){: new_window}의 **디바이스** 탭에서 **디바이스 목록**을 선택하십시오.
 2. 보안 그룹 오브젝트를 적용할 인스턴스 이름을 클릭하십시오.
@@ -51,7 +61,10 @@ lastupdated: "2018-11-10"
 
 5. 인스턴스를 다시 부팅하십시오.
 
-	**참고:** 이는 보안 그룹을 사용하여 작성되지 않은 인스턴스에 대한 네트워크 인터페이스당 한 번만 수행되는 단계입니다.
+	이는 보안 그룹을 사용하여 작성되지 않은 인스턴스에 대해 네트워크 인터페이스당 한 번만 수행되는 단계입니다.
+  {: note}
 
 ## 다음 단계...
+{: #next-step-1}
+
 [보안 그룹을 편집](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group)하여 해당 매개변수를 수정하십시오.  

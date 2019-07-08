@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, manage, custom, instance, assign, edit
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -14,6 +18,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Angepasste Sicherheitsgruppe erstellen und verwalten
 {: #creating-and-managing-a-custom-security-group}
@@ -23,6 +30,8 @@ In diesem Lernprogramm erfahren Sie, wie Sie eine angepasste Sicherheitsgruppe e
 ![Angepasste Sicherheitsgruppe](./images/goal.jpg)
 
 ## Voraussetzungen
+{: #what-you-ll-need-3}
+
 In diesem Beispiel werden die folgenden Objekte und Elemente verwendet:
 
 | Ressourcenname  | Betriebssystem | Typ | Ort/Rechenzentrum | IP/Teilnetz |
@@ -38,12 +47,13 @@ Beachten Sie, dass in diesem Lernprogramm ein privates CPA-Netz bzw. ein CPA-Kon
 
 
 ## Ergebnisse
+{: #what-you-ll-accomplish-3}
 
 In diesem Lernprogramm erfahren Sie. wie Sie ...
 
 Aufgabe  | Beschreibung
 ------------- | -------------
-[Eine Sicherheitsgruppe erstellen](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | Erstellen und konfigurieren Sie eine angepasste Sicherheitsgruppe, anstatt eine von der IBM© Cloud-Plattform vordefinierte zu verwenden. 
+[Eine Sicherheitsgruppe erstellen](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | Erstellen und konfigurieren Sie eine angepasste Sicherheitsgruppe, anstatt eine von der IBM© Cloud-Plattform vordefinierte zu verwenden.
 [Eine Regel erstellen](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) | Erstellen Sie eine Regel, um eingehende Anforderungen (SSH & ICMP) und ihre zugehörigen (abgehenden) Datenflüsse zuzulassen.
 [Instanzen zu der Sicherheitsgruppe zuordnen](/docs/infrastructure/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | Ordnen Sie Sicherheitsgruppenobjekte entweder über das Sicherheitsmenü oder das Gerätemenü zu Instanzen zu.
 [Eine Sicherheitsgruppe und ihre Regeln bearbeiten](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) | Ändern Sie die Parameter des Sicherheitsobjekts und seine Regeln.

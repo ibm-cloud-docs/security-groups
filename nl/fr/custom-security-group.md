@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, manage, custom, instance, assign, edit
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -14,6 +18,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Création et gestion d'un groupe de sécurité personnalisé
 {: #creating-and-managing-a-custom-security-group}
@@ -23,6 +30,8 @@ Dans ce tutoriel, vous allez apprendre à créer et à affecter des instances, e
 ![Groupe de sécurité personnalisé](./images/goal.jpg)
 
 ## Ce dont vous avez besoin
+{: #what-you-ll-need-3}
+
 Pour cet exemple, les objets et éléments suivants seront utilisés :
 
 | Nom de ressource  | Système d'exploitation | Type | Emplacement | IP/Sous-réseau |
@@ -38,12 +47,13 @@ Notez que ce tutoriel utilise un compte/réseau privé CPA (Custom Private Addre
 
 
 ## Ce que vous allez faire
+{: #what-you-ll-accomplish-3}
 
 Dans ce tutoriel. vous allez apprendre à...
 
 Tâche  | Description
 ------------- | -------------
-[Créer un groupe de sécurité](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | Créez et configurez un groupe de sécurité personnalisé, plutôt que d'utiliser un groupe prédéfini proposé par la plateforme IBM© Cloud. 
+[Créer un groupe de sécurité](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | Créez et configurez un groupe de sécurité personnalisé, plutôt que d'utiliser un groupe prédéfini proposé par la plateforme IBM© Cloud.
 [Créer une règle](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) | Créez une règle pour autoriser les demandes entrantes (SSH et ICMP) et les flux de trafic (en sortie) associés
 [Affecter des instances au groupe de sécurité](/docs/infrastructure/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | Affectez des objets Groupe de sécurité aux instances en utilisant le menu Sécurité ou le menu Unité.
 [Editer un groupe de sécurité et ses règles](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) | Modifiez les paramètres de l'objet Sécurité et de ses règles.

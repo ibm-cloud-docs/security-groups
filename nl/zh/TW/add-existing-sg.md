@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: add, order, group
+
+subcollection: security-groups
+
 
 ---
 
@@ -15,6 +19,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # 在訂購期間新增預先定義的安全群組
 {: #adding-a-pre-defined-security-group-during-ordering}
@@ -27,6 +34,8 @@ lastupdated: "2018-11-10"
 ![自訂安全群組](./images/goal2.jpg)
 
 ## 需要的項目
+{: #what-you-ll-need-2}
+
 以本範例而言，將使用下列物件及項目：
 
 | 資源名稱       | 作業系統         | 類型 | 位置/DC     | IP/子網路 |
@@ -36,6 +45,8 @@ lastupdated: "2018-11-10"
 |jpmongevsi4.testing.com | Ubuntu 16.04 | 虛擬伺服器實例          |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 ## 訂購安全群組
+{: #order-a-security-group}
+
 若要訂購虛擬伺服器實例及指派安全群組，請執行下列程序：
 
 1. 從您的瀏覽器開啟[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/) 然後登入您的帳戶。

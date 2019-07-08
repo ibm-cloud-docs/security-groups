@@ -6,17 +6,24 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: order, begin, overview, use cases, solutions
+
+subcollection: security-group
+
 
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Iniciación a los grupos de seguridad
 {: #getting-started}
 
 Puede utilizar los Grupos de seguridad para instaurar un conjunto de reglas de filtro de IP que definen cómo gestionar el tráfico de entrada y el de salida a la interfaz pública y privada de una instancia de servidor virtual.
-{:shortdesc}
+{: shortdesc}
 
 Para empezar, solicite una instancia de servidor virtual (VSI) y asigne un grupo de seguridad.
 
@@ -30,14 +37,20 @@ Para empezar, solicite una instancia de servidor virtual (VSI) y asigne un grupo
 8. Por último, pulse **Enviar pedido**.
 
 ## Casos prácticos y soluciones
+{: #use-cases-and-solutions}
+
 Las secciones siguientes describen algunos casos de ejemplo difíciles de seguridad de red con los que puede encontrarse que pueden solucionarse utilizando Grupos de seguridad.
 
 ### Seguridad desde el inicio
+{: #security-from-the-start}
+
 **Caso de ejemplo de seguridad:** Los clientes desean proteger su servidor virtual siempre que se proporcione. Desean control completo sobre el tráfico que pasa a través del servidor desde el punto en que se proporcionó.
 
 **Solución:** Utilice Grupos de seguridad en el momento de solicitar el servidor virtual. De esta forma, el servidor estará protegido desde el momento en que se proporcione.
 
 ### Cortafuegos de nivel de instancia rentable
+{: #cost-efficient-instance-level-firewall}
+
 **Caso de ejemplo de seguridad:** Los clientes desean tener control granular sobre el tráfico en un nivel de instancia (aparte del cortafuegos a nivel de red) pero, al mismo tiempo, los costes de un cortafuegos de hardware compartido (que es la oferta de cortafuegos de varios arrendatarios de otro nivel de instancias de IBM©) pueden añadirse rápidamente si el cliente necesita proteger varios servidores en distintos centros de datos.
 
 **Solución:** No hay cargo extra para utilizar la característica Grupos de seguridad. Utilice los Grupos de seguridad para todos los servidores virtuales que necesitan protección en cualquiera de nuestros centros de datos globales.

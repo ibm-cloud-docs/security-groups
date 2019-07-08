@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, configure, configuration, custom
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # 보안 그룹 작성
@@ -32,4 +39,6 @@ lastupdated: "2018-11-10"
 **기본값으로 그룹 작성…** 선택란이 선택 취소되었는지 확인하십시오. 이는 보안 그룹 오브젝트에 대해 아웃바운드 규칙이 작성되지 않는다는 의미입니다. 따라서 다른 아웃바운드 규칙 또는 보안 그룹 오브젝트가 작성되기 전까지는 수신 요청(예: SSH 및 ICMP) 및 이와 관련된 (발신) 트래픽 플로우나 응답만 허용됩니다.
 
 ## 다음 단계...
+{: #next-step-2}
+
 수신 요청(SSH & ICMP) 및 이와 관련된 (발신) 트래픽 플로우를 허용하는 [규칙을 작성](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule)하십시오.  

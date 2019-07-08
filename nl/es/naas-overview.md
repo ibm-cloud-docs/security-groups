@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-20"
 
+keywords: naas, demo, video
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,6 +16,9 @@ lastupdated: "2018-11-20"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Demo: Red como servicio
 {: #naas-video}

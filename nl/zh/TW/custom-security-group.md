@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, manage, custom, instance, assign, edit
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -14,6 +18,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # 建立及管理自訂安全群組
 {: #creating-and-managing-a-custom-security-group}
@@ -23,6 +30,8 @@ lastupdated: "2018-11-10"
 ![自訂安全群組](./images/goal.jpg)
 
 ## 需要的項目
+{: #what-you-ll-need-3}
+
 以本範例而言，將使用下列物件及項目：
 
 | 資源名稱       | 作業系統         | 類型 | 位置/DC     | IP/子網路 |
@@ -38,6 +47,7 @@ lastupdated: "2018-11-10"
 
 
 ## 您將達成的目標
+{: #what-you-ll-accomplish-3}
 
 在本指導教學中，您將學會如何...
 

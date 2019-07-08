@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: assign, instance
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # Asignación de instancias al Grupo de seguridad
@@ -21,6 +28,7 @@ lastupdated: "2018-11-10"
 Puede asignar objetos del grupo de seguridad a instancias de una de estas dos formas:
 
 ## Utilizando el menú Seguridad
+{: #using-the-security-menu}
 
 1. Desde el separador **Seguridad** en el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){: new_window}, debajo de **Seguridad de red**, seleccione **Grupos de seguridad**.
 2. Pulse el icono ![icono Más](./images/more_icon.jpg) del objeto Grupo de seguridad al que desee asignar instancias y, a continuación, seleccione **Gestionar instancias**.
@@ -36,9 +44,11 @@ Puede asignar objetos del grupo de seguridad a instancias de una de estas dos fo
 
 5. Rearranque la instancia.
 
-	**NOTA:** Este es un paso único por interfaz de red para instancias no creadas con un grupo de seguridad.
+	Este es un paso único por interfaz de red para instancias no creadas con un grupo de seguridad.
+  {: note}
 
 ## Utilizando el menú Dispositivos
+{: #using-the-devices-menu}
 
 1. Desde el separador **Dispositivos** en el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){: new_window}, seleccione **Lista de dispositivos**.
 2. Pulse el nombre de instancia donde desea aplicar el objeto Grupo de seguridad.
@@ -51,7 +61,10 @@ Puede asignar objetos del grupo de seguridad a instancias de una de estas dos fo
 
 5. Rearranque la instancia.
 
-	**NOTA:** Este es un paso único por interfaz de red para instancias no creadas con un grupo de seguridad.
+	Este es un paso único por interfaz de red para instancias no creadas con un grupo de seguridad.
+  {: note}
 
 ## Paso siguiente...
+{: #next-step-1}
+
 [Edite el Grupo de seguridad](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) para modificar sus parámetros.  

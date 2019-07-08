@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, configure, configuration, custom
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # Criando um grupo de segurança
@@ -32,4 +39,6 @@ Crie e configure um grupo de segurança customizada:
 Observe que a caixa de seleção **Criar grupo com um padrão…** está desmarcada. Isso significa que nenhuma regra de saída será criada para esse objeto de Grupo de segurança. Como resultado, a menos que outras regras de saída ou objetos de Grupo de segurança sejam criados, somente solicitações recebidas (como SSH e ICMP) e os seus fluxos de tráfego ou respostas relacionados (de saída) serão permitidos.
 
 ## Próxima etapa...
+{: #next-step-2}
+
 [Crie uma regra](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) para permitir solicitações recebidas (SSH e ICMP) e seus fluxos de tráfego (de saída) relacionados.  

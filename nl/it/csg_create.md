@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, configure, configuration, custom
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # Creazione di un gruppo di sicurezza
@@ -32,4 +39,6 @@ Crea e configura un gruppo di sicurezza personalizzato:
 Nota che la casella **Crea un gruppo con un'impostazione predefinita…** non è spuntata. Questo significa che non sarà creata alcuna regola in uscita per questo oggetto del gruppo di sicurezza. Di conseguenza, a meno che non vengano creati altri oggetti del gruppo di sicurezza o regole in uscita, saranno permesse solo le richieste in entrata (come SSH e ICMP) e i flussi di traffico (in uscita) o le risposte correlati.
 
 ## Passo successivo...
+{: #next-step-2}
+
 [Crea una regola](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) per consentire le richieste in entrata (SSH e ICMP) e i relativi flussi di traffico (in uscita).  

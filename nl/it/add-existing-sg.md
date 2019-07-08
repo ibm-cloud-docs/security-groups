@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: add, order, group
+
+subcollection: security-groups
+
 
 ---
 
@@ -15,6 +19,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Aggiunta di gruppo di sicurezza predefinito durante l'ordine
 {: #adding-a-pre-defined-security-group-during-ordering}
@@ -26,6 +33,8 @@ Puoi utilizzare i gruppi di sicurezza per applicare una serie di regole di filtr
 ![Gruppo di sicurezza personalizzato](./images/goal2.jpg)
 
 ## Cosa ti serve
+{: #what-you-ll-need-2}
+
 Per questo esempio utilizzerai i seguenti oggetti ed elementi:
 
 | Nome risorsa  | Sistema operativo | Tipo | Ubicazione/DC | IP/Sottorete |
@@ -35,6 +44,8 @@ Per questo esempio utilizzerai i seguenti oggetti ed elementi:
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Istanza del server virtuale |	Dallas 10 Pod 01	| 10.0.2.219 |
 
 ## Ordina un gruppo di sicurezza
+{: #order-a-security-group}
+
 Per ordinare un'istanza del server virtuale e assegnare un gruppo di sicurezza, esegui la seguente procedura:
 
 1. Dal tuo browser, apri il [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/) e accedi al tuo account.

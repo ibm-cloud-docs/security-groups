@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, manage, custom, instance, assign, edit
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -14,6 +18,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Creazione e gestione di un gruppo di sicurezza personalizzato
 {: #creating-and-managing-a-custom-security-group}
@@ -23,6 +30,8 @@ In questa esercitazione imparerai come creare, assegnare le istanze a e modifica
 ![Gruppo di sicurezza personalizzato](./images/goal.jpg)
 
 ## Cosa ti serve
+{: #what-you-ll-need-3}
+
 Per questo esempio utilizzerai i seguenti oggetti ed elementi:
 
 | Nome risorsa  | Sistema operativo | Tipo | Ubicazione/DC | IP/Sottorete |
@@ -38,6 +47,7 @@ Nota che questa esercitazione utilizza un account/rete privata CPA, tuttavia, pe
 
 
 ## Cosa otterrai
+{: #what-you-ll-accomplish-3}
 
 In questa esercitazione imparerai come...
 

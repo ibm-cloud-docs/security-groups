@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, manage, custom, instance, assign, edit
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -14,6 +18,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Criando e gerenciando um grupo de segurança customizado
 {: #creating-and-managing-a-custom-security-group}
@@ -23,6 +30,8 @@ Neste tutorial, você aprenderá como criar, designar instâncias para e editar 
 ![Grupo de segurança customizada](./images/goal.jpg)
 
 ## Do que você precisará
+{: #what-you-ll-need-3}
+
 Para este exemplo, os objetos e itens a seguir serão usados:
 
 | Nome de Recurso  | Sistema Operacional | Tipo | Local/DC | IP/Sub-rede |
@@ -38,6 +47,7 @@ Observe que este tutorial faz uso de uma rede privada/conta de CPA; no entanto, 
 
 
 ## O que você realizará
+{: #what-you-ll-accomplish-3}
 
 Neste tutorial você aprenderá como...
 

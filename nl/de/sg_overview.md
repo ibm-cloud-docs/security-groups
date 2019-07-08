@@ -6,28 +6,35 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: overview, logs, audit, features
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Informationen zu IBM Sicherheitsgruppen
 {: #about-ibm-security-groups}
 
-## Definition einer Sicherheitsgruppe
 Eine *Sicherheitsgruppe* ist eine Gruppe von IP-Filterregeln, die definieren, wie eingehender ('ingress' - Eingangsdatenverkehr) und abgehender
 Datenverkehr ('egress' - Ausgangsdatenverkehr) an bzw. von sowohl öffentlichen als auch privaten Schnittstellen einer virtuellen Serverinstanz gehandhabt wird. Die Regeln, die Sie einer Sicherheitsgruppe hinzufügen, werden als *Sicherheitsgruppenregeln* bezeichnet.
-{:shortdesc}
 
 * Sie können Sicherheitsgruppen den öffentlichen und/oder privaten Netzschnittstellen eines einzelnen virtuellen Servers oder mehrerer virtueller Serverinstanzen zuordnen.
 * Sie können Sicherheitsgruppen zuordnen, die von IBM© bereitgestellt wurden oder die Sie selbst erstellt haben.
-* Wenn eine Sicherheitsgruppe für eine Netzkomponente einer virtuellen Serverinstanz angewendet wird, wird der gesamte Datenverkehr zu und von dieser Netzkomponente blockiert, es sei denn, er wird durch eine Sicherheitsgruppenregel explizit zugelassen.
+* Wenn eine Sicherheitsgruppe auf die Netzkomponente einer virtuellen Serverinstanz angewendet wird, wird der gesamte Datenverkehr zu und von dieser Netzkomponente blockiert, es sei denn, er wird durch eine Sicherheitsgruppenregel explizit zugelassen.
 * Der eingehende Datenverkehr einer virtuellen Serverinstanz wird als Eingangsdatenverkehr ('ingress') bezeichnet.
 * Der abgehende Datenverkehr einer virtuellen Serverinstanz wird als Ausgangsdatenverkehr ('egress') bezeichnet.
 
 Sicherheitsgruppen werden auf dem Hypervisor implementiert, der den virtuellen Server hostet.
 
 ## Von IBM bereitgestellte Sicherheitsgruppen
+{: #security-groups-provided-by-ibm}
+
 Sie können den Netzschnittstellen Ihrer virtuellen Serverinstanzen eine beliebige der folgenden, von IBM bereitgestellten
 Sicherheitsgruppen zuordnen:
 
@@ -38,6 +45,8 @@ Sicherheitsgruppen zuordnen:
 * *allow_all*: Diese Sicherheitsgruppe definiert IP-Regeln, die jeglichen Eingangsdatenverkehr auf allen Ports zulassen.
 
 ## Sicherheitsgruppen und Auditprotokolle
+{: #security-groups-and-audit-logs}
+
 Alle Interaktionen der Sicherheitsgruppen werden im Auditprotokoll eines Kontos aufgezeichnet. Auditprotokolleinträge verfolgen spezifische Sicherheitsgruppenänderungen und die Benutzer, die diese Änderungen angefordert haben, nach. Protokolle werden für die folgenden Interaktionen geschrieben:
 * Eine Sicherheitsgruppe wird der Netzschnittstelle eines virtuellen Servers hinzugefügt oder daraus entfernt.
 * Die Regeln einer Sicherheitsgruppe werden durch Befehle zum Hinzufügen, Bearbeiten oder Entfernen von Regeln geändert.
@@ -47,6 +56,7 @@ Für jede dieser Interaktionen wird pro betroffenem Objekt ein Protokoll geschri
 Da Sicherheitsgruppenänderungen dazu führen können, dass eine Reihe von virtuellen Servern im Hintergrund aktualisiert werden, können Auditprotokolle verwendet werden, um genau zu bestimmen, wann eine Änderung in Kraft getreten ist.  Sicherheitsgruppen-APIs, die Auditprotokolle generieren, geben eine Anforderungs-ID zurück. Anhand dieser ID können API-Aufrufe mit ihren resultierenden Auditprotokollen korreliert werden.
 
 ## Beispiel
+{: #example-2}
 Im folgenden Diagramm sind virtuelle Serverinstanzen einer Reihe von Sicherheitsgruppen zugeordnet,
 mit denen der Netzdatenverkehr eingeschränkt wird. Die Pfeile stellen den Datenverkehr im Netz dar. Der Anwendungsentwickler hat den Zugriff auf die verschiedenen Infrastrukturebenen wie folgt eingeschränkt:
 

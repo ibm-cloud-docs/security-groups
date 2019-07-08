@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, manage, custom, instance, assign, edit
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -14,6 +18,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # カスタム・セキュリティー・グループの作成と管理
 {: #creating-and-managing-a-custom-security-group}
@@ -23,6 +30,8 @@ lastupdated: "2018-11-10"
 ![カスタム・セキュリティー・グループ](./images/goal.jpg)
 
 ## 必要なもの
+{: #what-you-ll-need-3}
+
 この例には、次のオブジェクトおよび項目が使用されます。
 
 | リソース名  | オペレーティング・システム | タイプ | ロケーション/DC | IP/サブネット |
@@ -38,12 +47,13 @@ lastupdated: "2018-11-10"
 
 
 ## 実行できるタスク
+{: #what-you-ll-accomplish-3}
 
 このチュートリアルでは、以下を行う方法を説明します。
 
 タスク  | 説明
 ------------- | -------------
-[セキュリティー・グループの作成](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | IBM© Cloud プラットフォームで事前定義されたセキュリティー・グループを使用するのではなく、カスタム・セキュリティー・グループを作成して構成します。 
-[ルールの作成](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) | 入力要求 (SSH および ICMP) とその関連の (出力) トラフィック・フローを許可するルールを作成します。 
+[セキュリティー・グループの作成](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | IBM© Cloud プラットフォームで事前定義されたセキュリティー・グループを使用するのではなく、カスタム・セキュリティー・グループを作成して構成します。
+[ルールの作成](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) | 入力要求 (SSH および ICMP) とその関連の (出力) トラフィック・フローを許可するルールを作成します。
 [セキュリティー・グループへのインスタンスの割り当て](/docs/infrastructure/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | セキュリティー・メニューまたはデバイス・メニューを使用して、セキュリティー・グループ・オブジェクトをインスタンスに割り当てます。
 [セキュリティー・グループとそのルールの編集](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) | セキュリティー・オブジェクトのパラメーターとそのルールを変更します。

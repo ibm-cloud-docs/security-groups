@@ -6,18 +6,25 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: configuration, network, virtual server, instance, security
+
+subcollection: security-group
+
 
 ---
 
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Configurazioni di reti esistenti e gruppi di sicurezza
 {: #existing-network-configurations-and-security-groups}
 
 Un gruppo di sicurezza incrementa qualsiasi configurazione di rete esistente. Pertanto, un gruppo di sicurezza non può estendersi su reti che non possono
-comunicare tra loro. 
-{:shortdesc}
+comunicare tra loro.
+{: shortdesc}
 
 Se le istanze del server virtuale non riescono a comunicare tra di loro, aggiungerle a un gruppo di sicurezza non modifica
 tale comportamento. I gateway devono consentire il traffico definito dai gruppi di sicurezza selezionati.

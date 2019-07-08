@@ -6,23 +6,29 @@ copyright:
   years: 2017,2018
 lastupdated: "2018-11-10"
 
+keywords: help, support, troubleshoot, contact
+
+subcollection: security-group
+
 
 ---
 
-{:tsSymptoms: .tsSymptoms} 
-{:tsCauses: .tsCauses} 
-{:tsResolve: .tsResolve} 
+{:tsSymptoms: .tsSymptoms}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
 {:new_window: target="_blank"}
 {:shortdesc: .shortdesc}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Hilfe und Unterstützung für IBM Sicherheitsgruppen anfordern
 {: #gettinghelp}
 
 Letzte Aktualisierung: 16. August 2017
-{: .last-updated}
 
 Wenn Sie bei der Verwendung von Sicherheitsgruppen für {{site.data.keyword.BluVirtServers}} Probleme oder Fragen haben, können Sie in den unten aufgeführten Foren nach Informationen suchen oder Fragen stellen. Sie können auch ein Support-Ticket öffnen.
-{:shortdesc}
+{: shortdesc}
 
 Wenn Sie in den Foren eine Frage stellen, sollten Sie diese Frage mit einem Tag versehen, damit sie von den {{site.data.keyword.Bluemix_notm}}-Entwicklerteams gesehen wird.
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->

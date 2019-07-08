@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: add, order, group
+
+subcollection: security-groups
+
 
 ---
 
@@ -15,27 +19,34 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # 주문하는 중에 사전 정의된 보안 그룹 추가
 {: #adding-a-pre-defined-security-group-during-ordering}
 
 이 단계별 프로시저는 주문 프로세스 중에 기존의 사전 정의된 보안 그룹을 인스턴스에 추가하는 방법을 보여줍니다.
 
-보안 그룹을 사용하여 Virtual Server 인스턴스의 공용 및 사설 인터페이스 모두에 대한 수신 및 발신 트래픽을 처리하는 방법을 정의하는 IP 필터 규칙 세트를 규정할 수 있습니다.
+보안 그룹을 사용하여 가상 서버 인스턴스의 공용 및 사설 인터페이스 모두에 대한 수신 및 발신 트래픽을 처리하는 방법을 정의하는 IP 필터 규칙 세트를 규정할 수 있습니다.
 
 ![사용자 정의 보안 그룹](./images/goal2.jpg)
 
 ## 필요한 항목
+{: #what-you-ll-need-2}
+
 이 예제에서는 다음 오브젝트와 항목이 사용됩니다.
 
 | 리소스 이름  | 운영 체제 |유형 | 위치/DC | IP/서브넷 |
 |:------------- |:---------------:| -------------:| :---------------:| ---------------:|
 | allow_ssh1 | 해당되지 않음  | 보안 그룹 | 해당되지 않음/임의 | 0.0.0.0/0 |
-|jpmongevsi2.testing.com | Ubuntu 16.04 | Virtual Server 인스턴스 | Dallas 10 Pod 01 | 10.0.0.21 |
-|jpmongevsi4.testing.com | Ubuntu 16.04 | Virtual Server 인스턴스 |	Dallas 10 Pod 01	| 10.0.2.219 |
+|jpmongevsi2.testing.com | Ubuntu 16.04 | 가상 서버 인스턴스 | 댈러스 10 Pod 01 | 10.0.0.21 |
+|jpmongevsi4.testing.com | Ubuntu 16.04 | 가상 서버 인스턴스 |	댈러스 10 Pod 01	| 10.0.2.219 |
 
 ## 보안 그룹 주문
-Virtual Server 인스턴스를 주문하여 보안 그룹을 지정하려면 다음 프로시저를 수행하십시오.
+{: #order-a-security-group}
+
+가상 서버 인스턴스를 주문하여 보안 그룹을 지정하려면 다음 프로시저를 수행하십시오.
 
 1. 브라우저에서 [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://control.softlayer.com/)을 열고 계정에 로그인하십시오.
 2. **주문** 섹션을 찾아 **디바이스**를 클릭하십시오.
@@ -52,7 +63,7 @@ Virtual Server 인스턴스를 주문하여 보안 그룹을 지정하려면 다
 
 	![사용자 정의 보안 그룹](./images/sgs.jpg)
 
-	Virtual Server의 개인용 또는 공용 인터페이스에 적용할 임의의 사전 정의된 보안 그룹을 선택할 수 있습니다.
+	가상 서버의 개인용 또는 공용 인터페이스에 적용할 임의의 사전 정의된 보안 그룹을 선택할 수 있습니다.
 
 8. 인스턴스 이름을 지정하십시오.
 9. 해당되는 경우 클라우드 서비스 이용 약관 및 서드파티 서비스 계약 선택란을 선택하십시오.

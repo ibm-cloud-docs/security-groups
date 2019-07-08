@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: assign, instance
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,9 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:new_window: target="_blank"}
 {:pre: .pre}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 {:table: .aria-labeledby="caption"}
 
 # Instanzen zu der Sicherheitsgruppe zuordnen
@@ -21,6 +28,7 @@ lastupdated: "2018-11-10"
 Sie haben zwei Möglichkeiten, Sicherheitsgruppenobjekte zu Instanzen zuzuordnen:
 
 ## Über das Sicherheitsmenü
+{: #using-the-security-menu}
 
 1. Wählen Sie auf der Registerkarte **Sicherheit** im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/){: new_window} unter **Netzsicherheit** den Eintrag **Sicherheitsgruppen** aus.
 2. Klicken Sie auf das Symbol ![Symbol 'Mehr'](./images/more_icon.jpg) des Sicherheitsgruppenobjekts, dem Sie Instanzen zuordnen möchten, und wählen Sie dann **Instanzen verwalten** aus.
@@ -36,9 +44,11 @@ Sie haben zwei Möglichkeiten, Sicherheitsgruppenobjekte zu Instanzen zuzuordnen
 
 5. Starten Sie Ihre Instanz neu.
 
-	**HINWEIS:** Dieser Schritt muss für Instanzen, die nicht mit einer Sicherheitsgruppe erstellt wurden, nur einmal pro Netzschnittstelle ausgeführt werden.
+	Dieser Schritt muss für Instanzen, die nicht mit einer Sicherheitsgruppe erstellt wurden, nur einmal pro Netzschnittstelle ausgeführt werden.
+  {: note}
 
 ## Über das Gerätemenü
+{: #using-the-devices-menu}
 
 1. Wählen Sie auf der Registerkarte **Geräte** im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/){: new_window} den Eintrag **Geräteliste** aus.
 2. Klicken Sie auf den Namen der Instanz, in der Sie das Sicherheitsgruppenobjekt anwenden möchten.
@@ -51,7 +61,10 @@ Sie haben zwei Möglichkeiten, Sicherheitsgruppenobjekte zu Instanzen zuzuordnen
 
 5. Starten Sie die Instanz neu.
 
-	**HINWEIS:** Dieser Schritt muss für Instanzen, die nicht mit einer Sicherheitsgruppe erstellt wurden, nur einmal pro Netzschnittstelle ausgeführt werden.
+	Dieser Schritt muss für Instanzen, die nicht mit einer Sicherheitsgruppe erstellt wurden, nur einmal pro Netzschnittstelle ausgeführt werden.
+  {: note}
 
 ## Nächster Schritt ...
+{: #next-step-1}
+
 [Sicherheitsgruppe bearbeiten](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group), um die zugehörigen Parameter zu ändern.  

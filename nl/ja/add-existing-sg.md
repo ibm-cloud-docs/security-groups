@@ -6,6 +6,10 @@ copyright:
   years: 2017, 2018
 lastupdated: "2018-11-10"
 
+keywords: add, order, group
+
+subcollection: security-groups
+
 
 ---
 
@@ -15,6 +19,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # オーダー時の事前定義セキュリティー・グループの追加
 {: #adding-a-pre-defined-security-group-during-ordering}
@@ -26,6 +33,8 @@ lastupdated: "2018-11-10"
 ![カスタム・セキュリティー・グループ](./images/goal2.jpg)
 
 ## 必要なもの
+{: #what-you-ll-need-2}
+
 この例には、次のオブジェクトおよび項目が使用されます。
 
 | リソース名  | オペレーティング・システム | タイプ | ロケーション/DC | IP/サブネット |
@@ -35,6 +44,8 @@ lastupdated: "2018-11-10"
 |jpmongevsi4.testing.com | Ubuntu 16.04 | 仮想サーバー・インスタンス |	ダラス 10 ポッド 01	| 10.0.2.219 |
 
 ## セキュリティー・グループのオーダー
+{: #order-a-security-group}
+
 仮想サーバー・インスタンスをオーダーしてセキュリティー・グループを割り当てるには、以下の手順を実行します。
 
 1. ブラウザーから、[カスタマー・ポータル ![外部リンク・アイコン](../../icons/launch-glyph.svg "外部リンク・アイコン")](https://control.softlayer.com/) を開き、アカウントにログインします。

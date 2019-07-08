@@ -6,6 +6,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: create, manage, custom, instance, assign, edit
+
+subcollection: security-group
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -14,6 +18,9 @@ lastupdated: "2018-11-10"
 {:new_window: target="_blank"}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
+{:note: .note}
+{:important: .important}
+{:tip: .tip}
 
 # Creación y gestión de un grupo de seguridad personalizada
 {: #creating-and-managing-a-custom-security-group}
@@ -23,6 +30,8 @@ En esta guía de aprendizaje aprenderá cómo crear, asignar instancias a y edit
 ![Grupo de seguridad personalizado](./images/goal.jpg)
 
 ## Lo que necesitará
+{: #what-you-ll-need-3}
+
 Para este ejemplo, se utilizarán los siguientes objetos y elementos:
 
 | Nombre del recurso  | Sistema operativo | Tipo | Ubicación/CD | IP/Subred |
@@ -38,6 +47,7 @@ Tenga en cuenta que esta guía de aprendizaje utiliza una red/cuenta privada de 
 
 
 ## Qué conseguirá
+{: #what-you-ll-accomplish-3}
 
 En esta guía de aprendizaje aprenderá a...
 

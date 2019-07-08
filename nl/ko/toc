@@ -21,7 +21,7 @@
     add-existing-sg.md
 		
     {: .topicgroup}
-    Step-by-step: Creating and Managing a Custom Security Group
+    단계별 지시사항: 사용자 정의 보안 그룹 작성 및 관리
         custom-security-group.md
         csg_create.md
         csg_rule.md

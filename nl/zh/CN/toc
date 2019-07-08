@@ -2,7 +2,7 @@
 {:topicgroup: .topicgroup}
 
 {: .toc subcollection="security-groups" audience="security" arm="4034676" href="/docs/infrastructure/security-groups?topic=infrastructure/security-groups-getting-started-with-security-groups" path="infrastructure/security-groups"}
-安全组
+Security Groups
   
     {: .navgroup id="learn"}
     sg_index.md
