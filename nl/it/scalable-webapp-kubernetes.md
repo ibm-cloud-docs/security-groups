@@ -18,7 +18,7 @@ lastupdated: "2018-11-10"
 # Applicazione web scalabile in Kubernetes
 Consenti le richieste in entrata (SSH e ICMP) e i relativi flussi di traffico (in uscita) eseguendo la seguente procedura:
 
-1. Seleziona la scheda **Regole** nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/){: new_window}.
+1. Seleziona la scheda **Regole** nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com/classic){: new_window}.
 2.	Fai clic su **Crea regola**.
 3.	Specifica la direzione, il tipo di IP, il protocollo, l'intervallo di porte, il tipo, il codice e l'origine della regola quando applicabile (in base alla selezione del protocollo). 
 

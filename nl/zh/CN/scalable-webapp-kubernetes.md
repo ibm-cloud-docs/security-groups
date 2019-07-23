@@ -18,7 +18,7 @@ lastupdated: "2018-11-10"
 # Kubernetes 上可扩展的 Web 应用程序 
 通过执行以下过程来允许入局请求 (SSH & ICMP) 及其相关的（出局）流量：
 
-1. 选择[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/){: new_window} 的**规则**选项卡。
+1. 选择[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/classic){: new_window} 的**规则**选项卡。
 2.	单击**创建规则**。
 3.	根据适用情况，指定规则的方向、IP 类型、协议、端口范围、类型、代码和源（基于协议的选择）。 
 

@@ -30,7 +30,7 @@ subcollection: security-group
 ## 보안 메뉴 사용
 {: #using-the-security-menu}
 
-1. **네트워크 보안** 아래에 있는 [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://control.softlayer.com/){: new_window}의 **보안** 탭에서 **보안 그룹**을 선택하십시오.
+1. **네트워크 보안** 아래에 있는 [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com/classic){: new_window}의 **보안** 탭에서 **보안 그룹**을 선택하십시오.
 2. 인스턴스를 지정할 보안 그룹 오브젝트의 ![추가 아이콘](./images/more_icon.jpg) 아이콘을 클릭한 다음 **인스턴스 관리**를 선택하십시오.
 3. 보안 그룹에 적용할 인스턴스와 인터페이스를 선택하십시오.
 
@@ -50,7 +50,7 @@ subcollection: security-group
 ## 디바이스 메뉴 사용
 {: #using-the-devices-menu}
 
-1. [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://control.softlayer.com/){: new_window}의 **디바이스** 탭에서 **디바이스 목록**을 선택하십시오.
+1. [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com/classic){: new_window}의 **디바이스** 탭에서 **디바이스 목록**을 선택하십시오.
 2. 보안 그룹 오브젝트를 적용할 인스턴스 이름을 클릭하십시오.
 3. **수정**을 선택하고 인스턴스와 연결할 보안 그룹 오브젝트를 선택하십시오.
 

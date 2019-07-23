@@ -27,7 +27,7 @@ subcollection: security-group
 
 Permita las solicitudes entrantes (SSH e ICMP) y sus flujos de tráfico relacionados (salientes) realizando el procedimiento siguiente:
 
-1. Seleccione el separador **Reglas** en el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){: new_window}.
+1. Seleccione el separador **Reglas** en el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/classic){: new_window}.
 2. Pulse **Crear regla**.
 3. Especifique la Dirección, el Tipo de IP, el Protocolo, el Rango de puertos, el Tipo, el Código y el Origen de la regla cuando sea aplicable (en función de la selección del Protocolo).
 

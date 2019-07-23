@@ -18,7 +18,7 @@ lastupdated: "2018-11-10"
 # Kubernetes 上的可擴充 Web 應用程式
 執行下列程序，以容許送入的要求 (SSH & ICMP) 及其相關的（送出的）資料傳輸流：
 
-1. 選取[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/){: new_window}上的**規則**標籤。
+1. 選取[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/classic){: new_window}上的**規則**標籤。
 2.	按一下**建立規則**。
 3.	在適當的情況下，指定規則的「方向」、「IP 類型」、「通訊協定」、「埠範圍」、「類型」、「程式碼」及「來源」（根據「通訊協定」選擇）。 
 

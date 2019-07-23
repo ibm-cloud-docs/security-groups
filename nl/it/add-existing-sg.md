@@ -48,7 +48,7 @@ Per questo esempio utilizzerai i seguenti oggetti ed elementi:
 
 Per ordinare un'istanza del server virtuale e assegnare un gruppo di sicurezza, esegui la seguente procedura:
 
-1. Dal tuo browser, apri il [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/) e accedi al tuo account.
+1. Dal tuo browser, apri il [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com/classic) e accedi al tuo account.
 2. Individua la sezione **Ordine** e fai clic su **Dispositivi**.
 3. Nella pagina Dispositivi, fai clic su **Oraria** o **Mensile** per una delle offerte del server virtuale.
 4. Nella pagina Configura ordine server cloud, devi selezionare un data center che supporta i gruppi di sicurezza.

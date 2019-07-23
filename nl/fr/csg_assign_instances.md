@@ -30,7 +30,7 @@ Vous pouvez affecter des objets de groupe de sécurité à des instances en util
 ## Utilisation du menu Sécurité
 {: #using-the-security-menu}
 
-1. Depuis l'onglet **Sécurité** du [portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/){: new_window}, sous **Sécurité du réseau**, sélectionnez **Groupes de sécurité**.
+1. Depuis l'onglet **Sécurité** du [portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com/classic){: new_window}, sous **Sécurité du réseau**, sélectionnez **Groupes de sécurité**.
 2. Cliquez sur l'![icône Plus](./images/more_icon.jpg) de l'objet Groupe de sécurité auquel vous voulez affecter des instances puis sélectionnez **Gérer des instances**.
 3. Sélectionnez l'instance et l'interface à appliquer au groupe de sécurité.
 
@@ -50,7 +50,7 @@ Vous pouvez affecter des objets de groupe de sécurité à des instances en util
 ## Utilisation du menu Unités
 {: #using-the-devices-menu}
 
-1. Depuis l'onglet **Unités** du [portail client![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/){: new_window}, sélectionnez **Liste des unités**.
+1. Depuis l'onglet **Unités** du [portail client![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com/classic){: new_window}, sélectionnez **Liste des unités**.
 2. Cliquez sur le nom de l'instance dans laquelle vous voulez appliquer l'objet Groupe de sécurité.
 3. Sélectionnez **Modifier** et marquez l'objet Groupe de sécurité que vous voulez associer à l'instance.
 

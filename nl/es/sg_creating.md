@@ -26,7 +26,7 @@ Puede crear un grupo de seguridad y las reglas asociadas correspondientes y, a c
 
 Para crear un grupo de seguridad, siga estos pasos:
 
-1. En la navegación del [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
+1. En la navegación del [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/classic), seleccione **Seguridad -> Seguridad de red -> Grupos de seguridad**.
 2. En la página Grupos de seguridad, pulse **Crear grupo**.
 3. Introduzca un nombre y una descripción para el grupo de seguridad y vuelva a pulsar **Crear grupo**.
 
@@ -38,7 +38,7 @@ De forma predeterminada, se selecciona la opción **Crear grupo con una regla pr
 
 Para crear una regla de grupo de seguridad, siga estos pasos:
 
-1. En la navegación del [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/), seleccione **Seguridad > Seguridad de red > Grupos de seguridad**.
+1. En la navegación del [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/classic), seleccione **Seguridad > Seguridad de red > Grupos de seguridad**.
 2. En la página Grupos de seguridad, pulse un nombre de grupo de seguridad para abrir la página Detalles y seleccione **Crear regla**.
 3. En la página Crear regla, introduzca todos los atributos pertinentes (como dirección, tipo de IP, protocolo e información de origen y destino). Cuando haya terminado, pulse **Aceptar**.
 

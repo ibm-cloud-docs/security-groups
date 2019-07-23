@@ -28,7 +28,7 @@ subcollection: security-group
 要创建安全组，请完成以下步骤：
 
 
-1. 在[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/) 导航中，选择**安全性 -> 网络安全性 -> 安全组**。
+1. 在[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/classic) 导航中，选择**安全性 -> 网络安全性 -> 安全组**。
 2. 在“安全组”页面中，单击**创建组**。
 3. 输入安全组的名称和描述，然后再次单击**创建组**。
 
@@ -41,7 +41,7 @@ subcollection: security-group
 要创建安全组规则，请完成以下步骤：
 
 
-1. 在[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/) 导航中，选择**安全性 > 网络安全性 > 安全组**。
+1. 在[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/classic) 导航中，选择**安全性 > 网络安全性 > 安全组**。
 2. 在“安全组”页面中，单击安全组名称以打开“详细信息”页面，并选择**创建规则**。
 3. 在“创建规则”页面中，输入所有相应的属性（如方向、IP 类型、协议和源/目标信息）。完成后，单击**确定**。
 

@@ -19,7 +19,7 @@ lastupdated: "2018-11-10"
 # Bereitstellung von statischen Dateien mithilfe von Objektspeicher und CDN beschleunigen
 Führen Sie die folgenden Schritte aus, um eingehende Anforderungen (SSH & ICMP) und ihre zugehörigen (abgehenden) Datenflüsse zuzulassen:
 
-1. Wählen Sie die Registerkarte **Regeln** im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/){: new_window} aus.
+1. Wählen Sie die Registerkarte **Regeln** im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/classic){: new_window} aus.
 2.	Klicken Sie auf **Regel erstellen**.
 3.	Geben Sie ggf. die Richtung, den IP-Typ, das Protokoll, den Portbereich, den Typ, den Code und die Quelle der Regel an (basierend auf der Protokollauswahl).
 

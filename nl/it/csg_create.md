@@ -27,7 +27,7 @@ subcollection: security-group
 
 Crea e configura un gruppo di sicurezza personalizzato:
 
-1. Dal tuo browser, apri il [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/){: new_window} e accedi al tuo account.
+1. Dal tuo browser, apri il [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com/classic){: new_window} e accedi al tuo account.
 2.	Seleziona la scheda **Sicurezza**.
 3. Da **Sicurezza di rete** seleziona **Gruppi di sicurezza**.
 4.	Fai clic su **Crea gruppo +**.

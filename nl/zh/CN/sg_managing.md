@@ -30,7 +30,7 @@ subcollection: security-group
 要从“安全组”页面管理安全组，请完成以下步骤：
 
 
-1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/) 导航中，选择**安全性 -> 网络安全性 -> 安全组**。
+1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/classic) 导航中，选择**安全性 -> 网络安全性 -> 安全组**。
 2. 在“安全组”部分下，可以完成几项管理任务。
      * 查看安全组列表。
      * 创建组。
@@ -44,7 +44,7 @@ subcollection: security-group
 要从“安全组”页面管理安全组规则，请完成以下步骤：
 
 
-1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/) 导航中，选择**安全性 -> 网络安全性 -> 安全组**。
+1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/classic) 导航中，选择**安全性 -> 网络安全性 -> 安全组**。
 2. 单击安全组名称以打开“详细信息”页面。
 3. 通过“安全组详细信息”页面，可以完成几项管理任务。
      * 查看为安全组定义的规则的列表。
@@ -62,7 +62,7 @@ subcollection: security-group
 要从“设备详细信息”页面管理安全组，请完成以下步骤：
 
 
-1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/) 中，选择**设备 -> 设备列表**。
+1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/classic) 中，选择**设备 -> 设备列表**。
 2. 选择您订购的虚拟服务器的设备名。此时将打开“设备详细信息”页面。
 3. 从“设备详细信息”页面中，验证是否在**配置**选项卡上。
 4. 在“安全组”部分下，可以完成几项管理任务。

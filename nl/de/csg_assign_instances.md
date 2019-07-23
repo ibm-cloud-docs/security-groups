@@ -30,7 +30,7 @@ Sie haben zwei Möglichkeiten, Sicherheitsgruppenobjekte zu Instanzen zuzuordnen
 ## Über das Sicherheitsmenü
 {: #using-the-security-menu}
 
-1. Wählen Sie auf der Registerkarte **Sicherheit** im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/){: new_window} unter **Netzsicherheit** den Eintrag **Sicherheitsgruppen** aus.
+1. Wählen Sie auf der Registerkarte **Sicherheit** im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/classic){: new_window} unter **Netzsicherheit** den Eintrag **Sicherheitsgruppen** aus.
 2. Klicken Sie auf das Symbol ![Symbol 'Mehr'](./images/more_icon.jpg) des Sicherheitsgruppenobjekts, dem Sie Instanzen zuordnen möchten, und wählen Sie dann **Instanzen verwalten** aus.
 3. Wählen Sie die Instanz und die Schnittstelle aus, die auf die Sicherheitsgruppe angewendet werden sollen.
 
@@ -50,7 +50,7 @@ Sie haben zwei Möglichkeiten, Sicherheitsgruppenobjekte zu Instanzen zuzuordnen
 ## Über das Gerätemenü
 {: #using-the-devices-menu}
 
-1. Wählen Sie auf der Registerkarte **Geräte** im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/){: new_window} den Eintrag **Geräteliste** aus.
+1. Wählen Sie auf der Registerkarte **Geräte** im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/classic){: new_window} den Eintrag **Geräteliste** aus.
 2. Klicken Sie auf den Namen der Instanz, in der Sie das Sicherheitsgruppenobjekt anwenden möchten.
 3. Wählen Sie **Ändern** aus und markieren Sie das Sicherheitsgruppenobjekt, das Sie der Instanz zuordnen möchten.
 

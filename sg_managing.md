@@ -29,7 +29,7 @@ You can manage security groups by using the Security Groups page or the Device D
 
 To manage security groups from the Security Groups page, complete the following steps:
 
-1. From the [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/) navigation, select **Security -> Network Security -> Security Groups**.
+1. From the [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic) navigation, select **Security -> Network Security -> Security Groups**.
 2. Under the Security Group section, you can complete several management tasks.
      * View a list of security groups.
      * Create a group.
@@ -42,7 +42,7 @@ To manage security groups from the Security Groups page, complete the following 
 
 To manage security group rules from the Security Groups page, complete the following steps:
 
-1. From the [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/) navigation, select **Security -> Network Security -> Security Groups**.
+1. From the [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic) navigation, select **Security -> Network Security -> Security Groups**.
 2. Click a security group name to open the Details page.
 3. From the Security Group Details page, you can complete several management tasks.
      * View a list of rules that are defined for the security group.
@@ -59,7 +59,7 @@ If you delete the last rule in a security group, then no inbound or outbound tra
 
 To manage security groups from the Device Details page, complete the following steps:
 
-1. From the [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/), select **Devices -> Device List**.
+1. From the [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic), select **Devices -> Device List**.
 2. Select the device name of the virtual server you ordered. The Device Details page opens.
 3. From the Device Details page, verify that you are on the **Configuration** tab.
 4. Under the Security Group section, you can complete several management tasks.

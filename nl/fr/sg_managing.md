@@ -29,7 +29,7 @@ Vous pouvez gérer les groupes de sécurité sur la page Groupes de sécurité d
 
 Pour gérer les groupes de sécurité à partir de la page Groupes de sécurité, procédez comme suit :
 
-1. Depuis le [portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/), sélectionnez **Sécurité -> Sécurité du réseau -> Groupes de sécurité**.
+1. Depuis le [portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com/classic), sélectionnez **Sécurité -> Sécurité du réseau -> Groupes de sécurité**.
 2. Dans la section Groupe de sécurité, vous pouvez effectuer plusieurs tâches de gestion.
      * Afficher la liste des groupes de sécurité.
      * Créer un groupe.
@@ -42,7 +42,7 @@ Pour gérer les groupes de sécurité à partir de la page Groupes de sécurité
 
 Pour gérer les règles de groupe de sécurité à partir de la page Groupes de sécurité, procédez comme suit :
 
-1. Depuis le [portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/), sélectionnez **Sécurité -> Sécurité du réseau -> Groupes de sécurité**.
+1. Depuis le [portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com/classic), sélectionnez **Sécurité -> Sécurité du réseau -> Groupes de sécurité**.
 2. Cliquez sur le nom d'un groupe de sécurité pour ouvrir la page Détails.
 3. Dans la page qui s'ouvre, vous pouvez effectuer plusieurs tâches de gestion.
      * Afficher la liste des règles qui sont définies pour le groupe de sécurité.
@@ -59,7 +59,7 @@ Si vous supprimez la dernière règle d'un groupe de sécurité, aucun trafic en
 
 Pour gérer les groupes de sécurité à partir de la page Détails de l'unité, procédez comme suit :
 
-1. Depuis le [portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/), sélectionnez **Unités -> Liste des unités**.
+1. Depuis le [portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com/classic), sélectionnez **Unités -> Liste des unités**.
 2. Sélectionnez le nom d'unité du serveur virtuel que vous avez commandé. La page Détails de l'unité s'ouvre.
 3. Dans la page Détails de l'unité, vérifiez que vous êtes dans l'onglet **Configuration**.
 4. Dans la section Groupe de sécurité, vous pouvez effectuer plusieurs tâches de gestion.

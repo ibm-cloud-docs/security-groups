@@ -30,7 +30,7 @@ subcollection: security-group
 ## 使用安全菜单
 {: #using-the-security-menu}
 
-1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/){: new_window} 的**安全**选项卡的**网络安全**下，选择**安全组**。
+1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/classic){: new_window} 的**安全**选项卡的**网络安全**下，选择**安全组**。
 2. 单击想要向其分配实例的安全组对象的 ![“更多”图标](./images/more_icon.jpg) 图标，然后选择**管理实例**。
 3. 选择要应用到安全组的实例和接口。
 
@@ -50,7 +50,7 @@ subcollection: security-group
 ## 使用设备菜单
 {: #using-the-devices-menu}
 
-1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/){: new_window} 的**设备**选项卡上，选择**设备列表**。
+1. 从[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/classic){: new_window} 的**设备**选项卡上，选择**设备列表**。
 
 2. 单击想要应用“安全组”对象的实例名称。
 3. 选择**修改**，并标记想要与实例关联的安全组对象。

@@ -27,7 +27,7 @@ subcollection: security-group
 
 Permitir solicitações recebidas (SSH e ICMP) e os seus fluxos de tráfego relacionados (de saída) executando o procedimento a seguir:
 
-1. Selecione a guia **Regras** no [Portal do cliente![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window}.
+1. Selecione a guia **Regras** no [Portal do cliente![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/classic){: new_window}.
 2. Clique em **Criar regra**.
 3. Especifique a Direção da regra, o Tipo de IP, o Protocolo, o Intervalo de porta, o Tipo, o Código e a Origem quando aplicável (com base na seleção de Protocolo).
 

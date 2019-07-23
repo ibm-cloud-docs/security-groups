@@ -27,7 +27,7 @@ subcollection: security-group
 
 사용자 정의 보안 그룹을 작성하고 구성하십시오.
 
-1. 브라우저에서 [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://control.softlayer.com/){: new_window}을 열고 사용자 계정에 로그인하십시오.
+1. 브라우저에서 [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com/classic){: new_window}을 열고 사용자 계정에 로그인하십시오.
 2.	**보안** 탭을 선택하십시오.
 3. **네트워크 보안**에서 **보안 그룹**을 선택하십시오.
 4.	**그룹 작성 +**을 클릭하십시오.

@@ -30,7 +30,7 @@ Puede asignar objetos del grupo de seguridad a instancias de una de estas dos fo
 ## Utilizando el menú Seguridad
 {: #using-the-security-menu}
 
-1. Desde el separador **Seguridad** en el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){: new_window}, debajo de **Seguridad de red**, seleccione **Grupos de seguridad**.
+1. Desde el separador **Seguridad** en el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/classic){: new_window}, debajo de **Seguridad de red**, seleccione **Grupos de seguridad**.
 2. Pulse el icono ![icono Más](./images/more_icon.jpg) del objeto Grupo de seguridad al que desee asignar instancias y, a continuación, seleccione **Gestionar instancias**.
 3. Seleccione la instancia y la interfaz a aplicar al Grupo de seguridad.
 
@@ -50,7 +50,7 @@ Puede asignar objetos del grupo de seguridad a instancias de una de estas dos fo
 ## Utilizando el menú Dispositivos
 {: #using-the-devices-menu}
 
-1. Desde el separador **Dispositivos** en el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){: new_window}, seleccione **Lista de dispositivos**.
+1. Desde el separador **Dispositivos** en el [Portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/classic){: new_window}, seleccione **Lista de dispositivos**.
 2. Pulse el nombre de instancia donde desea aplicar el objeto Grupo de seguridad.
 3. Seleccione **Modificar** y marque el objeto Grupo de seguridad que desee asociar con la instancia.
 

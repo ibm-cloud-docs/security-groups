@@ -27,7 +27,7 @@ subcollection: security-group
 
 다음 프로시저를 수행하여 수신 요청(SSH & ICMP) 및 이와 관련된 (발신) 트래픽 플로우를 허용하십시오.
 
-1. [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://control.softlayer.com/){: new_window}에서 **규칙** 탭을 선택하십시오.
+1. [고객 포털 ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com/classic){: new_window}에서 **규칙** 탭을 선택하십시오.
 2. **규칙 작성**을 클릭하십시오.
 3. 해당되는 경우(프로토콜 선택사항에 따라) 규칙의 방향, IP 유형, 프로토콜, 포트 범위, 유형, 코드 및 소스를 지정하십시오.
 

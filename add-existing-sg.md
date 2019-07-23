@@ -48,7 +48,7 @@ For this example the following objects and items will be used:
 
 To order a virtual server instance and assign a security group, perform the following procedure:
 
-1. From your browser, open [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/) and log in to your account.
+1. From your browser, open the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic) and log in to your account.
 2. Locate the **Order** section and click **Devices**.
 3. On the Devices page, click **Hourly** or **Monthly** for one of the Virtual Server offerings.
 4. On the Configure your Cloud Server order page, you must select a data center that supports security groups.

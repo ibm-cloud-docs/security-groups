@@ -28,7 +28,7 @@ subcollection: security-group
 若要建立安全群組，請完成下列步驟：
 
 
-1. 在[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/) 導覽中，選取**安全 -> 網路安全 -> 安全群組**。
+1. 在[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/classic) 導覽中，選取**安全 -> 網路安全 -> 安全群組**。
 2. 在「安全群組」頁面上，按一下**建立群組**。
 3. 輸入安全群組的名稱和說明，然後再按一下**建立群組**。
 
@@ -41,7 +41,7 @@ subcollection: security-group
 若要建立安全群組規則，請完成下列步驟：
 
 
-1. 在[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/) 導覽中，選取**安全 > 網路安全 > 安全群組**。
+1. 在[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/classic) 導覽中，選取**安全 > 網路安全 > 安全群組**。
 2. 在「安全群組」頁面上，按一下安全群組名稱以開啟「詳細資料」頁面，及選取**建立規則**。
 3. 在「建立規則」頁面上，輸入所有適當的屬性（例如方向、IP 類型、通訊協定及來源/目的地資訊）。完成之後，按一下**確定**。
 

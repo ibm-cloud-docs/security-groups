@@ -27,7 +27,7 @@ subcollection: security-group
 
 Para iniciar, solicite uma instância de servidor virtual (VSI) e designe um grupo de segurança.
 
-1. Em seu navegador, abra [Customer Portal ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/) e efetue login em sua conta.
+1. Em seu navegador, abra [Customer Portal ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/classic) e efetue login em sua conta.
 2. Localize a seção **Ordem** e clique em **Dispositivos**.
 3. Na página Dispositivos, clique em **Por hora** ou **Mensal** para uma das ofertas de Virtual Server.
 4. Na página ordenada **Configurar seu servidor em nuvem**, selecione um data center que suporte grupos de segurança.

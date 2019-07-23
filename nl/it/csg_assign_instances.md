@@ -30,7 +30,7 @@ Puoi assegnare gli oggetti del gruppo di sicurezza alle istanze in due modi:
 ## Utilizzo del menu Sicurezza
 {: #using-the-security-menu}
 
-1. Dalla scheda **Sicurezza** nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/){: new_window}, in **Sicurezza di rete** seleziona **Gruppi di sicurezza**.
+1. Dalla scheda **Sicurezza** nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com/classic){: new_window}, in **Sicurezza di rete** seleziona **Gruppi di sicurezza**.
 2. Fai clic sull'icona ![Icona Altro](./images/more_icon.jpg) dell'oggetto del gruppo di sicurezza a cui vuoi assegnare le istanze, poi seleziona **Gestisci istanze**.
 3. Seleziona l'istanza e l'interfaccia da applicare al gruppo di sicurezza.
 
@@ -50,7 +50,7 @@ Puoi assegnare gli oggetti del gruppo di sicurezza alle istanze in due modi:
 ## Utilizzo del menu Dispositivi
 {: #using-the-devices-menu}
 
-1. Dalla scheda **Dispositivi** nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/){: new_window}, seleziona **Elenco dispositivi**.
+1. Dalla scheda **Dispositivi** nel [Portale del cliente ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com/classic){: new_window}, seleziona **Elenco dispositivi**.
 2. Fai clic sul nome dell'istanza in cui vuoi applicare l'oggetto del gruppo di sicurezza.
 3. Seleziona **Modifica** e contrassegna l'oggetto del gruppo di sicurezza che vuoi associare all'istanza.
 

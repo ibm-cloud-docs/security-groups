@@ -30,7 +30,7 @@ You can assign security group objects to instances in one of two ways:
 ## Using the Security Menu
 {: #using-the-security-menu}
 
-1. From the **Security** tab on the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window}, under **Network Security** select **Security Groups**.
+1. From the **Security** tab on the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic){: new_window}, under **Network Security** select **Security Groups**.
 2. Click the ![More icon](./images/more_icon.jpg) icon of the Security Group object you wish to assign instances to, then select **Manage Instances**.
 3. Select the instance and interface to apply to the Security Group.
 
@@ -50,7 +50,7 @@ You can assign security group objects to instances in one of two ways:
 ## Using the Devices Menu
 {: #using-the-devices-menu}
 
-1. From the **Devices** tab on the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window}, select **Device List**.
+1. From the **Devices** tab on the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic){: new_window}, select **Device List**.
 2. Click the instance name where you want to apply the Security Group object.
 3. Select **Modify** and mark the Security Group object you want to associate with the instance.
 

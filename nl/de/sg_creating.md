@@ -26,7 +26,7 @@ Sie können eine Sicherheitsgruppe und ihr zugeordnete Regeln erstellen und sie 
 
 Führen Sie die folgenden Schritte aus, um eine Sicherheitsgruppe zu erstellen:
 
-1. Wählen Sie in der Navigation des [Kundenportals ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/) die Optionen für **Sicherheit -> Netzsicherheit -> Sicherheitsgruppen** aus.
+1. Wählen Sie in der Navigation des [Kundenportals ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/classic) die Optionen für **Sicherheit -> Netzsicherheit -> Sicherheitsgruppen** aus.
 2. Klicken Sie auf der Seite 'Sicherheitsgruppen' auf die Option für **Gruppe erstellen**.
 3. Geben Sie einen Namen und eine Beschreibung für die Sicherheitsgruppe ein und klicken Sie erneut auf **Gruppe erstellen**.
 
@@ -38,7 +38,7 @@ Standardmäßig ist die Option ausgewählt, bei der eine Gruppe mit einer Standa
 
 Führen Sie die folgenden Schritte aus, um eine Sicherheitsgruppenregel zu erstellen:
 
-1. Wählen Sie in der Navigation des [Kundenportals ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/) die Optionen für **Sicherheit > Netzsicherheit > Sicherheitsgruppen** aus.
+1. Wählen Sie in der Navigation des [Kundenportals ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/classic) die Optionen für **Sicherheit > Netzsicherheit > Sicherheitsgruppen** aus.
 2. Klicken Sie auf der Seite 'Sicherheitsgruppen' auf den Namen einer Sicherheitsgruppe, um die Seite 'Details' zu öffnen, und wählen Sie **Regel erstellen** aus.
 3. Geben Sie auf der Seite 'Regel erstellen' alle passenden Attribute ein (wie Richtung, IP-Typ, Protokoll und Informationen zu Quelle/Ziel). Klicken Sie dann auf **OK**.
 

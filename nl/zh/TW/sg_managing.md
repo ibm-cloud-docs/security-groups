@@ -30,7 +30,7 @@ subcollection: security-group
 若要從「安全群組」頁面管理安全群組，請完成下列步驟：
 
 
-1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/) 導覽，選取**安全 -> 網路安全 -> 安全群組**。
+1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/classic) 導覽，選取**安全 -> 網路安全 -> 安全群組**。
 2. 在「安全群組」區段下，您可以完成數個管理作業。
      * 檢視安全群組的清單。
      * 建立群組。
@@ -44,7 +44,7 @@ subcollection: security-group
 若要從「安全群組」頁面管理安全群組規則，請完成下列步驟：
 
 
-1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/) 導覽，選取**安全 -> 網路安全 -> 安全群組**。
+1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/classic) 導覽，選取**安全 -> 網路安全 -> 安全群組**。
 2. 按一下安全群組名稱以開啟「詳細資料」頁面。
 3. 從「安全群組詳細資料」頁面，您可以完成數個管理作業。
      * 檢視針對安全群組定義的規則清單。
@@ -62,7 +62,7 @@ subcollection: security-group
 若要從「裝置詳細資料」頁面管理安全群組，請完成下列步驟：
 
 
-1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/)，選取**裝置 -> 裝置清單**。
+1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/classic)，選取**裝置 -> 裝置清單**。
 2. 選取您訂購的虛擬伺服器的裝置名稱。即會開啟「裝置詳細資料」頁面。
 3. 從「裝置詳細資料」頁面，驗證您是否已在**配置**標籤。
 4. 在「安全群組」區段下，您可以完成數個管理作業。

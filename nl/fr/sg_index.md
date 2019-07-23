@@ -27,7 +27,7 @@ Vous pouvez vous servir des groupes de sécurité pour appliquer un ensemble de 
 
 Pour commencer, commandez une instance de serveur virtuel et affectez-lui un groupe de sécurité.
 
-1. Dans votre navigateur, ouvrez le [Portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/) et connectez-vous à votre compte.
+1. Dans votre navigateur, ouvrez le [Portail client ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com/classic) et connectez-vous à votre compte.
 2. Recherchez la section **Commander** et cliquez sur **Unités**.
 3. Sur la page Unités, cliquez sur l'option **A l'heure** ou **Au mois** correspondant aux offres de serveur virtuel.
 4. Sur la page de commande de configuration de votre serveur Cloud, vous devez sélectionner un centre de données qui prend en charge les groupes de sécurité.

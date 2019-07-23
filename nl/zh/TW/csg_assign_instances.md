@@ -30,7 +30,7 @@ subcollection: security-group
 ## 使用安全功能表
 {: #using-the-security-menu}
 
-1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/){: new_window}上的**安全**標籤，選取**網路安全**之下的**安全群組**。
+1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/classic){: new_window}上的**安全**標籤，選取**網路安全**之下的**安全群組**。
 2. 按一下您要對其指派實例的「安全群組」物件的![其他圖示](./images/more_icon.jpg)圖示，然後選取**管理實例**。
 3. 選取要套用至「安全群組」的實例及介面。
 
@@ -50,7 +50,7 @@ subcollection: security-group
 ## 使用裝置功能表
 {: #using-the-devices-menu}
 
-1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/){: new_window}上的**裝置**標籤，選取**裝置清單**。
+1. 從[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/classic){: new_window}上的**裝置**標籤，選取**裝置清單**。
 2. 按一下您要在其中套用「安全群組」物件的實例名稱。
 3. 選取**修改**，並標示您想要與實例相關聯的「安全群組」物件。
 

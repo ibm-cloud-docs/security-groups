@@ -49,7 +49,7 @@ subcollection: security-groups
 
 要订购虚拟服务器实例并分配安全组，请执行以下过程：
 
-1. 从浏览器打开[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/)，然后登录帐户。
+1. 从浏览器打开[客户门户网站 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/classic)，然后登录帐户。
 2. 找到**订单**部分，然后单击**设备**。
 3. 在“设备”页面上，单击某个虚拟服务器产品的**按小时**或**按月**。
 4. 在“配置云服务器”订单页面上，必须选择支持安全组的数据中心。

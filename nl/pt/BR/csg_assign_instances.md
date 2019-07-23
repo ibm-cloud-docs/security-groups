@@ -30,7 +30,7 @@ subcollection: security-group
 ## Usando o menu de Segurança
 {: #using-the-security-menu}
 
-1. Na guia **Segurança** no [Portal do cliente![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window}, sob **Segurança de rede** selecione **Grupos de segurança**.
+1. Na guia **Segurança** no [Portal do cliente![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/classic){: new_window}, sob **Segurança de rede** selecione **Grupos de segurança**.
 2. Clique no ícone ![Ícone mais](./images/more_icon.jpg) do objeto de Grupo de Segurança para o qual você deseja designar instâncias e, em seguida, selecione **Gerenciar instâncias**.
 3. Selecione a instância e a interface a serem aplicadas ao Grupo de segurança.
 
@@ -50,7 +50,7 @@ subcollection: security-group
 ## Usando o menu de dispositivos
 {: #using-the-devices-menu}
 
-1. Na guia **Dispositivos** no [Portal do cliente![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/){: new_window}, selecione **Lista de dispositivos**.
+1. Na guia **Dispositivos** no [Portal do cliente![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/classic){: new_window}, selecione **Lista de dispositivos**.
 2. Clique no nome da instância em que você deseja aplicar o objeto de Grupo de segurança.
 3. Selecione **Modificar** e marque o objeto de Grupo de segurança que você deseja associar à instância.
 

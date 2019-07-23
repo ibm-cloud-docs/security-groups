@@ -29,7 +29,7 @@ Sie können Sicherheitsgruppen im Kundenportal der {{site.data.keyword.cloud}}-I
 
 Führen Sie folgende Schritte aus, um Sicherheitsgruppen über die Seite 'Sicherheitsgruppen' zu verwalten:
 
-1. Wählen Sie in der Navigation des [Kundenportals ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/) die Optionen für **Sicherheit -> Netzsicherheit -> Sicherheitsgruppen** aus.
+1. Wählen Sie in der Navigation des [Kundenportals ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/classic) die Optionen für **Sicherheit -> Netzsicherheit -> Sicherheitsgruppen** aus.
 2. Im Abschnitt 'Sicherheitsgruppen' können Sie einige Verwaltungstasks ausführen.
      * Anzeigen einer Liste von Sicherheitsgruppen.
      * Erstellen einer Gruppe.
@@ -42,7 +42,7 @@ Führen Sie folgende Schritte aus, um Sicherheitsgruppen über die Seite 'Sicher
 
 Führen Sie folgende Schritte aus, um Sicherheitsgruppenregeln über die Seite 'Sicherheitsgruppen' zu verwalten:
 
-1. Wählen Sie in der Navigation des [Kundenportals ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/) die Optionen für **Sicherheit -> Netzsicherheit -> Sicherheitsgruppen** aus.
+1. Wählen Sie in der Navigation des [Kundenportals ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/classic) die Optionen für **Sicherheit -> Netzsicherheit -> Sicherheitsgruppen** aus.
 2. Klicken Sie auf den Namen einer Sicherheitsgruppe, um die Detailseite zu öffnen.
 3. Im Abschnitt für die Details von Sicherheitsgruppen können Sie einige Verwaltungstasks ausführen.
      * Anzeigen einer Liste von Regeln, die für die Sicherheitsgruppe definiert sind.
@@ -58,7 +58,7 @@ Wenn Sie die letzte Regel in einer Sicherheitsgruppe löschen, wird von dieser S
 
 Führen Sie folgende Schritte aus, um Sicherheitsgruppen über die Seite für Gerätedetails zu verwalten:
 
-1. Wählen Sie im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/) die Optionen für **Geräte -> Geräteliste** aus.
+1. Wählen Sie im [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/classic) die Optionen für **Geräte -> Geräteliste** aus.
 2. Wählen Sie den Gerätenamen des virtuellen Servers aus, den Sie bestellt haben. Die Seite mit den Gerätedetails wird geöffnet.
 3. Überprüfen Sie auf der Seite für die Gerätedetails, dass Sie sich auf der Registerkarte **Konfiguration** befinden.
 4. Im Abschnitt 'Sicherheitsgruppen' können Sie einige Verwaltungstasks ausführen.

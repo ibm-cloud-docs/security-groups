@@ -48,7 +48,7 @@ In diesem Beispiel werden die folgenden Objekte und Elemente verwendet:
 
 Führen Sie die folgenden Schritte aus, um eine virtuelle Serverinstanz (VSI) zu bestellen und eine Sicherheitsgruppe zuzuordnen.
 
-1. Öffnen Sie in Ihrem Browser das [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/) und melden Sie sich mit Ihrem Konto an.
+1. Öffnen Sie in Ihrem Browser das [Kundenportal ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/classic) und melden Sie sich mit Ihrem Konto an.
 2. Suchen Sie nach dem Abschnitt **Bestellung** und klicken Sie auf **Geräte**.
 3. Klicken Sie auf der Seite 'Geräte' für eines der Angebote für einen virtuellen Server auf die Option **Stündlich** oder **Monatlich**.
 4. Auf der Bestellseite zum Konfigurieren Ihres Cloud-Servers müssen Sie ein Rechenzentrum auswählen, das Sicherheitsgruppen unterstützt.

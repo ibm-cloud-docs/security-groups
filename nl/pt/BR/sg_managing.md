@@ -29,7 +29,7 @@ subcollection: security-group
 
 Para gerenciar grupos de segurança na página Grupos de segurança, conclua as etapas a seguir:
 
-1. Na navegação do [portal do cliente ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/), selecione **Segurança -> Segurança de rede -> Grupos de segurança**.
+1. Na navegação do [portal do cliente ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/classic), selecione **Segurança -> Segurança de rede -> Grupos de segurança**.
 2. Na seção Grupo de segurança, é possível concluir várias tarefas de gerenciamento.
      * Visualizar uma lista de grupos de segurança.
      * Criar um grupo.
@@ -42,7 +42,7 @@ Para gerenciar grupos de segurança na página Grupos de segurança, conclua as 
 
 Para gerenciar regras de grupo de segurança na página Grupos de segurança, conclua as etapas a seguir:
 
-1. Na navegação do [portal do cliente ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/), selecione **Segurança -> Segurança de rede -> Grupos de segurança**.
+1. Na navegação do [portal do cliente ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/classic), selecione **Segurança -> Segurança de rede -> Grupos de segurança**.
 2. Clique em um nome de grupo de segurança para abrir a página Detalhes.
 3. Na página Detalhes do grupo de segurança, é possível concluir várias tarefas de gerenciamento.
      * Visualizar uma lista de regras que são definidas para o grupo de segurança.
@@ -59,7 +59,7 @@ Se você excluir a última regra em um grupo de segurança, nenhum tráfego de e
 
 Para gerenciar grupos de segurança na página Detalhes do dispositivo, conclua as etapas a seguir:
 
-1. No [portal do cliente ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://control.softlayer.com/), selecione **Dispositivos -> Lista de dispositivos**.
+1. No [portal do cliente ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/classic), selecione **Dispositivos -> Lista de dispositivos**.
 2. Selecione o nome do dispositivo do servidor virtual que você pediu. A página Detalhes do dispositivo é aberta.
 3. Na página Detalhes do dispositivo, verifique se você está na guia **Configuração**.
 4. Na seção Grupo de segurança, é possível concluir várias tarefas de gerenciamento.

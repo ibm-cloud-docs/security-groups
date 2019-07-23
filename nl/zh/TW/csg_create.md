@@ -27,7 +27,7 @@ subcollection: security-group
 
 建立及配置自訂安全群組：
 
-1. 從瀏覽器中，開啟[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://control.softlayer.com/){: new_window}，並登入您的帳戶。
+1. 從瀏覽器中，開啟[客戶入口網站 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/classic){: new_window}，並登入您的帳戶。
 2.	選取**安全**標籤。
 3. 從**網路安全**中選取**安全群組**。
 4.	按一下**建立群組 +**。

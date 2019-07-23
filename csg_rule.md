@@ -27,7 +27,7 @@ subcollection: security-group
 
 Allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows by performing the following procedure:
 
-1. Select the **Rules** tab in the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){: new_window}.
+1. Select the **Rules** tab in the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic){: new_window}.
 2. Click **Create Rule**.
 3. Specify the rule's Direction, IP Type, Protocol, Port Range, Type, Code and Source when applicable (based on the Protocol selection).
 

@@ -19,7 +19,7 @@ lastupdated: "2018-11-10"
 # Accélération de la distribution des fichiers statiques en utilisant Object Storage et CDN
 Autorisez les demandes entrantes (SSH et ICMP) et les flux de trafic (en sortie) associés en procédant comme suit :
 
-1. Sélectionnez l'onglet **Règles** dans le [portail client![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://control.softlayer.com/){: new_window}.
+1. Sélectionnez l'onglet **Règles** dans le [portail client![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com/classic){: new_window}.
 2.	Cliquez sur **Créer une règle**.
 3.	Spécifiez les éléments suivants : Sens (de la règle), Type d'IP, Protocole, Plage de ports, Type, Code et Source, si applicable (selon la sélection effectuée dans Protocole).
 
