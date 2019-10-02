@@ -22,6 +22,7 @@ subcollection: security-groups
 {:note: .note}
 {:important: .important}
 {:tip: .tip}
+{:external: target="_blank" .external}
 
 # Adding a pre-defined Security Group during ordering
 {: #adding-a-pre-defined-security-group-during-ordering}
@@ -48,23 +49,24 @@ For this example the following objects and items will be used:
 
 To order a virtual server instance and assign a security group, perform the following procedure:
 
-1. From your browser, open the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic) and log in to your account.
-2. Locate the **Order** section and click **Devices**.
-3. On the Devices page, click **Hourly** or **Monthly** for one of the Virtual Server offerings.
-4. On the Configure your Cloud Server order page, you must select a data center that supports security groups.
-5. Complete any other necessary information and click **Add to Order**. The Checkout page opens.
-6. Confirm the following information for the VSI:
+1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com/){: external} and log in to your account.
+2. From the Dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
+3. From the Classic Infrastructure menu, select > **Devices** > **Device List** to get to the Devices page.
+4. On the Devices page, click **Hourly** or **Monthly** for one of the Virtual Server offerings.
+5. On the Configure your Cloud Server order page, you must select a data center that supports security groups.
+6. Complete any other necessary information and click **Add to Order**. The Checkout page opens.
+7. Confirm the following information for the VSI:
 
 	* Location
 	* Specs
 	* Network port options.
 
-7. From **Configure Security Groups**, select the desired Security Group to be applied. The associated rules with each Security Group can be displayed by clicking the **View Rules** link.
+8. From **Configure Security Groups**, select the desired Security Group to be applied. The associated rules with each Security Group can be displayed by clicking the **View Rules** link.
 
 	![Custom Security Group](./images/sgs.jpg)
 
 	You can select any of the predefined security groups to apply to the private or public interfaces on the virtual server.
 
-8. Specify the instance name.
-9. Mark the Cloud Service terms and the Third-Party Service Agreement check box if applicable.
-10. Finally, click **Submit Order**.
+9. Specify the instance name.
+10. Mark the Cloud Service terms and the Third-Party Service Agreement check box if applicable.
+11. Finally, click **Submit Order**.

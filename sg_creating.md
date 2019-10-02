@@ -26,9 +26,10 @@ You can create a security group and its associated rules and then assign it to t
 
 To create a security group, complete the following steps:
 
-1. In the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic) navigation, select **Security -> Network Security -> Security Groups**.
-2. On the Security Groups page, click **Create Group**.
-3. Enter a name and description for the security group and click **Create Group** again.
+1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
+2. From the Classic Infrastructure menu, select **Security** >  **Network Security** > **Security Groups** to get to the Security Groups page.
+3. On the Security Groups page, click the **Create Group +** button.
+4. Enter a name and description for the security group and click **Create Group**.
 
 **Create group with a default rule to allow all outbound traffic** is selected by default. You can clear this field to create the security group with no rules. A security group with no rules blocks all traffic (both inbound and outbound).
 {: note}
@@ -38,9 +39,10 @@ To create a security group, complete the following steps:
 
 To create a security group rule, complete the following steps:
 
-1. In the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic) navigation, select **Security > Network Security > Security Groups**.
-2. On the Security Groups page, click a security group name to open the Details page and select **Create Rule**.
-3. On the Create Rule page, enter all appropriate attributes (such as direction, IP type, protocol, and source/destination information). When finished, click **Ok**.
+1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
+2. From the Classic Infrastructure menu, select **Security** >  **Network Security** > **Security Groups** to get to the Security Groups page.
+3. On the Security Groups page, click a security group name to open the Details page and click the **Create Rule +** button.
+4. On the Create Rule page, enter all appropriate attributes (such as direction, IP type, protocol, and source/destination information). When finished, click **Ok**.
 
 Selecting the optional source or destination fields will restrict the new rule so it only applies to traffic to/from the specified source/destination. Source and destination fields can specify either a Classless Inter-Domain Routing (CIDR) block or a security group.
 {: note}

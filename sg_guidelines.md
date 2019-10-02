@@ -27,7 +27,7 @@ Consider the following guidelines when you work with security groups:
 {: #rules-1}
 
 * Each security group defines different sets of network rules that define the incoming and outgoing traffic for a virtual server instance. You can specify rules for both IPv4 and IPv6.
-* When a new security group is created by using the Customer Portal interface, the default behavior is to create a single rule that allows all outbound traffic from the virtual server instance. You must clear the "Create group with a default rule to allow all outbound traffic" check box to create the security group with no rules. A security group with no rules blocks all traffic (both inbound and outbound).
+* When a new security group is created by using the IBM Cloud console, the default behavior is to create a single rule that allows all outbound traffic from the virtual server instance. You must clear the "Create group with a default rule to allow all outbound traffic" check box to create the security group with no rules. A security group with no rules blocks all traffic (both inbound and outbound).
 * To allow inbound traffic, outbound traffic, or both, you must add at least one security group that includes security group rules that allow traffic.
 * Security group rules only can be permissive. Traffic is blocked by default.
 * Users with the Manage Security Groups privilege can add, edit, or delete rules in a security group.

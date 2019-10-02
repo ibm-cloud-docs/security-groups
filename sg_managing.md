@@ -17,11 +17,12 @@ subcollection: security-group
 {:note: .note}
 {:important: .important}
 {:tip: .tip}
+{:external: target="_blank" .external}
 
 # Managing Security Groups
 {: #managing-sg}
 
-You can manage security groups by using the Security Groups page or the Device Details page in the {{site.data.keyword.cloud}} infrastructure customer portal.
+You can manage security groups by using the Security Groups page or the Device Details page in the {{site.data.keyword.cloud}} console.
 {: shortdesc}
 
 ## Managing security groups from Security Groups page
@@ -29,8 +30,9 @@ You can manage security groups by using the Security Groups page or the Device D
 
 To manage security groups from the Security Groups page, complete the following steps:
 
-1. From the [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic) navigation, select **Security -> Network Security -> Security Groups**.
-2. Under the Security Group section, you can complete several management tasks.
+1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
+2. From the Classic Infrastructure menu, select **Security** >  **Network Security** > **Security Groups** to get to the Security Groups page.
+3. On the Security Groups page, you can complete several management tasks.
      * View a list of security groups.
      * Create a group.
      * Edit group information.
@@ -42,9 +44,10 @@ To manage security groups from the Security Groups page, complete the following 
 
 To manage security group rules from the Security Groups page, complete the following steps:
 
-1. From the [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic) navigation, select **Security -> Network Security -> Security Groups**.
-2. Click a security group name to open the Details page.
-3. From the Security Group Details page, you can complete several management tasks.
+1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
+2. From the Classic Infrastructure menu, select **Security** >  **Network Security** > **Security Groups** to get to the Security Groups page.
+3. On the Security Groups page, click on a security group name to open the Details page.
+4. On the Security Group Details page, you can complete several management tasks.
      * View a list of rules that are defined for the security group.
      * Create new rules.
      * Edit a rule.
@@ -59,10 +62,11 @@ If you delete the last rule in a security group, then no inbound or outbound tra
 
 To manage security groups from the Device Details page, complete the following steps:
 
-1. From the [customer portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic), select **Devices -> Device List**.
-2. Select the device name of the virtual server you ordered. The Device Details page opens.
-3. From the Device Details page, verify that you are on the **Configuration** tab.
-4. Under the Security Group section, you can complete several management tasks.
+1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
+2. From the Classic Infrastructure menu, select > **Devices** >  **Device List** to get to the Devices page.
+3. On the Devices page, select the device name of the virtual server you ordered to get to the Devices Details page.
+4. On the Device Details page, verify that you are on the **Configuration** tab.
+5. Under the Security Group section, you can complete several management tasks.
      * View the security groups and rules.
      * Assign security groups to a network interface of a virtual server instance.
      * Remove security groups from a network interface of a virtual server instance.

@@ -25,8 +25,6 @@ subcollection: security-group
 # Getting Help and Support for IBM Security Groups
 {: #gettinghelp}
 
-Last updated: 16 August 2017
-
 If you have problems or questions when using security groups for {{site.data.keyword.BluVirtServers}}, you can get help by searching for information or by asking questions through one of the forums listed below. You can also open a support ticket.
 {: shortdesc}
 

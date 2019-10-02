@@ -21,17 +21,18 @@ subcollection: security-group
 {:important: .important}
 {:tip: .tip}
 {:table: .aria-labeledby="caption"}
+{:external: target="_blank" .external}
 
 # Creating a Security Group
 {: #creating-a-security-group}
 
 Create and configure a custom security group:
 
-1. From your browser, open the [Customer Portal ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic){: new_window} and log into your account.
-2.	Select the **Security** tab.
-3. From **Network Security** select **Security Groups**.
-4.	Click **Create Group +**.
-5.	Enter a name for the Security Group and optionally a description.
+1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com/classic){: external} and log into your account.
+2. From the Dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
+3. From the Classic Infrastructure menu, select **Security** >  **Network Security** > **Security Groups** to get to the Security Groups page.
+4. On the Security Groups page, click on the **Create Group +** button.
+5. Enter a name for the Security Group and optionally a description.
 6. Click **Create Group**.
 
 ![Create a Security Group](./images/create_sg.jpg)
