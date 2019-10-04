@@ -48,7 +48,7 @@ interfaces of your virtual server instances:
 ## Security Groups and Audit Logs
 {: #security-groups-and-audit-logs}
 
-All security group interactions are logged to an account's  Audit log entries track specific security group changes and which user requested the change. Logs are written for the following interactions:
+All security group interactions are logged to an account's Audit log. The Entries track specific security group changes as well as which user requested the change. Logs are written for the following interactions:
 * A security group is added to or removed from a virtual server's network interface
 * A security group's rules are changed by add rule, edit rule or remove rule
 
