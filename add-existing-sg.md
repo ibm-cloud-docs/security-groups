@@ -49,9 +49,9 @@ For this example the following objects and items will be used:
 
 To order a virtual server instance and assign a security group, perform the following procedure:
 
-1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com/){: external} and log in to your account.
+1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com/) and log in to your account.
 2. From the Dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
-3. From the Classic Infrastructure menu, select > **Devices** > **Device List** to get to the Devices page.
+3. From the Classic Infrastructure menu, select **Devices** > **Device List** to get to the Devices page.
 4. On the Devices page, click **Hourly** or **Monthly** for one of the Virtual Server offerings.
 5. On the Configure your Cloud Server order page, you must select a data center that supports security groups.
 6. Complete any other necessary information and click **Add to Order**. The Checkout page opens.
@@ -63,7 +63,7 @@ To order a virtual server instance and assign a security group, perform the foll
 
 8. From **Configure Security Groups**, select the desired Security Group to be applied. The associated rules with each Security Group can be displayed by clicking the **View Rules** link.
 
-	![Custom Security Group](./images/sgs.jpg)
+	![Custom Security Group](/images/sgs.jpg)
 
 	You can select any of the predefined security groups to apply to the private or public interfaces on the virtual server.
 

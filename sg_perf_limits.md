@@ -31,7 +31,7 @@ Some performance limitations exist for security groups and their associated rule
 | Security groups per account                               | 500                                                 |
 | Rules per security group                                  | 50                                                  |
 | Remote rules per security group                           | 5                                                   |
-| Network interfaces per security group                     | 100                                                  |
+| Network interfaces per security group                     | 100                                                 |
 {: caption="Table 3. Performance limitations for specific resources" caption-side="top"}
 
 A remote rule is one that specifies a security group as the source or destination.

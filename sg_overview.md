@@ -23,7 +23,7 @@ subcollection: security-group
 
 A *security group* is a set of IP filter rules that define how to handle incoming (ingress) and
 outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The
-rules that you add to a security group are known as *security group rules*.
+rules that you add to a security group are known as security group rules.
 
 * You can assign security groups to the public and/or private network interfaces of a single virtual server or multiple virtual server instances.
 * You can assign security groups that are provided by IBM© or that you create.
@@ -39,11 +39,11 @@ Security groups are implemented on the hypervisor hosting the virtual server.
 You can assign any of the following security groups that are provided by IBM to the network
 interfaces of your virtual server instances:
 
-* *allow_ssh*: This security group defines the IP rules that allow ingress TCP traffic on the SSH port only (22/TCP).
-* *allow_http*: This security group defines the IP rules that allow ingress traffic on HTTP port only (80/TCP).
-* *allow_https*: This security group defines the IP rules that allow ingress TCP traffic on HTTPS port only (443/TCP).
-* *allow_outbound*: This security group defines the IP rules that allow all egress traffic from the server.
-* *allow_all*: This security group defines the IP rules that allow all ingress traffic on all ports.
+* **allow_ssh**: This security group defines the IP rules that allow ingress TCP traffic on the SSH port only (22/TCP).
+* **allow_http**: This security group defines the IP rules that allow ingress traffic on HTTP port only (80/TCP).
+* **allow_https**: This security group defines the IP rules that allow ingress TCP traffic on HTTPS port only (443/TCP).
+* **allow_outbound**: This security group defines the IP rules that allow all egress traffic from the server.
+* **allow_all**: This security group defines the IP rules that allow all ingress traffic on all ports.
 
 ## Security Groups and Audit Logs
 {: #security-groups-and-audit-logs}
@@ -65,4 +65,5 @@ associated with a set of security groups to restrict network traffic. The arrows
 * Only web layer instances can access the application layer instances.
 * Only the application layer instances can access the database layer instances.
 
-![Security group image](images/SecurityGroups.png "Image shows the flow of network traffic with a set of security groups enabled") Figure 1. Security group image
+![Security group image](images/SecurityGroups.png "Image shows the flow of network traffic with a set of security groups enabled")
+Figure 1. Security group image
