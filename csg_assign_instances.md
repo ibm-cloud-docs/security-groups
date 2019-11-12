@@ -15,13 +15,13 @@ subcollection: security-group
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:pre: .pre}
 {:note: .note}
 {:important: .important}
 {:tip: .tip}
 {:table: .aria-labeledby="caption"}
-{:external: target="_blank" .external}
+{:external: target="_blank_" .external}
 
 # Assigning Instances to the Security Group
 {: #assigning-instances-to-the-security-group}
@@ -53,7 +53,7 @@ You can assign security group objects to instances in one of two ways:
 {: #using-the-devices-menu}
 
 1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
-2. From the Classic Infrastructure menu, select > **Devices** >  **Device List** to get to the Devices page.
+2. From the Classic Infrastructure menu, select **Devices** >  **Device List** to get to the Devices page.
 3. On the Devices page, click the instance name where you want to apply the Security Group object.
 4. Select **Modify** and mark the Security Group object you want to associate with the instance.
 

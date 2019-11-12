@@ -16,7 +16,7 @@ subcollection: security-group
 {:tsSymptoms: .tsSymptoms}
 {:tsCauses: .tsCauses}
 {:tsResolve: .tsResolve}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:shortdesc: .shortdesc}
 {:note: .note}
 {:important: .important}

@@ -15,20 +15,20 @@ subcollection: security-group
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:pre: .pre}
 {:note: .note}
 {:important: .important}
 {:tip: .tip}
 {:table: .aria-labeledby="caption"}
-{:external: target="_blank" .external}
+{:external: target="_blank_" .external}
 
 # Creating a Security Group
 {: #creating-a-security-group}
 
 Create and configure a custom security group:
 
-1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com/classic){: external} and log into your account.
+1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com/) and log into your account.
 2. From the Dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
 3. From the Classic Infrastructure menu, select **Security** >  **Network Security** > **Security Groups** to get to the Security Groups page.
 4. On the Security Groups page, click on the **Create Group +** button.

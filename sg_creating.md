@@ -10,7 +10,7 @@ subcollection: security-group
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:note: .note}
 {:important: .important}
 {:tip: .tip}

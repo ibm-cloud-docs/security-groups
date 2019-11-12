@@ -15,13 +15,13 @@ subcollection: security-group
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:pre: .pre}
 {:note: .note}
 {:important: .important}
 {:tip: .tip}
 {:table: .aria-labeledby="caption"}
-{:external: target="_blank" .external}
+{:external: target="_blank_" .external}
 
 # Editing a Security Group
 {: #editing-a-security-group}

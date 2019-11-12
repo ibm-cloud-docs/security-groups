@@ -14,11 +14,11 @@ subcollection: security-group
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:note: .note}
 {:important: .important}
 {:tip: .tip
-{:external: target="_blank" .external}
+{:external: target="_blank_" .external}
 
 # Getting Started with Security Groups
 {: #getting-started}
@@ -28,9 +28,9 @@ You can use Security Groups to enact a set of IP filter rules that define how to
 
 To get started, order a virtual server instance (VSI) and assign a security group.
 
-1. From your browser, open the [IBM Cloud console)(https://cloud.ibm.com/) and log in to your account.
+1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com/) and log in to your account.
 2. From the Dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
-3. From the Classic Infrastructure menu, select > **Devices** >  **Device List** to get to the Devices page.
+3. From the Classic Infrastructure menu, select **Devices** >  **Device List** to get to the Devices page.
 4. On the Devices page, click **Hourly** or **Monthly** for one of the Virtual Server offerings.
 5. On the **Configure your Cloud Server** order page, you must select a data center that supports security groups.
 6. Complete any other necessary information and click **Add to Order**. The Checkout page opens.

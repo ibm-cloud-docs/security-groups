@@ -13,11 +13,11 @@ subcollection: security-group
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank_"}
 {:note: .note}
 {:important: .important}
 {:tip: .tip}
-{:external: target="_blank" .external}
+{:external: target="_blank_" .external}
 
 # Managing Security Groups
 {: #managing-sg}
@@ -63,7 +63,7 @@ If you delete the last rule in a security group, then no inbound or outbound tra
 To manage security groups from the Device Details page, complete the following steps:
 
 1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
-2. From the Classic Infrastructure menu, select > **Devices** >  **Device List** to get to the Devices page.
+2. From the Classic Infrastructure menu, select **Devices** >  **Device List** to get to the Devices page.
 3. On the Devices page, select the device name of the virtual server you ordered to get to the Devices Details page.
 4. On the Device Details page, verify that you are on the **Configuration** tab.
 5. Under the Security Group section, you can complete several management tasks.
