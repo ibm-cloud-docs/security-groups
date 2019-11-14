@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-14"
 
 keywords: edit, editing, modify, parameters, rules
 
@@ -26,7 +26,8 @@ subcollection: security-group
 # Editing a Security Group
 {: #editing-a-security-group}
 
-Once you've created your Security Group object, you can modify its parameters and rules.
+Once you've created your IBM™ Cloud Security Groups object, you can modify its parameters and rules.
+{: shortdesc}
 
 ## Editing Security Group details
 {: #editing-security-group-details}

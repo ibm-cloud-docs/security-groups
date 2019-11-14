@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-14"
 
 keywords: create, manage, custom, instance, assign, edit
 
@@ -25,7 +25,8 @@ subcollection: security-group
 # Creating and Managing a Custom Security Group
 {: #creating-and-managing-a-custom-security-group}
 
-In this tutorial you will learn how to create, assign instances to, and edit a custom Security Group.
+In this tutorial you will learn how to create, assign instances to, and edit a custom IBM™ Cloud Security Groups.
+{: shortdesc}
 
 ![Custom Security Group](./images/goal.jpg)
 

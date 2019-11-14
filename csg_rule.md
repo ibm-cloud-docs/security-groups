@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-14"
 
 keywords: create, new, rule, ssh, icmp
 
@@ -26,7 +26,8 @@ subcollection: security-group
 # Creating a New Rule
 {: #creating-a-new-rule}
 
-Allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows by performing the following procedure:
+You can allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows for your IBM™ Cloud Security Groups by performing the instructions here.
+{: shortdesc}
 
 1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
 2. From the Classic Infrastructure menu, select **Security** >  **Network Security** > **Security Groups** to get to the Security Groups page.

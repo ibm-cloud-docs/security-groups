@@ -4,9 +4,9 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-14"
 
-keywords: assign, instance
+keywords: assign, instance, security group
 
 subcollection: security-group
 
@@ -26,7 +26,8 @@ subcollection: security-group
 # Assigning Instances to the Security Group
 {: #assigning-instances-to-the-security-group}
 
-You can assign security group objects to instances in one of two ways:
+You can assign IBM™ Cloud Security Group objects to instances in one of two ways.
+{: shortdesc}
 
 ## Using the Security Menu
 {: #using-the-security-menu}

@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-14"
 
 keywords: create, configure, configuration, custom
 
@@ -26,7 +26,8 @@ subcollection: security-group
 # Creating a Security Group
 {: #creating-a-security-group}
 
-Create and configure a custom security group:
+You cn create and configure a custom IBM™ Cloud Security Group using the instructions here.
+{: shortdesc}
 
 1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com/) and log into your account.
 2. From the Dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.

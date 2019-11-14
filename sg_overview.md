@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-14"
 
 keywords: overview, logs, audit, features
 
@@ -21,9 +21,10 @@ subcollection: security-group
 # About IBM Security Groups
 {: #about-ibm-security-groups}
 
-A *security group* is a set of IP filter rules that define how to handle incoming (ingress) and
+An IBM™ Cloud Security Group is a set of IP filter rules that define how to handle incoming (ingress) and
 outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The
 rules that you add to a security group are known as security group rules.
+{: shortdesc}
 
 * You can assign security groups to the public and/or private network interfaces of a single virtual server or multiple virtual server instances.
 * You can assign security groups that are provided by IBM© or that you create.

@@ -3,7 +3,7 @@
 copyright:
   years: 2017, 2018
 
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-14"
 
 keywords: resources, blog, brief
 
@@ -24,7 +24,8 @@ subcollection: security-group
 # Other Resources for IBM Security Groups
 {: #other-resources-for-ibm-security-groups}
 
-These resources are created by IBM© and some of our partners and customers.
+These resources are created by IBM© and some of our partners and customers for IBM Cloud Security Groups.
+{: shortdesc}
 
 * [**Blog Post: Illustrating Uses of IBM Cloud Security Groups** ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/blogs/bluemix/2018/05/illustrating-uses-ibm-cloud-security-groups/){:new_window}
 

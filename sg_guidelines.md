@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-14"
 
 keywords: security, guidelines, rules
 
@@ -21,7 +21,8 @@ subcollection: security-group
 # Security Groups Guidelines
 {: #security-groups-guidelines}
 
-Consider the following guidelines when you work with security groups:
+Consider the following guidelines when working with IBM™ Cloud Security Groups.
+{: shortdesc}
 
 ## Rules
 {: #rules-1}

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-14"
 
 keywords: create, rules, assign, interface, virtual server
 
@@ -19,7 +19,8 @@ subcollection: security-group
 # Creating Security Groups and Rules
 {: #creating-security-groups}
 
-You can create a security group and its associated rules and then assign it to the interfaces of one or more virtual server instances to enable a virtual firewall.
+You can create an IBM™ Cloud Security Group and its associated rules and then assign it to the interfaces of one or more virtual server instances to enable a virtual firewall.
+{: shortdesc}
 
 ## Creating a security group
 {: #creating-a-security-group-1}
