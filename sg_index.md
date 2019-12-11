@@ -26,17 +26,23 @@ subcollection: security-group
 You can use Security Groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
 {: shortdesc}
 
-To get started, order a virtual server instance (VSI) and assign a security group.
+To get started, order a Virtual Server Instance (VSI) and assign a security group.
 
-1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com/) and log in to your account.
-2. From the Dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
-3. From the Classic Infrastructure menu, select **Devices** >  **Device List** to get to the Devices page.
-4. On the Devices page, click **Hourly** or **Monthly** for one of the Virtual Server offerings.
-5. On the **Configure your Cloud Server** order page, you must select a data center that supports security groups.
-6. Complete any other necessary information and click **Add to Order**. The Checkout page opens.
-7. Complete the **Configure Security Groups** information.
-8. You can select any of the predefined security groups to apply to the private or public interfaces on the virtual server.
-9. Finally, click **Submit Order**.
+1. From your browser, open the [IBM Cloud Catalog](https://cloud.ibm.com/catalog) and log in to your account.
+
+2. Select **Compute** on the left side of the page, then click on the **Virtual Server** tile to get to the Virtual Server page.
+
+3. Configure your Virtual Server based on your requirements.
+  
+  For complete information on provisioning a VSI, refer to the [Virtual Server Instance documentation](/docs/vsi?topic=virtual-servers-getting-started-tutorial).
+
+4. From the Network Interface section, use the menus to select any predefined private or public security groups for your VSI.
+
+  Only predefined security groups will display in these menu lists. To define a new security group, refer to [Creating Security Groups and Rules](/docs/infrastructure/security-groups?topic=security-groups-creating-security-groups)
+
+5. Mark the Cloud Service terms and the Third-Party Service Agreement check box.
+
+6. Finally, click **Create**.
 
 ## Use Cases and Solutions
 {: #use-cases-and-solutions}
