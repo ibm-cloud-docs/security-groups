@@ -39,7 +39,7 @@ You can assign IBM™ Cloud Security Group objects to instances in one of two wa
 
 	![Security Menu Instance](./images/security_assign.jpg)
 
-	In the figure, the "allow_icmp" Security Group (created in the [first step](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group)) is applied to the private interface (`10.0.2.219`) of "jpmongevsi4".
+	In the figure, the "allow_icmp" Security Group (created in the [first step](/docs/security-groups?topic=security-groups-creating-a-security-group)) is applied to the private interface (`10.0.2.219`) of "jpmongevsi4".
 
 	Note how the **Attached Instances** count increased from `0` to `1`.
 
@@ -71,4 +71,4 @@ You can assign IBM™ Cloud Security Group objects to instances in one of two wa
 ## Next step...
 {: #next-step-1}
 
-[Edit the Security Group](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) to modify its parameters.  
+[Edit the Security Group](/docs/security-groups?topic=security-groups-editing-a-security-group) to modify its parameters.  

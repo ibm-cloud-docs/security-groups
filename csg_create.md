@@ -43,4 +43,4 @@ Note that the **Create group with a default…** checkbox is unmarked. This mean
 ## Next step...
 {: #next-step-2}
 
-[Create a rule](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) to allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows.  
+[Create a rule](/docs/security-groups?topic=security-groups-creating-a-new-rule) to allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows.  

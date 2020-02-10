@@ -1,9 +1,9 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="security-groups" audience="security" arm="4034676" href="/docs/infrastructure/security-groups?topic=infrastructure/security-groups-getting-started-with-security-groups" path="infrastructure/security-groups"}
+{: .toc subcollection="security-groups" audience="security" arm="4034676" href="/docs/security-groups?topic=security-groups-getting-started-with-security-groups" path="security-groups"}
 Security Groups
-  
+
     {: .navgroup id="learn"}
     sg_index.md
     sg_overview.md
@@ -14,12 +14,12 @@ Security Groups
     /fortigate-10g/fortigate-10g-exploring-firewalls
     external-resources.md
     {: .navgroup-end}
-    
+
     {: .navgroup id="howto"}
-    sg_creating.md 	
+    sg_creating.md
     sg_managing.md
     add-existing-sg.md
-		
+
     {: .topicgroup}
     Step-by-step: Creating and Managing a Custom Security Group
         custom-security-group.md
@@ -28,7 +28,7 @@ Security Groups
         csg_assign_instances.md
         csg_edit.md
     {: .navgroup-end}
-    
+
     {: .navgroup id="reference"}
     sg_api.md
     /hardware-firewall-dedicated/hardware-firewall-dedicated-ibm-cloud-ip-ranges

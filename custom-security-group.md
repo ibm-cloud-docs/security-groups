@@ -54,7 +54,7 @@ In this tutorial you will learn how to...
 
 Task  | Description
 ------------- | -------------
-[Create a Security Group](/docs/infrastructure/security-groups?topic=security-groups-creating-a-security-group) | Create and configure a custom security group, as opposed to using one pre-defined by the IBM© cloud platform.
-[Create a rule](/docs/infrastructure/security-groups?topic=security-groups-creating-a-new-rule) | Create a rule to allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows.
-[Assign instances to the Security Group](/docs/infrastructure/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | Assign Security Group objects to instances using either the Security Menu or the Device Menu.
-[Edit a Security Group and its Rules](/docs/infrastructure/security-groups?topic=security-groups-editing-a-security-group) | Modify the parameters of the Security Object and its rules.
+[Create a Security Group](/docs/security-groups?topic=security-groups-creating-a-security-group) | Create and configure a custom security group, as opposed to using one pre-defined by the IBM© cloud platform.
+[Create a rule](/docs/security-groups?topic=security-groups-creating-a-new-rule) | Create a rule to allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows.
+[Assign instances to the Security Group](/docs/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | Assign Security Group objects to instances using either the Security Menu or the Device Menu.
+[Edit a Security Group and its Rules](/docs/security-groups?topic=security-groups-editing-a-security-group) | Modify the parameters of the Security Object and its rules.
