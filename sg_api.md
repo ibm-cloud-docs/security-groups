@@ -23,7 +23,7 @@ subcollection: security-group
 {:important: .important}
 {:tip: .tip}
 
-# Security Group API reference
+# Security group API reference
 {: #api-reference}
 
 The SoftLayer Application Programming Interface (API) is the development interface that gives developers and system administrators direct

@@ -23,13 +23,13 @@ subcollection: security-group
 {:table: .aria-labeledby="caption"}
 {:external: target="_blank_" .external}
 
-# Assigning Instances to the Security Group
+# Assigning instances to the security group
 {: #assigning-instances-to-the-security-group}
 
 You can assign IBM™ Cloud Security Group objects to instances in one of two ways.
 {: shortdesc}
 
-## Using the Security Menu
+## Using the security menu
 {: #using-the-security-menu}
 
 1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
@@ -50,7 +50,7 @@ You can assign IBM™ Cloud Security Group objects to instances in one of two wa
 	This is a one-time-only step per network interface for instances not created with a security group.
   {: note}
 
-## Using the Devices Menu
+## Using the devices menu
 {: #using-the-devices-menu}
 
 1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.

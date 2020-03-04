@@ -19,13 +19,13 @@ subcollection: security-group
 {:tip: .tip}
 {:external: target="_blank_" .external}
 
-# Managing Security Groups
+# Managing security groups
 {: #managing-sg}
 
 You can manage security groups by using the Security Groups page or the Device Details page in the {{site.data.keyword.cloud}} console.
 {: shortdesc}
 
-## Managing security groups from Security Groups page
+## Managing security groups from the security groups page
 {: #managing-security-groups-from-security-groups-page}
 
 To manage security groups from the Security Groups page, complete the following steps:
@@ -39,7 +39,7 @@ To manage security groups from the Security Groups page, complete the following 
      * Duplicate a group.
      * Delete a group.
 
-## Managing security group rules from Security Groups page
+## Managing security group rules from the security groups page
 {: #managing-security-group-rules-from-security-groups-page}
 
 To manage security group rules from the Security Groups page, complete the following steps:
@@ -57,7 +57,7 @@ To manage security group rules from the Security Groups page, complete the follo
 If you delete the last rule in a security group, then no inbound or outbound traffic is allowed by this security group.
 {: tip}
 
-## Managing security groups from Device Details page
+## Managing security groups from the device details page
 {: #managing-security-groups-from-device-details-page}
 
 To manage security groups from the Device Details page, complete the following steps:

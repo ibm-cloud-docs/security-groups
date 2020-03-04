@@ -19,7 +19,7 @@ subcollection: security-group
 {:important: .important}
 {:tip: .tip}
 
-# Existing Network Configurations and Security Groups
+# Existing network configurations and security groups
 {: #existing-network-configurations-and-security-groups}
 
 A security group augments any existing network configuration. Therefore, a security group cannot span across networks that cannot communicate with one another.

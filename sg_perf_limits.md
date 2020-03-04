@@ -19,7 +19,7 @@ subcollection: security-group
 {:important: .important}
 {:tip: .tip}
 
-# Performance Limitations for Security Groups
+# Performance limitations for security groups
 {: #performance-limitations-for-security-groups}
 
 Some performance limitations exist for security groups and their associated rules.

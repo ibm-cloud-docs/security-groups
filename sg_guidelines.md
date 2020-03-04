@@ -18,7 +18,7 @@ subcollection: security-group
 {:important: .important}
 {:tip: .tip}
 
-# Security Groups Guidelines
+# Security groups guidelines
 {: #security-groups-guidelines}
 
 Consider the following guidelines when working with IBM™ Cloud Security Groups.

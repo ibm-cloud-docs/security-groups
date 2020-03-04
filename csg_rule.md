@@ -23,7 +23,7 @@ subcollection: security-group
 {:tip: .tip}
 {:external: target="_blank_" .external}
 
-# Creating a New Rule
+# Creating a new rule
 {: #creating-a-new-rule}
 
 You can allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows for your IBM™ Cloud Security Groups by performing the instructions here.

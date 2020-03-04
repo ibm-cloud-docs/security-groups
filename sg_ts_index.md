@@ -22,7 +22,7 @@ subcollection: security-group
 {:important: .important}
 {:tip: .tip}
 
-# Getting Help and Support for IBM Security Groups
+# Getting help and support
 {: #gettinghelp}
 
 If you have problems or questions when using security groups for {{site.data.keyword.BluVirtServers}}, you can get help by searching for information or by asking questions through one of the forums listed below. You can also open a support case.

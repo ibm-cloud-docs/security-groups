@@ -22,7 +22,7 @@ subcollection: security-groups
 {:tip: .tip}
 {:external: target="_blank_" .external}
 
-# Adding a pre-defined Security Group during ordering
+# Adding a pre-defined security group during ordering
 {: #adding-a-pre-defined-security-group-during-ordering}
 
 This step-by-step procedure shows you how to add existing or pre-defined IBM™ Cloud Security Groups to instances during the ordering process.
@@ -43,7 +43,7 @@ For this example the following objects and items will be used:
 |jpmongevsi2.testing.com | Ubuntu 16.04 | Virtual server instance | Dallas 10 Pod 01 | 10.0.0.21 |
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Virtual server instance |	Dallas 10 Pod 01	| 10.0.2.219 |
 
-## Order a Security Group
+## Ordering a security group
 {: #order-a-security-group}
 
 To order a virtual server instance and assign a security group, perform the following procedure:
@@ -53,7 +53,7 @@ To order a virtual server instance and assign a security group, perform the foll
 2. Select **Compute** on the left side of the page, then click on the **Virtual Server** tile to get to the Virtual Server page.
 
 3. Configure your Virtual Server based on your requirements.
-  
+
   For complete information on provisioning a VSI, refer to the [Virtual Server Instance documentation](/docs/vsi?topic=virtual-servers-getting-started-tutorial).
 
 4. From the Network Interface section, use the menus to select any predefined private or public security groups for your VSI.

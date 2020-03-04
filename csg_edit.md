@@ -23,13 +23,13 @@ subcollection: security-group
 {:table: .aria-labeledby="caption"}
 {:external: target="_blank_" .external}
 
-# Editing a Security Group
+# Editing a security group
 {: #editing-a-security-group}
 
 Once you've created your IBM™ Cloud Security Groups object, you can modify its parameters and rules.
 {: shortdesc}
 
-## Editing Security Group details
+## Editing security group details
 {: #editing-security-group-details}
 
 1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
@@ -37,7 +37,7 @@ Once you've created your IBM™ Cloud Security Groups object, you can modify its
 3. On the Security Group page, click the ![More icon](./images/more_icon.jpg) icon of the Security Group object you wish to assign instances to, then select **Edit Details**.
 4. Modify the name or description as required, then click **Edit Group** to apply the changes.
 
-## Editing Security Group rules
+## Editing security group rules
 {: #editing-security-group-rules}
 
 1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.

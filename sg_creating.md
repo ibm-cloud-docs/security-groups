@@ -16,7 +16,7 @@ subcollection: security-group
 {:tip: .tip}
 
 
-# Creating Security Groups and Rules
+# Creating security groups and rules
 {: #creating-security-groups}
 
 You can create an IBM™ Cloud Security Group and its associated rules and then assign it to the interfaces of one or more virtual server instances to enable a virtual firewall.

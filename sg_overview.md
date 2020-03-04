@@ -46,7 +46,7 @@ interfaces of your virtual server instances:
 * **allow_outbound**: This security group defines the IP rules that allow all egress traffic from the server.
 * **allow_all**: This security group defines the IP rules that allow all ingress traffic on all ports.
 
-## Security Groups and Audit Logs
+## Security groups and audit logs
 {: #security-groups-and-audit-logs}
 
 All security group interactions are logged to an account's Audit log. The Entries track specific security group changes as well as which user requested the change. Logs are written for the following interactions:

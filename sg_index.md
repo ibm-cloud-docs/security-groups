@@ -20,7 +20,7 @@ subcollection: security-group
 {:tip: .tip
 {:external: target="_blank_" .external}
 
-# Getting Started with Security Groups
+# Getting started with IBM Security Groups
 {: #getting-started}
 
 You can use Security Groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
@@ -33,7 +33,7 @@ To get started, order a Virtual Server Instance (VSI) and assign a security grou
 2. Select **Compute** on the left side of the page, then click on the **Virtual Server** tile to get to the Virtual Server page.
 
 3. Configure your Virtual Server based on your requirements.
-  
+
   For complete information on provisioning a VSI, refer to the [Virtual Server Instance documentation](/docs/vsi?topic=virtual-servers-getting-started-tutorial).
 
 4. From the Network Interface section, use the menus to select any predefined private or public security groups for your VSI.
@@ -44,7 +44,7 @@ To get started, order a Virtual Server Instance (VSI) and assign a security grou
 
 6. Finally, click **Create**.
 
-## Use Cases and Solutions
+## Use cases and solutions
 {: #use-cases-and-solutions}
 
 The sections below describe a few difficult network security scenarios you might encounter that can be alleviated by using Security Groups.

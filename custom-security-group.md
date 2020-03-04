@@ -22,7 +22,7 @@ subcollection: security-group
 {:important: .important}
 {:tip: .tip}
 
-# Creating and Managing a Custom Security Group
+# Creating and managing a custom security group
 {: #creating-and-managing-a-custom-security-group}
 
 In this tutorial you will learn how to create, assign instances to, and edit a custom IBM™ Cloud Security Groups.

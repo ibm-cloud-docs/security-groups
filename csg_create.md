@@ -23,7 +23,7 @@ subcollection: security-group
 {:table: .aria-labeledby="caption"}
 {:external: target="_blank_" .external}
 
-# Creating a Security Group
+# Creating a security group
 {: #creating-a-security-group}
 
 You can create and configure a custom IBM™ Cloud Security Group using the instructions here.
