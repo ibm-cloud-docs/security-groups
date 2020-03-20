@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="security-groups" audience="security" arm="4034676" href="/docs/security-groups?topic=security-groups-getting-started" path="security-groups"}
+{: .toc subcollection="security-groups" audience="security" href="/docs/security-groups?topic=security-groups-getting-started" console-page="/classic/security/securitygroups" product-page="https://www.ibm.com/cloud/virtual-servers" path="security-groups"}
 Security Groups
 
     {: .navgroup id="learn"}
@@ -13,6 +13,7 @@ Security Groups
     naas-overview.md
     /fortigate-10g/fortigate-10g-exploring-firewalls
     external-resources.md
+    [What is network security?](https://www.ibm.com/cloud/learn/networking-a-complete-guide)
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
