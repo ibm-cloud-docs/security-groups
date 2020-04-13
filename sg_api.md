@@ -45,7 +45,3 @@ Development Network:
 * [*SoftLayer_Virtual_Guest/createObject* API ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: new_window}
 * [*SoftLayer_Network_SecurityGroup* API ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: new_window}
 * [*SoftLayer_Virtual_Guest_Network_Component* API ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest_Network_Component){: new_window}
-
-You can also use the SoftLayer API Python Client to interact with security groups. For more information, see the following links:
-* [SoftLayer API Python Client: Working with Virtual Servers ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://softlayer-python.readthedocs.io/en/latest/cli/vs.html){: new_window}
-* [Python examples for softlayer_network_securitygroup ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://softlayer.github.io/classes/softlayer_network_securitygroup/){: new_window}
