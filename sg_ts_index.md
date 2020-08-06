@@ -28,4 +28,4 @@ subcollection: security-group
 If you have problems or questions when using security groups for {{site.data.keyword.BluVirtServers}}, you can search for information or ask questions by using [Stack Overflow](https://stackoverflow.com/search?q=dl+ibm-cloud){: external}. Post your question then and tag it with "ibm-cloud" and "network-security-groups".
 {:shortdesc}
 
-For more information about opening an IBM Support case, or about support levels and case severities, see [Contacting support](/docs/get-support?topic=get-support-getting-customer-support).
+For more information about opening an IBM Support case, or about support levels and case severities, see [Contacting support](/docs/get-support?topic=get-support-getting-customer-support#getting-customer-support).
