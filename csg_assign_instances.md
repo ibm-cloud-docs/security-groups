@@ -3,10 +3,10 @@
 
 
 copyright:
-  years: 2017, 2018
-lastupdated: "2019-11-14"
+  years: 2017, 2020
+lastupdated: "2020-08-10"
 
-keywords: assign, instance, security group
+keywords: assign, instance
 
 subcollection: security-group
 
@@ -26,49 +26,44 @@ subcollection: security-group
 # Assigning instances to the security group
 {: #assigning-instances-to-the-security-group}
 
-You can assign IBM™ Cloud Security Group objects to instances in one of two ways.
+You can assign IBM™ Cloud security group objects to instances in one of two ways.
 {: shortdesc}
 
-## Using the security menu
+## Using the Security menu
 {: #using-the-security-menu}
 
-1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
-2. From the Classic Infrastructure menu, select **Security** >  **Network Security** > **Security Groups** to get to the Security Groups page.
-3. On the Security Groups page, click on the ![More icon](./images/more_icon.jpg) icon of the Security Group object you wish to assign instances to, then select **Manage Instances**.
-4. Select the instance and interface to apply to the Security Group.
+1. From the [IBM Cloud console](https://cloud.ibm.com/), click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to view the Classic Infrastructure landing page.
+2. From the Classic Infrastructure menu, select **Security** >  **Network Security** > **Security Groups** to view the Security Groups page.
+3. On the Security Groups page, click the ![More icon](./images/more_icon.jpg) icon of the Security Group object that you want to assign instances to, then select **Manage Instances**.
+4. Select the instance and interface to apply to the security group.
 
 	![Security Menu Instance](./images/security_assign.jpg)
 
-	In the figure, the "allow_icmp" Security Group (created in the [first step](/docs/security-groups?topic=security-groups-creating-a-security-group)) is applied to the private interface (`10.0.2.219`) of "jpmongevsi4".
+	In the figure, the "allow_icmp" security group (created in the [first step](/docs/security-groups?topic=security-groups-creating-a-security-group)) is applied to the private interface (`10.0.2.219`) of "jpmongevsi4".
 
 	Note how the **Attached Instances** count increased from `0` to `1`.
 
 5. Click **Save** to apply the changes.
 
-6. Reboot your instance.
+6. Restart your instance.
 
-	This is a one-time-only step per network interface for instances not created with a security group.
-  {: note}
+   This is a one-time-only step per network interface for instances not created with a security group.
+   {: note}
 
-## Using the devices menu
+## Using the Devices menu
 {: #using-the-devices-menu}
 
-1. From the [IBM Cloud console](https://cloud.ibm.com/) dashboard, click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to get to the Classic Infrastructure landing page.
-2. From the Classic Infrastructure menu, select **Devices** >  **Device List** to get to the Devices page.
-3. On the Devices page, click the instance name where you want to apply the Security Group object.
-4. Select **Modify** and mark the Security Group object you want to associate with the instance.
+1. From the [IBM Cloud console](https://cloud.ibm.com/), click the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) > **Classic Infrastructure** to view the Classic Infrastructure landing page.
+2. From the Classic Infrastructure menu, select **Devices** > **Device List** to view the Devices page.
+3. On the Devices page, click the instance name where you want to apply the security group object.
+4. In the **Security Groups** column, click **View** and select the security group objects that you want to associate with the instance.
+5. In the **Security group changes** modal that appears, click **OK** to apply the changes.
+6. Restart the instance.
 
-	![Device Menu Instance](./images/device_assign.jpg)
+   This is a one-time-only step per network interface for instances not created with a security group.
+   {: note}
 
-	This figure shows the "allow_icmp" Security Group object being assigned to the private interface of jpmongevsi4 instance.
-5. Click **Save** to apply the changes.
-
-6. Reboot the instance.
-
-	This is a one-time-only step per network interface for instances not created with a security group.
-  {: note}
-
-## Next step...
+## Next step
 {: #next-step-1}
 
-[Edit the Security Group](/docs/security-groups?topic=security-groups-editing-a-security-group) to modify its parameters.  
+[Edit the security group](/docs/security-groups?topic=security-groups-editing-a-security-group) to modify its parameters.  
