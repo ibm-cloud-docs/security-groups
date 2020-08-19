@@ -6,7 +6,7 @@ lastupdated: "2020-08-10"
 
 keywords: manage, details, edit, configure
 
-subcollection: security-group
+subcollection: security-groups
 
 ---
 

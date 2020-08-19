@@ -7,7 +7,7 @@ lastupdated: "2019-11-14"
 
 keywords: resources, blog, brief
 
-subcollection: security-group
+subcollection: security-groups
 
 ---
 

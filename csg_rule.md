@@ -8,7 +8,7 @@ lastupdated: "2019-11-14"
 
 keywords: create, new, rule, ssh, icmp
 
-subcollection: security-group
+subcollection: security-groups
 
 ---
 

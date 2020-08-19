@@ -8,7 +8,7 @@ lastupdated: "2019-11-14"
 
 keywords: security, guidelines, rules
 
-subcollection: security-group
+subcollection: security-groups
 
 ---
 

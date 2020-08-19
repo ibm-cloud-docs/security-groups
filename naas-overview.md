@@ -6,7 +6,7 @@ lastupdated: "2019-11-14"
 
 keywords: naas, demo, video
 
-subcollection: security-group
+subcollection: security-groups
 
 ---
 

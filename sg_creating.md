@@ -6,7 +6,7 @@ lastupdated: "2019-11-14"
 
 keywords: create, rules, assign, interface, virtual server
 
-subcollection: security-group
+subcollection: security-groups
 ---
 
 {:shortdesc: .shortdesc}

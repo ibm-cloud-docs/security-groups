@@ -8,7 +8,7 @@ lastupdated: "2018-11-10"
 
 keywords: configuration, network, virtual server, instance, security
 
-subcollection: security-group
+subcollection: security-groups
 
 
 ---

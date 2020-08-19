@@ -8,7 +8,7 @@ lastupdated: "2018-11-10"
 
 keywords: performance, limits, limitations, rules
 
-subcollection: security-group
+subcollection: security-groups
 
 
 ---

@@ -8,7 +8,7 @@ lastupdated: "2019-11-14"
 
 keywords: api, reference, slapi
 
-subcollection: security-group
+subcollection: security-groups
 
 
 ---

@@ -8,7 +8,7 @@ lastupdated: "2020-08-10"
 
 keywords: assign, instance
 
-subcollection: security-group
+subcollection: security-groups
 
 ---
 

@@ -8,7 +8,7 @@ lastupdated: "2019-11-14"
 
 keywords: order, begin, overview, use cases, solutions
 
-subcollection: security-group
+subcollection: security-groups
 
 
 ---

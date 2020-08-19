@@ -8,7 +8,7 @@ lastupdated: "2019-11-14"
 
 keywords: create, manage, custom, instance, assign, edit
 
-subcollection: security-group
+subcollection: security-groups
 
 ---
 

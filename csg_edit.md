@@ -8,7 +8,7 @@ lastupdated: "2019-11-14"
 
 keywords: edit, editing, modify, parameters, rules
 
-subcollection: security-group
+subcollection: security-groups
 
 ---
 

@@ -8,7 +8,7 @@ lastupdated: "2018-11-10"
 
 keywords: help, support, troubleshoot, contact
 
-subcollection: security-group
+subcollection: security-groups
 
 
 ---

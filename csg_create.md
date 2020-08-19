@@ -8,7 +8,7 @@ lastupdated: "2019-11-14"
 
 keywords: create, configure, configuration, custom
 
-subcollection: security-group
+subcollection: security-groups
 
 ---
 
