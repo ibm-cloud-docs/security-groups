@@ -34,7 +34,7 @@ To get started, order a Virtual Server Instance (VSI) and assign a security grou
 
 3. Configure your Virtual Server based on your requirements.
 
-  For complete information on provisioning a VSI, refer to the [Virtual Server Instance documentation](/docs/vsi?topic=virtual-servers-getting-started-tutorial#getting-started-tutorial).
+   For complete information on provisioning a VSI, refer to the [Virtual Server Instance documentation](/docs/virtual-servers). 
 
 4. From the Network Interface section, use the menus to select any predefined private or public security groups for your VSI.
 
