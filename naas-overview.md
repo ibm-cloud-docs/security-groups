@@ -19,6 +19,7 @@ subcollection: security-groups
 {:note: .note}
 {:important: .important}
 {:tip: .tip}
+{:video: .video}
 
 # Demo: Network as a service
 {: #naas-video}
@@ -26,8 +27,4 @@ subcollection: security-groups
 IBM© Cloud Network services, including Load Balancers, Security Groups, and CDN make it easy to build cloud-native applications with greater security, performance, and resiliency. In this demo, you’ll learn how you can use these services to create a simple three-tiered web app in a matter of clicks.
 {: shortdesc}
 
-<p>
-  <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" id="youtubeplayer" type="text/html" title="web-app-security-groups-load-balancer-cdn" width="640" height="390" src="https://www.youtube.com/embed/LRvNCXvtkX0?rel=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
-  </div>
-</p>
+![Network as a service](https://www.youtube.com/embed/LRvNCXvtkX0?rel=0){: video output="iframe" data-script="none" id="youtubeplayer" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen}
