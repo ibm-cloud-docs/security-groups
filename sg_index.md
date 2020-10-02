@@ -6,7 +6,7 @@ copyright:
   years: 2017, 2018
 lastupdated: "2019-11-14"
 
-keywords: order, begin, overview, use cases, solutions
+keywords: order, begin, overview, use cases, solutions, security groups
 
 subcollection: security-groups
 
@@ -34,7 +34,7 @@ To get started, order a Virtual Server Instance (VSI) and assign a security grou
 
 3. Configure your Virtual Server based on your requirements.
 
-   For complete information on provisioning a VSI, refer to the [Virtual Server Instance documentation](/docs/virtual-servers). 
+   For complete information on provisioning a VSI, refer to the [Virtual Server Instance documentation](/docs/virtual-servers).
 
 4. From the Network Interface section, use the menus to select any predefined private or public security groups for your VSI.
 
