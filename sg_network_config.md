@@ -29,4 +29,4 @@ If virtual server instances cannot communicate with one another, adding them to 
 
 If your account is enabled for custom private addressing (CPA) as well as security groups, be aware that security groups are scoped to the account level, not the network level. Security groups are defined by IP addresses, not private networks.
 
-Security groups are available in all data centers with VSI provisioning.
+Security groups are available in all data centers with virtual server instance provisioning.

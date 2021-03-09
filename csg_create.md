@@ -36,7 +36,7 @@ You can create and configure a custom IBM™ Cloud Security Group using the inst
 5. Enter a name for the Security Group and optionally a description.
 6. Click **Create Group**.
 
-![Create a Security Group](./images/create_sg.jpg)
+   ![Create a Security Group](./images/create_sg.jpg)
 
 Note that the **Create group with a default…** checkbox is unmarked. This means no outbound rule will be created for this Security Group object. As a result, unless other outbound rules or Security Group objects are created, only incoming requests (such as SSH and ICMP) and their related (outgoing) traffic flows or responses will be permitted.
 

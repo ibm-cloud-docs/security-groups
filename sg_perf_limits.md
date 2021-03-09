@@ -3,7 +3,7 @@
 
 
 copyright:
-  years: 2017
+  years: 2017, 2018
 lastupdated: "2018-11-10"
 
 keywords: performance, limits, limitations, rules
@@ -32,7 +32,7 @@ Some performance limitations exist for security groups and their associated rule
 | Rules per security group                                  | 50                                                  |
 | Remote rules per security group                           | 5                                                   |
 | Network interfaces per security group                     | 100                                                 |
-{: caption="Table 3. Performance limitations for specific resources" caption-side="top"}
+{: caption="Table 1. Performance limitations for specific resources" caption-side="top"}
 
 A remote rule is one that specifies a security group as the source or destination.
 {: note}

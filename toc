@@ -22,7 +22,7 @@ Security Groups
     add-existing-sg.md
 
     {: .topicgroup}
-    Step-by-step: Creating and Managing a Custom Security Group
+    Step-by-step: Creating and managing a custom security group
         custom-security-group.md
         csg_create.md
         csg_rule.md

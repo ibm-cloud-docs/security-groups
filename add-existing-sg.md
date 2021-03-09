@@ -3,7 +3,7 @@
 
 
 copyright:
-  years: 2017, 2018
+  years: 2017, 2019
 lastupdated: "2019-11-14"
 
 keywords: add, order, group
@@ -22,20 +22,20 @@ subcollection: security-groups
 {:tip: .tip}
 {:external: target="_blank_" .external}
 
-# Adding a pre-defined security group during ordering
+# Adding a predefined security group during ordering
 {: #adding-a-pre-defined-security-group-during-ordering}
 
-This step-by-step procedure shows you how to add existing or pre-defined IBM™ Cloud Security Groups to instances during the ordering process.
+This step-by-step procedure shows you how to add existing or predefined {{site.data.keyword.cloud}} security groups to instances during the ordering process.
 {: shortdesc}
 
-You can use Security Groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
+You can use security groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
 
-![Custom Security Group](./images/goal2.jpg)
+![Custom security group](./images/goal2.jpg)
 
 ## What you'll need
 {: #what-you-ll-need-2}
 
-For this example the following objects and items will be used:
+For this example the following objects and items are used:
 
 | Resource Name  | Operating System | Type | Location/DC | IP/Subnet |
 |:------------- |:---------------:| -------------:| :---------------:| ---------------:|
@@ -46,20 +46,17 @@ For this example the following objects and items will be used:
 ## Ordering a security group
 {: #order-a-security-group}
 
-To order a virtual server instance and assign a security group, perform the following procedure:
+To order a virtual server instance and assign a security group, follow these steps:
 
 1. From your browser, open the [IBM Cloud Catalog](https://cloud.ibm.com/catalog) and log in to your account.
+1. Select **Compute** on the left side of the page, then click on the **Virtual Server** tile to get to the Virtual Server page.
+1. Configure your virtual server based on your requirements.
 
-2. Select **Compute** on the left side of the page, then click on the **Virtual Server** tile to get to the Virtual Server page.
+   For complete information on provisioning a virtual server instance, refer to the [Virtual Server Instance documentation](/docs/virtual-servers).
 
-3. Configure your Virtual Server based on your requirements.
+1. From the Network Interface section, use the menus to select any predefined private or public security groups for your virtual server instance.
 
-   For complete information on provisioning a VSI, refer to the [Virtual Server Instance documentation](/docs/virtual-servers).
+  Only predefined security groups display in these menu lists. To define a new security group, refer to [Creating security groups and rules](/docs/security-groups?topic=security-groups-creating-security-groups)
 
-4. From the Network Interface section, use the menus to select any predefined private or public security groups for your VSI.
-
-  Only predefined security groups will display in these menu lists. To define a new security group, refer to [Creating Security Groups and Rules](/docs/security-groups?topic=security-groups-creating-security-groups)
-
-5. Mark the Cloud Service terms and the Third-Party Service Agreement check box.
-
-6. Finally, click **Create**.
+1. Select the Cloud Service terms and the Third-Party Service Agreement check box.
+1. Finally, click **Create**.

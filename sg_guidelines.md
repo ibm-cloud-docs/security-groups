@@ -34,21 +34,21 @@ Consider the following guidelines when working with IBM™ Cloud Security Groups
 * Users with the Manage Security Groups privilege can add, edit, or delete rules in a security group.
 * Changes to security group rules are automatically applied and can be modified at any time.
 * The order of rules within a security group does not matter. The priority always falls to the least restrictive rule.
-* Rules are stateful. Connections established prior to a security group change will not be altered. New connections will abide by rules that exist at the time connectivity is established.
+* Rules are stateful. Connections established prior to a security group change are not altered. New connections abide by rules that exist at the time connectivity is established.
 * Security groups do not override operating system firewalls on the virtual server. Even if a more restrictive firewall exists on the operating system than what is applied by the security group, the operating system rules will still be enforced.
-* If your virtual server needs access to internal services, such as an update server, network attached storage(NAS), or advanced monitoring, ensure that the security group rules accommodate traffic for those internal services. For more information, see [What IP ranges do I allow through the firewall](/docs/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-ibm-cloud-ip-ranges).
+* If your virtual server needs access to internal services, such as an update server, network attached storage (NAS), or advanced monitoring, ensure that the security group rules accommodate traffic for those internal services. For more information, see [IBM Cloud IP ranges](/docs/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-ibm-cloud-ip-ranges).
 
 ## Interfaces
 {: #interfaces-1}
 
 * A security group can be applied to a private network, a public network, or both network interface types.
 * You can attach one or more security groups to the list of security groups that are assigned to a network interface. The security group rules of each security group apply to the associated virtual server instances.
-* The first time that you assign an existing security group to a network interface (public or private), a restart is required for each interface.  However, if the public and private interfaces were assigned to the security group at the same time, then only one restart is required.  After a restart, changes are automatically applied.
+* The first time that you assign an existing security group to a network interface (public or private), a restart is required for each interface. However, if the public and private interfaces were assigned to the security group at the same time, then only one restart is required. After a restart, changes are automatically applied.
 
 ## Access
 {: #access-1}
 
-* All users within an account can read, attach and detach security groups on the virtual server instances to which they have access. Only users with the Manage Security Groups privilege in Network Permissions can create, update and delete security groups.
+* All users within an account can read, attach, and detach security groups on the virtual server instances to which they have access. Only users with the Manage Security Groups privilege in Network Permissions can create, update and delete security groups.
 * You cannot assign security groups to bare metal servers.
 
 ## Deletion
