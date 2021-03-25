@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="security-groups" audience="security" href="/docs/security-groups?topic=security-groups-getting-started" console-page="/classic/security/securitygroups" product-page="https://www.ibm.com/cloud/virtual-servers" path="security-groups"}
+{: .toc subcollection="security-groups" audience="service" href="/docs/security-groups?topic=security-groups-getting-started" console-page="/classic/security/securitygroups" product-page="https://www.ibm.com/cloud/virtual-servers" path="security-groups"}
 Security Groups
 
     {: .navgroup id="learn"}
