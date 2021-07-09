@@ -1,0 +1,37 @@
+{
+    "title": "Security Groups docs",
+    "lastupdated": "2021-06-08",
+    "introduction": "An IBM Cloud® security group is a set of IP filter rules that define how to handle incoming (ingress) and outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The rules that you add to a security group are known as security group rules.",
+      "api": "/docs/security-groups?topic=security-groups-api-reference", 
+      "terraform": "https://cloud.ibm.com/docs/terraform?topic=terraform-getting-started",
+    "section_recommended": [
+      {
+        "title": "Getting started with IBM security groups",
+        "description": "You can use security groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.",
+        "href": "/docs/security-groups?topic=security-groups-getting-started"
+      },
+      {
+        "title": "Creating security groups and rules",
+        "description": "You can create an IBM Cloud® security group and its associated rules and then assign it to the interfaces of one or more virtual server instances to enable a virtual firewall.",
+        "href": "/docs/security-groups?topic=security-groups-creating-security-groups"
+      },
+      {
+        "title": "Managing security groups",
+        "description": "You can manage security groups by using the Security Groups page, or the Device Details page in the IBM Cloud console.",
+        "href": "/docs/acme-test?topic=acme-test-create-project"
+      }
+    ],
+    "section_videos": [
+      {
+        "title": "Network as a service",
+        "href": "/docs/security-groups?topic=security-groups-naas-video", 
+        "thumbnail": "/images/enterprise-video-thumbnail.png" 
+      }
+    ],
+    "section_learn": {
+      "developer": "https://developer.ibm.com/depmodels/cloud/",
+      "architecture": "https://www.ibm.com/cloud/architecture",
+      "training": "https://www.ibm.com/training/cloud",
+      "community": "https://community.ibm.com/community/user/publiccloud/home"
+    }
+  }
