@@ -32,8 +32,8 @@ Security Groups
 
     {: .navgroup id="reference"}
     sg_api.md
+    [Terraform reference](https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/security_group)
     /hardware-firewall-dedicated/hardware-firewall-dedicated-ibm-cloud-ip-ranges
-    [Terraform](https://cloud.ibm.com/docs/terraform?topic=terraform-getting-started)
     {: .navgroup-end}
 
     {: .navgroup id="help"}
