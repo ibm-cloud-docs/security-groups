@@ -20,6 +20,7 @@ Security Groups
     sg_creating.md
     sg_managing.md
     add-existing-sg.md
+    terraform.md
 
     {: .topicgroup}
     Step-by-step: Creating and managing a custom security group
