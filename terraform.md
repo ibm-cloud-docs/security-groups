@@ -35,7 +35,7 @@ To install Terraform and configure resources for security groups:
 1. Follow the [Terraform on {{site.data.keyword.cloud}} getting started tutorial](/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started) to install the Terraform CLI and configure the {{site.data.keyword.cloud}} Provider plug-in for Terraform. The plug-in abstracts the {{site.data.keyword.cloud}} APIs that are used to provision, update, or delete security group service instances and resources.
 2. Create a Terraform configuration file that is named `main.tf`. In this file, you add the configuration to create a security group service instance. For more information, see the [Terraform documentation](https://www.terraform.io/docs/language/index.html){: external}.
 
-   The security group instance in the following example is named `sg1`. For more information, see the [ibm_security_group](https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/security_group){: external} usage example. 
+   The security group resource in the following example is named `sg1`. For more information, see the [ibm_security_group](https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/security_group){: external} usage example.
 
    ```terraform
    resource "ibm_security_group" "sg1" {
