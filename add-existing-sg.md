@@ -56,7 +56,7 @@ To order a virtual server instance and assign a security group, follow these ste
 
 1. From the Network Interface section, use the menus to select any predefined private or public security groups for your virtual server instance.
 
-  Only predefined security groups display in these menu lists. To define a new security group, refer to [Creating security groups and rules](/docs/security-groups?topic=security-groups-creating-security-groups)
+   Only predefined security groups display in these menu lists. To define a new security group, refer to [Creating security groups and rules](/docs/security-groups?topic=security-groups-creating-security-groups)
 
 1. Select the Cloud Service terms and the Third-Party Service Agreement check box.
 1. Finally, click **Create**.

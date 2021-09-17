@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2019-11-14"
+lastupdated: "2021-09-14"
 
 keywords: order, overview, use cases, security groups
 
@@ -38,7 +38,7 @@ To get started, order a virtual server instance and assign a security group.
 
 1. In the Network Interface section, use the menus to select any predefined private or public security groups for your virtual server instance.
 
-  Only predefined security groups show in these menu lists. To define a new security group, see [Creating security groups and rules](/docs/security-groups?topic=security-groups-creating-security-groups).
+   Only predefined security groups show in these menu lists. To define a new security group, see [Creating security groups and rules](/docs/security-groups?topic=security-groups-creating-security-groups).
 
 1. Click **Create**.
 
