@@ -73,4 +73,4 @@ To manage security groups from the Device Details page, complete the following s
      If you remove the last security group that is assigned to a virtual server instance, then the virtual server traffic is no longer limited by security groups. A security group firewall no longer exists.
      {: tip}
 
-6. After you finish making changes, click **Save**.
+5. After you finish making changes, click **Save**.

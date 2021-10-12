@@ -47,21 +47,21 @@ To install Terraform and configure resources for security groups:
 
 3. Initialize the Terraform CLI.
 
-   ```
+   ```sh
    terraform init
    ```
    {: pre}
 
 4. Create a Terraform execution plan. The Terraform execution plan summarizes all the actions that need to be run to create the security group instance in your account.
 
-   ```
+   ```sh
    terraform plan
    ```
    {: pre}
 
 5. Create the security group instance in {{site.data.keyword.cloud_notm}}.
 
-   ```
+   ```sh
    terraform apply
    ```
    {: pre}

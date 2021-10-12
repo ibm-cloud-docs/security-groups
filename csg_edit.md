@@ -26,7 +26,7 @@ subcollection: security-groups
 # Editing a security group
 {: #editing-a-security-group}
 
-After you've created your {{site.data.keyword.cloud}} security groups object, you can modify its parameters and rules.
+After you've created your {{site.data.keyword.cloud}} security groups object, you can modify its parameters and rules. 
 {: shortdesc}
 
 ## Editing security group details

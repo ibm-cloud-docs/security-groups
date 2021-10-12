@@ -57,6 +57,7 @@ Since security group changes can result in a number of virtual servers being upd
 
 ## Security group example
 {: #example-2}
+
 In the following diagram, virtual server instances are associated with a set of security groups to restrict network traffic. The arrows represent network traffic flow. The application developer has restricted access to the various infrastructure layers, as follows:
 
 * The application developer can access only the web layer on TCP port 443 (HTTPS).
