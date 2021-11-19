@@ -12,16 +12,7 @@ subcollection: security-groups
 
 ---
 
-{:shortdesc: .shortdesc}
-{:codeblock: .codeblock}
-{:screen: .screen}
-{:new_window: target="_blank_"}
-{:pre: .pre}
-{:note: .note}
-{:important: .important}
-{:tip: .tip}
-{:table: .aria-labeledby="caption"}
-{:external: target="_blank_" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # Assigning instances to the security group
 {: #assigning-instances-to-the-security-group}

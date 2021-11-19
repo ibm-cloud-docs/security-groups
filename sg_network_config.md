@@ -13,11 +13,7 @@ subcollection: security-groups
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank_"}
-{:note: .note}
-{:important: .important}
-{:tip: .tip}
+{{site.data.keyword.attribute-definition-list}}
 
 # Existing network configurations and security groups
 {: #existing-network-configurations-and-security-groups}

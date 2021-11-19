@@ -9,12 +9,7 @@ keywords: create, rules, assign, interface, virtual server
 subcollection: security-groups
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank_"}
-{:note: .note}
-{:important: .important}
-{:tip: .tip}
-
+{{site.data.keyword.attribute-definition-list}}
 
 # Creating security groups and rules
 {: #creating-security-groups}

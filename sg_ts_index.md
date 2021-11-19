@@ -13,14 +13,7 @@ subcollection: security-groups
 
 ---
 
-{:tsSymptoms: .tsSymptoms}
-{:tsCauses: .tsCauses}
-{:tsResolve: .tsResolve}
-{:new_window: target="_blank_"}
-{:shortdesc: .shortdesc}
-{:note: .note}
-{:important: .important}
-{:tip: .tip}
+{{site.data.keyword.attribute-definition-list}}
 
 # Getting help and support
 {: #gettinghelp}

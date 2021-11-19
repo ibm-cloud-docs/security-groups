@@ -11,16 +11,7 @@ keywords: add, order, group
 subcollection: security-groups
 ---
 
-{:shortdesc: .shortdesc}
-{:codeblock: .codeblock}
-{:screen: .screen}
-{:new_window: target="_blank_"}
-{:pre: .pre}
-{:table: .aria-labeledby="caption"}
-{:note: .note}
-{:important: .important}
-{:tip: .tip}
-{:external: target="_blank_" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # Adding a predefined security group during ordering
 {: #adding-a-pre-defined-security-group-during-ordering}
@@ -30,7 +21,7 @@ This step-by-step procedure shows you how to add existing or predefined {{site.d
 
 You can use security groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
 
-![Custom security group](./images/goal2.jpg)
+![Custom security group](./images/goal2.jpg){: caption="Figure 1. Custom security group" caption-side="bottom"}
 
 ## What you'll need
 {: #what-you-ll-need-2}
@@ -42,6 +33,7 @@ For this example the following objects and items are used:
 | allow_ssh1 | Not Applicable  | Security Group | Not Applicable/Any | 0.0.0.0/0 |
 |jpmongevsi2.testing.com | Ubuntu 16.04 | Virtual server instance | Dallas 10 Pod 01 | 10.0.0.21 |
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Virtual server instance |	Dallas 10 Pod 01	| 10.0.2.219 |
+{: caption="What you'll need" caption-side="bottom"}
 
 ## Ordering a security group
 {: #order-a-security-group}

@@ -10,12 +10,7 @@ subcollection: security-groups
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank_"}
-{:note: .note}
-{:important: .important}
-{:tip: .tip}
-{:external: target="_blank_" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # Managing security groups
 {: #managing-sg}

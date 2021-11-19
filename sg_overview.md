@@ -12,11 +12,7 @@ subcollection: security-groups
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank_"}
-{:note: .note}
-{:important: .important}
-{:tip: .tip}
+{{site.data.keyword.attribute-definition-list}}
 
 # About IBM security groups
 {: #about-ibm-security-groups}
@@ -64,5 +60,4 @@ In the following diagram, virtual server instances are associated with a set of 
 * Only web layer instances can access the application layer instances.
 * Only the application layer instances can access the database layer instances.
 
-![Security group image](images/SecurityGroups.png "Image shows the flow of network traffic with a set of security groups enabled")
-Figure 1. Security group image
+![Security group image](images/SecurityGroups.png "Image shows the flow of network traffic with a set of security groups enabled"){: caption="Figure 1. Security group image" caption-side="bottom"}

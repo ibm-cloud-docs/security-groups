@@ -1,7 +1,5 @@
 ---
 
-
-
 copyright:
   years: 2017, 2019
 lastupdated: "2019-11-14"
@@ -10,18 +8,9 @@ keywords: api, reference, slapi
 
 subcollection: security-groups
 
-
 ---
 
-{:shortdesc: .shortdesc}
-{:codeblock: .codeblock}
-{:screen: .screen}
-{:new_window: target="_blank_"}
-{:pre: .pre}
-{:table: .aria-labeledby="caption"}
-{:note: .note}
-{:important: .important}
-{:tip: .tip}
+{{site.data.keyword.attribute-definition-list}}
 
 # Security group API reference
 {: #api-reference}
@@ -40,8 +29,8 @@ in return. The format used to send and receive data with the SLAPI depends on wh
 
 For more information about the SoftLayer API, virtual server, and security group APIs, see the following resources in the SoftLayer
 Development Network:
-* [SoftLayer API Overview ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://softlayer.github.io/reference/softlayerapi/){: new_window}
-* [Getting Started with the SoftLayer API ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://sldn.softlayer.com/article/getting-started){: new_window}
-* [SoftLayer_Virtual_Guest/createObject API ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: new_window}
-* [SoftLayer_Network_SecurityGroup API ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: new_window}
-* [SoftLayer_Virtual_Guest_Network_Component API ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest_Network_Component){: new_window}
+* [SoftLayer API Overview](https://softlayer.github.io/reference/softlayerapi/){: external}
+* [Getting Started with the SoftLayer API](http://sldn.softlayer.com/article/getting-started){: external}
+* [SoftLayer_Virtual_Guest/createObject API](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: external}
+* [SoftLayer_Network_SecurityGroup API](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: external}
+* [SoftLayer_Virtual_Guest_Network_Component API](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest_Network_Component){: external}

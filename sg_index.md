@@ -13,12 +13,7 @@ subcollection: security-groups
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank_"}
-{:note: .note}
-{:important: .important}
-{:tip: .tip
-{:external: target="_blank_" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # Getting started with IBM security groups
 {: #getting-started}
@@ -62,6 +57,8 @@ The following sections describe a few difficult network security scenarios that 
 **Solution:** You do not incur extra charges for using security groups. You can use security groups for all virtual servers that need protection in any of our global data centers.
 
 ### Globally scalable and easily manageable firewall
+{: #globally-scalable-firewall}
+
 **Security scenario:** You want to avoid configuring firewall rules on each server separately. Instead, you want an easily manageable firewall solution that spans servers in different global data centers.
 
 **Solution:** Define `N` security groups for `N` different types of servers in your cloud workload. Manage all rules for a security group in one place. Manage the security group associations with the virtual servers.

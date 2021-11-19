@@ -10,16 +10,7 @@ subcollection: security-groups
 
 ---
 
-{:shortdesc: .shortdesc}
-{:codeblock: .codeblock}
-{:screen: .screen}
-{:new_window: target="_blank_"}
-{:pre: .pre}
-{:table: .aria-labeledby="caption"}
-{:note: .note}
-{:important: .important}
-{:tip: .tip}
-{:video: .video}
+{{site.data.keyword.attribute-definition-list}}
 
 # Demo: Network as a service
 {: #naas-video}

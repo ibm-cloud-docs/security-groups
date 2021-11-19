@@ -12,15 +12,7 @@ subcollection: security-groups
 
 ---
 
-{:shortdesc: .shortdesc}
-{:codeblock: .codeblock}
-{:screen: .screen}
-{:new_window: target="_blank_"}
-{:pre: .pre}
-{:table: .aria-labeledby="caption"}
-{:note: .note}
-{:important: .important}
-{:tip: .tip}
+{{site.data.keyword.attribute-definition-list}}
 
 # Creating and managing a custom security group
 {: #creating-and-managing-a-custom-security-group}
@@ -28,7 +20,7 @@ subcollection: security-groups
 In this tutorial learn how to create, assign instances to, and edit a custom {{site.data.keyword.cloud}} security group.
 {: shortdesc}
 
-![Custom security group](./images/goal.jpg)
+![Custom security group](./images/goal.jpg){: caption="Create a security group" caption-side="bottom"}
 
 ## What you'll need
 {: #what-you-ll-need-3}
@@ -42,7 +34,7 @@ For this example, the following objects and items are used:
 | allow_ssh | Not Applicable | Security Group | Not Applicable/Any | 0.0.0.0/0 |
 |jpmongevsi2.testing.com | Ubuntu 16.04 | Virtual server instance | Dallas 10 Pod 01 | 10.0.0.21 |
 |jpmongevsi4.testing.com | Ubuntu 16.04 | Virtual server instance |	Dallas 10 Pod 01	| 10.0.2.219 |
-
+{: caption="What you'll need" caption-side="bottom"}
 
 Note that this tutorial makes use of a CPA private network/account, however, for practical purposes security groups behave the same way in both CPA accounts and regular accounts. Subnets 10.0.0.0/24 and 10.0.2.0/24 belong to the same CPA private network, which would be the equivalent of having a regular account with two or more virtual server instances connected to the same private subnet/VLAN.
 
