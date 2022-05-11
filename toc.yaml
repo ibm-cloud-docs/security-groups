@@ -26,6 +26,7 @@ toc:
        - link:
           label: What is network security?
           href: https://www.ibm.com/cloud/learn/networking-a-complete-guide
+       - release-notes.md
 
     - navgroup:
        id: howto
