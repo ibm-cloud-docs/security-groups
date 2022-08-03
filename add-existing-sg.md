@@ -21,7 +21,7 @@ This step-by-step procedure shows you how to add existing or predefined {{site.d
 
 You can use security groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
 
-![Custom security group](./images/goal2.jpg){: caption="Figure 1. Custom security group" caption-side="bottom"}
+![Custom security group](./images/goal2.png){: caption="Figure 1. Custom security group" caption-side="bottom"}
 
 ## What you'll need
 {: #what-you-ll-need-2}
