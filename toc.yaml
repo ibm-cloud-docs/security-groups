@@ -8,7 +8,7 @@ toc:
     console-page: /classic/security/securitygroups
     product-page: https://www.ibm.com/cloud/virtual-servers
     path: security-groups
-    label: Security Groups
+    label: Security Groups 
 
 #  List your getting started tutorial (getting-started.md) as the first item in the Get started nav group. See https://test.cloud.ibm.com/docs/writing?topic=writing-navigation for more details on the toc design.
   entries:
@@ -21,7 +21,7 @@ toc:
        - sg_network_config.md
        - sg_perf_limits.md
        - naas-overview.md
-       - /fortigate-10g/fortigate-10g-exploring-firewalls
+       - include: /fortigate-10g/explore-firewalls.md
        - external-resources.md
        - link:
           label: What is network security?
@@ -53,7 +53,7 @@ toc:
        - link:
           label: Terraform reference
           href: https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/security_group
-       - /cloud-infrastructure/cloud-infrastructure-ibm-cloud-ip-ranges
+       - include: ../cloud-infrastructure/ips.md
 
     - navgroup:
        id: help

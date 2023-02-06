@@ -1,8 +1,3 @@
 includes:
-  - https://github.ibm.com/cloud-docs/acme-test
-  - https://github.ibm.com/cloud-docs/another-repo
-translation:
-  exclude:
-    byFilePath:
-      - file-dont-translate.md
-      - folder-dont-translate/
+  - https://github.ibm.com/cloud-docs/fortigate-10g
+  - https://github.ibm.com/cloud-docs/cloud-infrastructure
