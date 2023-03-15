@@ -26,11 +26,9 @@ You can allow incoming requests (SSH & ICMP) and their related (outgoing) traffi
 1. On the Rules tab, click the **Create rule +** button.
 1. Specify the rule's Direction, IP Type, Protocol, Port Range, Type, Code and Source when applicable (based on the Protocol selection).
 
-	Unless you are using another Security Group as the source, leave **Source Type** as **CIDR Block**.
+   Unless you are using another Security Group as the source, leave **Source Type** as **CIDR Block**.
 
-	![Create a rule](./images/rule_sg.jpg)
-
-	The figure shows **All ICMP** selected as the protocol, which means all ICMP types and codes are allowed. Additionally, the Source field is being left empty, using the default value of `0.0.0.0/0` -- the equivalent to any IP address or subnet.
+   The figure shows **All ICMP** selected as the protocol, which means all ICMP types and codes are allowed. Additionally, the Source field is being left empty, using the default value of `0.0.0.0/0` -- the equivalent to any IP address or subnet.
 
 1. Click **OK** to finish.
 

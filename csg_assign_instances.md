@@ -27,13 +27,6 @@ You can assign {{site.data.keyword.cloud}} security group objects to instances i
 1. From the Classic Infrastructure menu, select **Security** >  **Network Security** > **Security Groups** to view the Security Groups page.
 1. On the Security Groups page, click the ![More icon](./images/more_icon.jpg) icon of the Security Group object that you want to assign instances to, then select **Manage Instances**.
 1. Select the instance and interface to apply to the security group.
-
-	![Security Menu Instance](./images/security_assign.jpg)
-
-	In the figure, the "allow_icmp" security group (created in the [first step](/docs/security-groups?topic=security-groups-creating-a-security-group)) is applied to the private interface (`10.0.2.219`) of "jpmongevsi4".
-
-	Note how the **Attached Instances** count increased from `0` to `1`.
-
 1. Click **Save** to apply the changes.
 1. Restart your instance.
 

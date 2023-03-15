@@ -20,8 +20,6 @@ subcollection: security-groups
 In this tutorial learn how to create, assign instances to, and edit a custom {{site.data.keyword.cloud}} security group.
 {: shortdesc}
 
-![Custom security group](./images/goal.jpg){: caption="Create a security group" caption-side="bottom"}
-
 ## What you'll need
 {: #what-you-ll-need-3}
 
