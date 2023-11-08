@@ -17,7 +17,7 @@ subcollection: security-groups
 # Creating a security group
 {: #creating-a-security-group}
 
-You can create and configure a custom IBM™ Cloud Security Group using the instructions here.
+You can create and configure a custom IBM™ Cloud Security Group using the instructions here. 
 {: shortdesc}
 
 1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com/) and log into your account.
