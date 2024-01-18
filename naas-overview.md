@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2019
-lastupdated: "2019-11-14"
+lastupdated: "2019-11-15"
 
 keywords: naas, demo, video
 
