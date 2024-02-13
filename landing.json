@@ -3,7 +3,7 @@
     "lastupdated": "2021-06-08",
     "introduction": "An IBM Cloud® security group is a set of IP filter rules that define how to handle incoming (ingress) and outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The rules that you add to a security group are known as security group rules.",
       "api": "/docs/security-groups?topic=security-groups-api-reference",
-      "terraform": "https://cloud.ibm.com/docs/terraform?topic=terraform-getting-started",
+      "terraform": "https://cloud.ibm.com/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started",
     "section_recommended": [
       {
         "title": "Getting started with IBM security groups",
@@ -18,7 +18,7 @@
       {
         "title": "Managing security groups",
         "description": "You can manage security groups by using the Security Groups page, or the Device Details page in the IBM Cloud console.",
-        "href": "/docs/acme-test?topic=acme-test-create-project"
+        "href": "/docs/security-groups?topic=security-groups-managing-sg"
       }
     ],
     "section_videos": [
