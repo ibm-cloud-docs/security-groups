@@ -6,7 +6,7 @@ toc:
     audience: service
     href: /docs/security-groups
     console-page: /classic/security/securitygroups
-    product-page: https://www.ibm.com/cloud/virtual-servers
+    product-page: https://www.ibm.com/products/virtual-servers
     path: security-groups
     label: Security Groups
 
@@ -24,7 +24,7 @@ toc:
        - external-resources.md
        - link:
           label: What is network security?
-          href: https://www.ibm.com/cloud/learn/networking-a-complete-guide
+          href: https://www.ibm.com/topics/networking
        - release-notes.md
 
     - navgroup:
