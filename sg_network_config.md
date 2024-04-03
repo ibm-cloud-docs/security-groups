@@ -21,7 +21,7 @@ subcollection: security-groups
 A security group augments any existing network configuration. Therefore, a security group cannot span across networks that cannot communicate with one another.
 {: shortdesc}
 
-Security groups are interface constructs, they're not IP specific. When a virtual server has public interface with security group applied, it is applicable to its assigned(with the interface) portal subnet also.
+Security groups are interface constructs, they're not IP specific. When a virtual server has public interface with security group applied, the security group also applies to the interfaces assigned portable subnet.
 
 In order to prevent DHCP spoofing, a DROP rule is added as a mandate whenever the secuirty group is applied. so, trying to set DHCP server using secondary portable subnet will not work with security applied.
 
