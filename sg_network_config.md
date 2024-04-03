@@ -4,7 +4,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2024-04-03"
 
 keywords: configuration, network, virtual server, instance, security
 
@@ -20,6 +20,10 @@ subcollection: security-groups
 
 A security group augments any existing network configuration. Therefore, a security group cannot span across networks that cannot communicate with one another.
 {: shortdesc}
+
+Security groups are interface constructs, they're not IP specific. When a virtual server has public interface with security group applied, it is applicable to its assigned(with the interface) portal subnet also.
+
+In order to prevent DHCP spoofing, a DROP rule is added as a mandate whenever the secuirty group is applied. so, trying to set DHCP server using secondary portable subnet will not work with security applied.
 
 If virtual server instances cannot communicate with one another, adding them to a security group does not change that behavior. Gateways must allow the traffic that is defined by the selected security groups.
 
