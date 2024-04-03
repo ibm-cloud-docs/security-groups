@@ -23,7 +23,7 @@ A security group augments any existing network configuration. Therefore, a secur
 
 Security groups are interface constructs, they're not IP specific. When a virtual server has public interface with security group applied, the security group also applies to the interfaces assigned portable subnet.
 
-In order to prevent DHCP spoofing, a DROP rule is added as a mandate whenever the secuirty group is applied. so, trying to set DHCP server using secondary portable subnet will not work with security applied.
+In order to prevent DHCP spoofing, a DROP rule is added as a mandate whenever the secuirty group is applied. As such, trying to set DHCP server using secondary portable subnet will not work with a security group applied.
 
 If virtual server instances cannot communicate with one another, adding them to a security group does not change that behavior. Gateways must allow the traffic that is defined by the selected security groups.
 
