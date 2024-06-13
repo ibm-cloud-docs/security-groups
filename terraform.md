@@ -4,7 +4,7 @@ copyright:
   years: 2021, 2023
 lastupdated: "2023-04-12"
 
-subcollection: security-groups
+subcollection: _your-subcollection_
 
 ---
 
@@ -26,7 +26,7 @@ Before you can create an authorization by using Terraform, make sure that you ha
 
 * Make sure that you have the required access to create and work with security group resources.
 * Install the Terraform CLI and configure the {{site.data.keyword.cloud_notm}} Provider plug-in for Terraform. For more information, see the tutorial for [Getting started with Terraform on {{site.data.keyword.cloud}}](/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started). The plug-in abstracts the {{site.data.keyword.cloud_notm}} APIs that are used to complete this task.
-* Create a Terraform configuration file that is named `main.tf`. In this file, you define resources by using HashiCorp Configuration Language. For more information, see the [Terraform documentation](https://developer.hashicorp.com/terraform/language){: external}.
+* Create a Terraform configuration file that is named `main.tf`. In this file, you define resources by using HashiCorp Configuration Language. For more information, see the [Terraform documentation](https://www.terraform.io/docs/language/index.html){: external}.
 
 1. Create a security groups instance by using the `ibm_resource_instance` resource argument in your `main.tf` file.
 
@@ -40,14 +40,14 @@ Before you can create an authorization by using Terraform, make sure that you ha
    ```
    {: codeblock}
 
-2. After you finish building your configuration file, initialize the Terraform CLI. For more information, see [Initializing Working Directories](https://developer.hashicorp.com/terraform/cli/init){: external}.
+2. After you finish building your configuration file, initialize the Terraform CLI. For more information, see [Initializing Working Directories](https://www.terraform.io/cli/init){: external}.
 
    ```sh
    terraform init
    ```
    {: codeblock}
 
-3. Provision the resources from the `main.tf` file. For more information, see [Provisioning Infrastructure with Terraform](https://developer.hashicorp.com/terraform/cli/run){: external}.
+3. Provision the resources from the `main.tf` file. For more information, see [Provisioning Infrastructure with Terraform](https://www.terraform.io/cli/run){: external}.
 
    1. Run `terraform plan` to generate a Terraform execution plan to preview the proposed actions.
 
@@ -64,4 +64,4 @@ Before you can create an authorization by using Terraform, make sure that you ha
       {: pre}
 
 6. From the [{{site.data.keyword.cloud_notm}} resource list](/resources){: external}, select the {{site.data.keyword.keymanagementserviceshort}} instance that you created and note the instance ID.
-7. Verify that the access policy is successfully assigned. For more information, see [Reviewing assigned access in the console](/docs/account?topic=account-assign-access-resources&interface=ui#review-your-access-console).
+7. Verify that the access policy is successfully assigned. For more information, see [Reviewing assigned access in the console](/docs/account?topic=account-assign-access-resources#review-your-access-console).
