@@ -6,10 +6,9 @@ toc:
     audience: service
     href: /docs/security-groups
     console-page: /classic/security/securitygroups
-    product-page: https://www.ibm.com/products/virtual-servers
+    product-page: https://www.ibm.com/cloud/virtual-servers
     path: security-groups
     label: Security Groups
-
   entries:
     - navgroup:
        id: learn
@@ -20,13 +19,12 @@ toc:
        - sg_network_config.md
        - sg_perf_limits.md
        - naas-overview.md
-       - include: ../fortigate-10g/explore-firewalls.md
+       - include: /fortigate-10g/explore-firewalls.md
        - external-resources.md
        - link:
           label: What is network security?
-          href: https://www.ibm.com/topics/networking
+          href: https://www.ibm.com/cloud/learn/networking-a-complete-guide
        - release-notes.md
-
     - navgroup:
        id: howto
        topics:
@@ -42,7 +40,6 @@ toc:
           - csg_rule.md
           - csg_assign_instances.md
           - csg_edit.md
-
     - navgroup:
        id: reference
        topics:
@@ -51,7 +48,6 @@ toc:
           label: Terraform reference
           href: https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/security_group
        - include: ../cloud-infrastructure/ips.md
-
     - navgroup:
        id: help
        topics:

@@ -29,7 +29,7 @@ in return. The format used to send and receive data with the SLAPI depends on wh
 
 For more information about the SoftLayer API, virtual server, and security group APIs, see the following resources in the SoftLayer
 Development Network:
-* [SoftLayer API Overview](https://sldn.softlayer.com/reference/softlayerapi/){: external}
+* [SoftLayer API Overview](https://softlayer.github.io/reference/softlayerapi/){: external}
 * [Getting Started with the SoftLayer API](http://sldn.softlayer.com/article/getting-started){: external}
 * [SoftLayer_Virtual_Guest/createObject API](http://sldn.softlayer.com/reference/services/SoftLayer_Virtual_Guest/createObject){: external}
 * [SoftLayer_Network_SecurityGroup API](https://sldn.softlayer.com/reference/services/SoftLayer_Network_SecurityGroup){: external}
