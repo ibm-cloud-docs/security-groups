@@ -1,9 +1,8 @@
 ---
 
 copyright:
-  years: 2020, 2022
-lastupdated: "2022-05-10"
-
+  years: 2024
+lastupdated: "2024-08-02"
 keywords: updates, additions, improvements
 
 subcollection: security-groups
