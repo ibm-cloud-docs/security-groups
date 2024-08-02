@@ -1,10 +1,8 @@
 ---
 
-
-
 copyright:
-  years: 2017, 2018
-lastupdated: "2023-04-11"
+  years: 2024
+lastupdated: "2024-08-02"
 
 keywords: help, support, troubleshoot, contact
 

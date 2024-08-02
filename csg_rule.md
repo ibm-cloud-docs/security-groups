@@ -1,10 +1,8 @@
 ---
 
-
-
 copyright:
-  years: 2017, 2019
-lastupdated: "2019-11-14"
+  years: 2024
+lastupdated: "2024-08-02"
 
 keywords: create, new, rule, ssh, icmp
 

@@ -1,10 +1,8 @@
 ---
 
-
-
 copyright:
-  years: 2017, 2018
-lastupdated: "2021-09-14"
+  years: 2024
+lastupdated: "2024-08-02"
 
 keywords: order, overview, use cases, security groups
 
