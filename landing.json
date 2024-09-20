@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "title": "IBM Security Groups",
+  "introduction": "An IBM Cloud security group is a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance. The rules that you add to a security group are known as security group rules.",
+  "product_page": "https://www.ibm.com/products/virtual-servers",
+  "console_page": "/classic/security/securitygroups",
+  "section_topics": {
+    "links": [
+      {
+        "title": "Getting started with IBM security groups",
+        "href": "/docs/security-groups?topic=security-groups-getting-started"
+      },
+      {
+        "title": "Creating security groups and rules",
+        "href": "/docs/security-groups?topic=security-groups-creating-security-groups"
+      },
+      {
+        "title": "Managing security groups",
+        "href": "/docs/security-groups?topic=security-groups-managing-sg"
+      }
+    ]
+  },
+  "section_highlights": [
+    {
+      "title": "What is computer networking?",
+      "description": "An introduction to IBM computer networking about enabling the transmission and exchange of information and resources.",
+      "href": "https://www.ibm.com/topics/networking",
+      "type": "blog"
+    },
+    {
+      "title": "Network as a service",
+      "description": "In this demo, you’ll learn how you can use IBM Cloud services to create a simple three-tiered web app in a matter of clicks.",
+      "href": "/docs/security-groups?topic=security-groups-naas-video",
+      "type": "video",
+      "recommended": true
+    }
+  ],
+  "section_devtools": {
+    "api": "/apidocs/acme-test-v1/acme-test-v1.2.0",
+    "cli": "/docs/acme-test",
+    "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/iam_access_group"
+  },
+  "section_updates": {
+    "view_more": "/docs/overview?topic=overview-whatsnew",
+    "tiles": [
+      {
+        "date": "6 April 2018",
+        "title": "You can now add existing or predefined IBM Cloud Security Groups to instances during the ordering process. "
+      }
+    ]
+  }
+}
