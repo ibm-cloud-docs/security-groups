@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2024
-lastupdated: "2024-08-02"
+  years: 2017, 2024
+lastupdated: "2024-10-10"
 
 keywords: overview, logs, audit, features
 
@@ -58,4 +58,4 @@ In the following diagram, virtual server instances are associated with a set of 
 * Only web layer instances can access the application layer instances.
 * Only the application layer instances can access the database layer instances.
 
-![Security group image](images/SecurityGroups.png "Image shows the flow of network traffic with a set of security groups enabled"){: caption="Figure 1. Security group image" caption-side="bottom"}
+![Security group image](images/SecurityGroups.png "Image shows the flow of network traffic with a set of security groups enabled"){: caption="Security group image" caption-side="bottom"}
