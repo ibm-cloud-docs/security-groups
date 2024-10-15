@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2024
-lastupdated: "2024-08-02"
+  years: 2017, 2024
+lastupdated: "2024-10-10"
 
 keywords: add, order, group
 
@@ -19,7 +19,7 @@ This step-by-step procedure shows you how to add existing or predefined {{site.d
 
 You can use security groups to enact a set of IP filter rules that define how to handle incoming and outgoing traffic to both the public and private interfaces of a virtual server instance.
 
-![Custom security group](./images/goal2.png){: caption="Figure 1. Custom security group" caption-side="bottom"}
+![Custom security group](./images/goal2.png){: caption="Custom security group" caption-side="bottom"}
 
 ## What you'll need
 {: #what-you-ll-need-2}
