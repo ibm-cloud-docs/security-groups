@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2024
-lastupdated: "2024-10-10"
+  years: 2017, 2025
+lastupdated: "2025-02-25"
 
 keywords: overview, logs, audit, features
 
@@ -48,6 +48,12 @@ All security group interactions are logged to an account's audit log. The entrie
 For each of those interactions, one log is written for each affected object. A log is always written against the security group being changed. Additional logs are written for each virtual server network interface attached to the security group. Filtering audit logs on a specific security group shows all security group related changes for the group. Likewise, filtering logs on a specific virtual server shows all security group related changes for the virtual server.
 
 Since security group changes can result in a number of virtual servers being updated in the background, audit logs can be used to determine precisely when a change went into effect.  Security group APIs that generate audit logs return a request identifier. That identifier can be used to correlate API calls with their resulting audit logs.
+
+## Using a security group as a source or destination
+
+When creating rules within a security group, one option is to set a security group as either the source or destination for traffic flow. This essentially does two things. First, it creates a group of IP addresses defined by the servers attached to the specified security group. Secondly, it sets that group of IPs as the source or destination for traffic. This allows you to group servers by function and references that group in a rule. For example, on your account, you can create one security group for all web servers and another for all database servers, defining the security groups by server type. To allow traffic from web servers to database servers, you can then create a rule within the web server security group. setting the destination as the database server security group (with the proper destination port and protocol set within the rule).
+
+Each security group can be referenced as a source or destination within other security groups a default maximum of 5 times total throughout the account.
 
 ## Security group example
 {: #example-2}
