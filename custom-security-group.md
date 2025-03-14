@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2024
-lastupdated: "2024-08-02"
+  years: 2017, 2025
+lastupdated: "2025-03-14"
 
 keywords: create, manage, custom, instance, assign, edit
 
@@ -46,3 +46,4 @@ Task  | Description
 [Create a rule](/docs/security-groups?topic=security-groups-creating-a-new-rule) | Create a rule to allow incoming requests (SSH & ICMP) and their related (outgoing) traffic flows.
 [Assign instances to the security group](/docs/security-groups?topic=security-groups-assigning-instances-to-the-security-group) | Assign security group objects to instances using either the Security menu or the Device menu.
 [Edit a security group and its rules](/docs/security-groups?topic=security-groups-editing-a-security-group) | Modify the parameters of the security object and its rules.
+{: caption="What you'll accomplish" caption-side="top"}
