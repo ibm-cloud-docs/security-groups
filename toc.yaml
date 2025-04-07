@@ -46,7 +46,7 @@ toc:
        - link:
           label: Terraform reference
           href: https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/security_group
-       - include: ../infrastructure-hub/ips.md
+       - include: /..infrastructure-hub/ips.md
     - navgroup:
        id: help
        topics:
