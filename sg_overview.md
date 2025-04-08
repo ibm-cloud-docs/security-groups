@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2025
-lastupdated: "2025-02-25"
+lastupdated: "2025-04-03"
 
 keywords: overview, logs, audit, features
 
@@ -50,6 +50,7 @@ For each of those interactions, one log is written for each affected object. A l
 Since security group changes can result in a number of virtual servers being updated in the background, audit logs can be used to determine precisely when a change went into effect.  Security group APIs that generate audit logs return a request identifier. That identifier can be used to correlate API calls with their resulting audit logs.
 
 ## Using a security group as a source or destination
+{: #security-group-source-destination}
 
 When creating rules within a security group, one option is to set a security group as either the source or destination for traffic flow. This essentially does two things. First, it creates a group of IP addresses defined by the servers attached to the specified security group. Secondly, it sets that group of IPs as the source or destination for traffic. This allows you to group servers by function and references that group in a rule. For example, on your account, you can create one security group for all web servers and another for all database servers, defining the security groups by server type. To allow traffic from web servers to database servers, you can then create a rule within the web server security group. setting the destination as the database server security group (with the proper destination port and protocol set within the rule).
 
