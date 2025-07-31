@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2025
-lastupdated: "2025-02-25"
+lastupdated: "2025-07-31"
 
 keywords: performance, limits, limitations, rules
 
@@ -13,7 +13,7 @@ subcollection: security-groups
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Performance limitations for security groups
+# Performance limitations for security groups (Classic)
 {: #performance-limitations-for-security-groups}
 
 Some performance limitations exist for security groups and their associated rules.
