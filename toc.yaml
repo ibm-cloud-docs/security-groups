@@ -10,27 +10,27 @@ toc:
     path: security-groups
     label: Security Groups
   entries:
-    - navgroup:
-       id: learn
-       topics:
-       - sg_index.md
-       - sg_overview.md
-       - sg_guidelines.md
-       - sg_network_config.md
-       - sg_perf_limits.md
-       - naas-overview.md
-       - include: ../fortigate-10g/explore-firewalls.md
-       - link:
+  - navgroup:
+      id: learn
+      topics:
+      - sg_index.md
+      - sg_overview.md
+      - sg_guidelines.md
+      - sg_network_config.md
+      - sg_perf_limits.md
+      - naas-overview.md
+      - include: ../fortigate-10g/explore-firewalls.md
+      - link:
           label: What is network security?
           href: https://www.ibm.com/think/topics/networking
-    - navgroup:
-       id: howto
-       topics:
-       - sg_creating.md
-       - sg_managing.md
-       - add-existing-sg.md
-       - terraform.md
-       - topicgroup:
+  - navgroup:
+      id: howto
+      topics:
+      - sg_creating.md
+      - sg_managing.md
+      - add-existing-sg.md
+      - terraform.md
+      - topicgroup:
           label: Creating and managing a custom security group
           topics:
           - custom-security-group.md
@@ -38,15 +38,15 @@ toc:
           - csg_rule.md
           - csg_assign_instances.md
           - csg_edit.md
-    - navgroup:
-       id: reference
-       topics:
-       - sg_api.md
-       - link:
+  - navgroup:
+      id: reference
+      topics:
+      - sg_api.md
+      - link:
           label: Terraform reference
           href: https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/security_group
-       - include: ../infrastructure-hub/ips.md
-    - navgroup:
-       id: help
-       topics:
-       - sg_ts_index.md
+      - include: ../infrastructure-hub/ips.md
+  - navgroup:
+      id: help
+      topics:
+      - sg_ts_index.md
