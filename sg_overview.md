@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2025
-lastupdated: "2025-04-03"
+  years: 2017, 2026
+lastupdated: "2026-04-24"
 
 keywords: overview, logs, audit, features
 
@@ -15,11 +15,10 @@ subcollection: security-groups
 # About IBM security groups
 {: #about-ibm-security-groups}
 
-An {{site.data.keyword.cloud}} security group is a set of IP filter rules that define how to handle incoming (ingress) and
-outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The rules that you add to a security group are known as security group rules.
+An {{site.data.keyword.cloud}} security group is a set of IP filter rules that define how to handle incoming (ingress) and outgoing (egress) traffic to both the public and private interfaces of a virtual server instance. The rules that you add to a security group are known as security group rules.
 {: shortdesc}
 
-* You can assign security groups to the public and/or private network interfaces of a single virtual server or multiple virtual server instances.
+* You can assign security groups to the public and private network interfaces of a single virtual server or multiple virtual server instances.
 * You can assign security groups that are provided by IBM or that you create.
 * When a security group is applied to the network component of a virtual server instance, all traffic to and from that network component is denied, unless explicitly permitted by a security group rule.
 * The inbound traffic to a virtual server instance is referred to as ingress traffic.
@@ -45,14 +44,14 @@ All security group interactions are logged to an account's audit log. The entrie
 * A security group is added to or removed from a virtual server's network interface.
 * A security group's rules are changed by add rule, edit rule, or remove rule.
 
-For each of those interactions, one log is written for each affected object. A log is always written against the security group being changed. Additional logs are written for each virtual server network interface attached to the security group. Filtering audit logs on a specific security group shows all security group related changes for the group. Likewise, filtering logs on a specific virtual server shows all security group related changes for the virtual server.
+For each of those interactions, one log is written for each affected object. A log is always written against the security group that is being changed. Additional logs are written for each virtual server network interface that is attached to the security group. Filtering audit logs on a specific security group shows all security group- related changes for the group. Likewise, filtering logs on a specific virtual server shows all security group- related changes for the virtual server.
 
-Since security group changes can result in a number of virtual servers being updated in the background, audit logs can be used to determine precisely when a change went into effect.  Security group APIs that generate audit logs return a request identifier. That identifier can be used to correlate API calls with their resulting audit logs.
+Since security group changes can result in a number of virtual servers being updated in the background, audit logs can be used to determine precisely when a change went into effect. Security group APIs that generate audit logs return a request identifier. That identifier can be used to correlate API calls with their resulting audit logs.
 
 ## Using a security group as a source or destination
 {: #security-group-source-destination}
 
-When creating rules within a security group, one option is to set a security group as either the source or destination for traffic flow. This essentially does two things. First, it creates a group of IP addresses defined by the servers attached to the specified security group. Secondly, it sets that group of IPs as the source or destination for traffic. This allows you to group servers by function and references that group in a rule. For example, on your account, you can create one security group for all web servers and another for all database servers, defining the security groups by server type. To allow traffic from web servers to database servers, you can then create a rule within the web server security group. setting the destination as the database server security group (with the proper destination port and protocol set within the rule).
+When creating rules within a security group, one option is to set a security group as either the source or destination for traffic flow. This action essentially does two things. First, it creates a group of IP addresses defined by the servers that are attached to the specified security group. Second, it sets that group of IP addresses as the source or destination for traffic. This allows you to group servers by function and reference that group in a rule. For example, on your account, you can create one security group for all web servers and another for all database servers, defining the security groups by server type. To allow traffic from web servers to database servers, you can then create a rule within the web server security group. Setting the destination as the database server security group (with the proper destination port and protocol set within the rule).
 
 Each security group can be referenced as a source or destination within other security groups a default maximum of 5 times total throughout the account.
 
@@ -65,4 +64,4 @@ In the following diagram, virtual server instances are associated with a set of 
 * Only web layer instances can access the application layer instances.
 * Only the application layer instances can access the database layer instances.
 
-![Security group image](images/SecurityGroups.png "Image shows the flow of network traffic with a set of security groups enabled"){: caption="Security group image" caption-side="bottom"}
+![Security group image](images/SecurityGroups.png "The image shows the flow of network traffic with a set of security groups enabled"){: caption="Security group image" caption-side="bottom"}

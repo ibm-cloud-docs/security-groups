@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2024
-lastupdated: "2024-08-02"
+  years: 2017, 2026
+lastupdated: "2026-04-24"
 
 keywords: edit, editing, modify, parameters, rules
 
@@ -15,7 +15,7 @@ subcollection: security-groups
 # Editing a security group
 {: #editing-a-security-group}
 
-After you've created your {{site.data.keyword.cloud}} security groups object, you can modify its parameters and rules. 
+After you create your {{site.data.keyword.cloud}} security groups object, you can modify its parameters and rules.
 {: shortdesc}
 
 ## Editing security group details
