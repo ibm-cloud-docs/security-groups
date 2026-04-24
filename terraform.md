@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2025
-lastupdated: "2025-04-03"
+  years: 2017, 2026
+lastupdated: "2026-04-24"
 
 subcollection: security-groups
 
@@ -13,7 +13,7 @@ subcollection: security-groups
 # Setting up Terraform for security groups
 {: #terraform-setup}
 
-Terraform on {{site.data.keyword.cloud}} enables predictable and consistent provisioning of {{site.data.keyword.cloud_notm}} services so that you can rapidly build complex, multi-tier cloud environments following Infrastructure as Code (IaC) principles. Similar to using the {{site.data.keyword.cloud_notm}} CLI or API and SDKs, you can automate the provisioning, update, and deletion of your security group instances by using HashiCorp Configuration Language (HCL).
+Terraform on {{site.data.keyword.cloud}} enables predictable and consistent provisioning of {{site.data.keyword.cloud_notm}} services so that you can rapidly build complex, multitier cloud environments following Infrastructure as Code (IaC) principles. Similar to using the {{site.data.keyword.cloud_notm}} CLI or API and SDKs, you can automate the provisioning, update, and deletion of your security group instances by using HashiCorp Configuration Language (HCL).
 {: shortdesc}
 
 Looking for a managed Terraform on {{site.data.keyword.cloud}} solution? Try out [{{site.data.keyword.bplong}}](/docs/schematics?topic=schematics-getting-started). With {{site.data.keyword.bpshort}}, you can use the Terraform scripting language that you are familiar with, but you don't have to worry about setting up and maintaining the Terraform command line and the {{site.data.keyword.cloud}} Provider plug-in. {{site.data.keyword.bpshort}} also provides pre-defined Terraform templates that you can easily install from the {{site.data.keyword.cloud}} catalog.
@@ -22,7 +22,7 @@ Looking for a managed Terraform on {{site.data.keyword.cloud}} solution? Try out
 ## Installing Terraform and configuring resources for _service-name_
 {: #install-terraform}
 
-Before you can create an authorization by using Terraform, make sure that you have completed the following:
+Before you can create an authorization by using Terraform, make sure that you have completed the following steps:
 
 * Make sure that you have the required access to create and work with security group resources.
 * Install the Terraform CLI and configure the {{site.data.keyword.cloud_notm}} Provider plug-in for Terraform. For more information, see the tutorial for [Getting started with Terraform on {{site.data.keyword.cloud}}](/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started). The plug-in abstracts the {{site.data.keyword.cloud_notm}} APIs that are used to complete this task.

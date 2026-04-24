@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2019
-lastupdated: "2019-11-14"
+  years: 2017, 2026
+lastupdated: "2026-04-24"
 
 keywords: create, rules, assign, interface, virtual server
 
@@ -40,7 +40,7 @@ To create a security group rule, complete the following steps:
 1. On the Security Groups page, click a security group name to open the Details page and click the **Create rule +** button.
 1. On the Create Rule page, enter all appropriate attributes (such as direction, IP type, protocol, and source/destination information). When finished, click **OK**.
 
-Selecting the optional source or destination fields restrict the new rule so it only applies to traffic to/from the specified source/destination. Source and destination fields can specify either a Classless Inter-Domain Routing (CIDR) block or a security group.
+Selecting the optional source or destination fields restrict the new rule so it applies only to traffic to or from the specified source, destination or both. Source and destination fields can specify either a Classless Inter-Domain Routing (CIDR) block or a security group.
 {: note}
 
 A CIDR block facilitates routing of a block of IP addresses. If you select **CIDR Block** as the type, then you must specify an IP address range.

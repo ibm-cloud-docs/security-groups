@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2024
-lastupdated: "2024-08-02"
+  years: 2017, 2026
+lastupdated: "2026-04-24"
 
 keywords: assign, instance
 
@@ -28,7 +28,7 @@ You can assign {{site.data.keyword.cloud}} security group objects to instances i
 1. Click **Save** to apply the changes.
 1. Restart your instance.
 
-   This is a one-time-only step per network interface for instances not created with a security group.
+   This action is a one-time-only step per network interface for instances that are not created with a security group.
    {: note}
 
 ## Using the Devices menu
@@ -41,10 +41,10 @@ You can assign {{site.data.keyword.cloud}} security group objects to instances i
 1. In the **Security group changes** modal that appears, click **OK** to apply the changes.
 1. Restart the instance.
 
-   This is a one-time-only step per network interface for instances not created with a security group.
+   This action is a one-time-only step per network interface for instances that are not created with a security group.
    {: note}
 
-## Next step
+## Next steps
 {: #next-step-1}
 
-[Edit the security group](/docs/security-groups?topic=security-groups-editing-a-security-group) to modify its parameters.  
+[Edit the security group](/docs/security-groups?topic=security-groups-editing-a-security-group) to modify its parameters.

@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2025
-lastupdated: "2025-06-02"
+  years: 2017, 2026
+lastupdated: "2026-04-24"
 
 keywords: help, support, troubleshoot, contact
 
@@ -28,7 +28,7 @@ If you still can't resolve the problem, you can open a support case. For more in
 ## Providing support case details for {{site.data.keyword.tg_short}}
 {: #support-case-details}
 
-To ensure that the support team has all of the details for investigating your issue to provide a timely resolution, you must provide detailed information about your issue. Provide the following details in your support case for issues with ecurity groups for {{site.data.keyword.BluVirtServers}}:
+To ensure that the support team has all of the details for investigating your issue to provide a timely resolution, you must provide detailed information about your issue. Provide the following details in your support case for issues with security groups for {{site.data.keyword.BluVirtServers}}:
 
 1. Your security group name.
 2. A summary of the rules associated with the security group.
